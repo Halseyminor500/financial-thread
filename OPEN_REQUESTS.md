@@ -70,3 +70,20 @@ This thread still contacts no one. Rows owned by the existing system stay pointe
 G1 records delivery failures only for cityatty@, citymgr@ and citycouncil@; it records no failure for professionalstandards@,
 ddimond@, mstainbrook@ or bhpra@ (CITY_BHPD_management_spiegel.notes.md §2, row A-14). Whether BHPD received the 2/28/2026
 complaint is not shown either way; no reply from any beverlyhills.org address exists. R-2's other text stands.
+
+## Added 2026-11-01 (third wave)
+
+- **R-22.** The 8/6/2025 reporter's transcript (Jonathan Zhang, #14789): "the reasons stated on the record" for "a Proof of Personal Service is not necessary", and what counsel told the court. Holder: the reporter / LASC. Halsey decides whether to order it.
+- **R-23.** The proof-of-service images for 6/3/2025, 6/25/2025, 8/6 and 8/7/2025 (the DVRO papers under the 8/6/2025 order). Holder: LASC file; the firm's served copies.
+- **R-24.** The two 1/27/2026 Petitioner proofs of service for the §271 RFO, and Exhibits A–B of the firm's 2/24/2026 service brief (the "December 30, 2025" proofs). Holder: LASC file; the firm. Settles whether any 12/30/2025 proof was ever filed.
+- **R-25.** The 4/21/2026 transcript (Stephanie Wong, #11117): never ordered. Holder: the reporter.
+- **R-26.** The 1/12/2026 transcript (Thelma Fong, #7986): the reasons for denying the 11/12/2025 RFO. Holder: the reporter.
+- **R-27.** The DVRO minute orders of 8/27, 9/17, 10/8, 10/29, 11/19, 11/25 and 12/10/2025 and 2/11/2026. Holder: LASC. Settles the continuance reasons behind ¶3.A "evading personal service" and whether any admonishment was recorded (¶3.B).
+- **R-28.** Shannon's 11/14/2025 Declaration re Non-Service, pp. 2–7 (SP-0869; drive:12PAPtw2hCDCULZJ0a9bf5kWI2DWlUbmg). Holder: Halsey's Drive. Not yet read.
+- **R-29.** USPS acceptance and scan histories for EH045932903US, RF414716216US, RF414716220US, RF414694440US and LH265470088US. Holder: USPS; the firm's receipts.
+- **R-30.** The firm's native 6/18/2024 email with transport headers and message-ID, and any non-delivery report. Holder: the firm, through the court.
+- **R-31.** The Drive/Workspace activity record for d:1NjfuE3vEXF2DEAw4O4-8qTbg9kZmr2LJ (created 2024-06-28T20:42:28Z). Holder: Halsey as Workspace administrator; Google. Retention unknown.
+- **R-32.** The 9/17/2025 minute order (whose request "Dismissed - TRO-Lack of Prosecution") and the 5/12/2025 order (support, fees, payee; the writs' "Judgment entered on 05/12/2025" line). Holder: LASC.
+- **R-33.** The Court of Appeal docket after the 8/10/2026 referral for dismissal. Holder: the Court of Appeal.
+- **R-34.** A printout of the State Bar's public licensee search for "Kralle" and "Vanmali", run by Halsey (Q-H30). Holder: Halsey. The one check between F-2 of PROFESSIONAL_EVALUATION_v1.md and a document-only submission.
+- **R-35.** Halsey's filed address history: every address on a paper he filed, and any notice of change of address. Holder: LASC file. Settles which address CCP 1013(a) points to.

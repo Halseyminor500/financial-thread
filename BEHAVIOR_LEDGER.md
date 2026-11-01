@@ -2502,3 +2502,19 @@ no professionalstandards@ recipient; PSU wrote that it "did not receive any comp
 
 **Counts after PASS 3.** Entries L-01…L-97: 97. Firm or Spiegel acts: 81 + L-82, L-83, L-84, L-97 (DOCUMENTED) + L-96 (ACCOUNT)
 = 86 (67 DOCUMENTED, 19 ACCOUNT). Record entries (acts or records of others, or tests): L-85 to L-95 = 11.
+
+# CORRECTIONS 2026-11-01 (third block: disclosure accounting, service history, conduct ledger, uploads check)
+
+Additive. Original wording is kept above; each line below states the correction and its source.
+
+| # | Entry | What the ledger said | What the new files show | Source |
+|---|---|---|---|---|
+| 1 | L-13 | "The documents do NOT show: the POS image" | The proof of service of summons is found: FL-115, drive:1rDAtFkRqcF2jhwUmagNLhT6wQOOouwTX; declarant Anna Kralle; address "halsey2005@gmail.com"; "Email with FL-117* sent on 2/13/24 from Beverly Hills, CA". | SERVICE_HISTORY §0.9 item 3 |
+| 2 | L-16 | "the POS images … or what address the verification declaration states" not shown | The 1/8/2025 address verification is found: FL-334, signed "LANCE S. SPIEGEL", "JANUARY 7, 2025", "210 WOODLAND CIRCLE BRISTOL, TN 37620". FL-335 proofs of 1/8 and 1/14/2025 mail to Bristol also read. | SERVICE_HISTORY §0.9 item 4; UPLOADS notes Part 8 N-2, N-3 |
+| 3 | L-21 | thread 19877f1fad1c4529 cited as the exhibit transmittal | That thread holds Halsey's 8/4/2025 letter (gmail:1987804f00adef63, SP-3107). The exhibit thread is 19877883724ab380 (gmail:1987c4fea2f6fa3d, SP-0294). | SERVICE_HISTORY §0.9 item 2 |
+| 4 | L-41 | "Pending: the notice and tentative-ruling emails with their headers" | The court's tentative-ruling email is found: gmail:19db16a2e288c3e7, 2026-04-21T18:58:42Z (11:58 PDT), 91 minutes before the 1:30 PM hearing. The hearing date itself was set on 3/2/2026 (D3) with notice "via eService". | SERVICE_HISTORY §0.9 item 10, §6.3 |
+| 5 | L-49 | "The documents do NOT show: any sending of the papers presented to the court" | The firm emailed courtesy copies of the DVRO papers on 6/24/2025 (two emails; one says "The documents will be formally served on you once received back from the Court.") and on 7/9/2025 ("Per your request"). | PROFESSIONAL_CONDUCT_LEDGER §B-06; SERVICE_HISTORY §0.9 item 8 |
+| 6 | L-54 | "The documents do NOT show: … non-receipt" | A byte-identical copy of the PDD, "2024-6-17 [P] PDD.pdf", has been in Halsey's Drive since 2024-06-28T20:42:28Z (d:1NjfuE3vEXF2DEAw4O4-8qTbg9kZmr2LJ; sha256 be81fce2…03c6). How it got there is not shown (Q-H38; R-31). Halsey's 7/1/2024 email: "whatever it was I was shown" (gmail:1906e73405df236f). | DISCLOSURE_ACCOUNTING §0.2; verified by the orchestrator (Drive metadata) |
+| 7 | "Who the actors are"; L-65/L-66 context | Spiegel-authored emails to Halsey "about 6" | Ten Spiegel-authored messages to Halsey or his counsel are documented (2/1/2024 ×3; 6/17/2024; 11/18/2024; 1/22, 2/6, 2/18/2025 to counsel; 6/23/2025 ×2; 7/14/2025 ×4; 10/8/2025; 10/27/2025). | PROFESSIONAL_CONDUCT_LEDGER Part A |
+| 8 | L-30 (matrix T-29) | "Why the court treated service as untimely is not shown" | Shown: on 3/2/2026 the court counted from "A PROOF OF SERVICE DATED JANUARY 27, 2026. IT DOES INDICATE THAT IT WAS MAILED" and said the hearing was "ABOUT 10, 15 DAYS, CALENDAR DAYS, SHY". The register shows no Petitioner POS between 11/17/2025 and 1/27/2026; the firm's 2/24/2026 brief cites a POS "dated December 30, 2025" (R-24). | SERVICE_HISTORY §0.9 item 5; transcript pp. 9–19 read |
+| 9 | L-74 context (¶3.A) | — | The 8/6/2025 minute order (SP-2065) ordered the DVRO papers served "via email and regular mail at the addresses listed on Respondent's July 14, 2025 Request to Continue Hearing". The 11/4/2025 request was never emailed (L-82). | SERVICE_HISTORY §4.4; verified by the orchestrator |
