@@ -2,6 +2,10 @@
 
 Draft 1 · 2026-11-01 · Spiegel thread · written read-only.
 
+**Corrected 2026-11-01 (assessment run).** The nine findings in ELEMENT_MATRIX §7 were checked against the notes named in
+each and applied in place. Every change is marked "CORRECTED 2026-11-01:" where it was made, and all of them are listed
+in the CORRECTIONS 2026-11-01 block at the end of this file. Entry counts are unchanged.
+
 **Sources.** Every file in `READING_NOTES/` (39 files). Ten of them landed while this draft was being written:
 `BEHAVIOR_g_writs_schwenke_2026`, `WRITS_2026-04-28_and_appeal_notice`, `BEHAVIOR_f_police_contacts`,
 `DECL_2026-03-27_exhibits_A-C`, `SPIEGEL_DECLARATIONS_2025-12`, `BEHAVIOR_c_proofs_of_service`,
@@ -31,6 +35,13 @@ check a quotation; those are marked **(checked at source)**.
 - **AI material is never evidence.** It appears only as "lead: <file>" pointing to a primary document. This covers:
   - 81/81B/81C/63K, Gemini material, and the "Register of Actions — KEY DATES LOCKED" doc;
   - EV-039/045/056/108 and WP-007;
+    - CORRECTED 2026-11-01: EV-108 does not belong in this list. Its register primary is SP-0397
+      (drive:1r_5T4D4v4lwSbCWU1ZpO--6S9y4nRunT): the §271 RFO itself, e-filed 12/30/2025, class COURT, read in full
+      (SPIEGEL_DECLARATIONS §0, File C). SP-0395 (drive:1MZDYigedKUsRAh3inRsw6j8eoooeFFW5) is the firm's original export of
+      the same filing (File B; same text). What is work product is the tracker index's *description* of EV-108
+      (EVIDENCE_INDEX notes, EV-108 block, source lines L3368–L3404). Only that description is a lead. The filing's
+      Exhibit 2 (the Exhibit F log, re-attached) is AI-LEAD content inside a COURT filing. The other ids in this line
+      stand as listed.
   - AI-named files, and census or audit extracts.
 - **Standing note on Exhibit F.** It governs every entry that depends on emails.
   - Exhibit F was an AI-generated log that Halsey filed. It originated as drive:1vXbXc01VyXvch2Ae9-JoVsR1LvFkhjQAdh9b6TfCEos,
@@ -189,7 +200,7 @@ envelope, and on what date — is not documented for any paper. Each entry says 
 | L-70 | 2024-07-17 | Matthew Sirriyeh, cc Spiegel | CORRESPONDENCE | DOCUMENTED | h |
 | L-71 | about 2025-04-16 | Lance Spiegel (as Provinziano's office describes it) | CORRESPONDENCE (third party) | DOCUMENTED | h, f |
 | L-72 | 2025-06-23 19:58Z | Lance Spiegel | CORRESPONDENCE | DOCUMENTED | h |
-| L-73 | 2025-07-14 | Lance Spiegel | CORRESPONDENCE | DOCUMENTED | h |
+| L-73 | 2025-07-14 | Lance Spiegel | CORRESPONDENCE | DOCUMENTED (20:42Z reply); lead (20:53Z reply) — CORRECTED 2026-11-01 | h |
 | L-74 | 2025-12-24 (executed) | Lance Spiegel (declarant) | COURT / SWORN | DOCUMENTED | h, c |
 | L-75 | 2025-12-29 | Lance Spiegel (declarant) | COURT / SWORN | DOCUMENTED | h, e |
 | L-76 | 2025-12-30 | Lance Spiegel (declarant); firm (RFO) | COURT / SWORN | DOCUMENTED | h |
@@ -238,6 +249,12 @@ Context records. These are acts by others and are not counted.
     process."
   - Exhibit C p. 14 of the 3/27/2026 declaration is a Google Legal Support "Delivery Status Notification (Failure)" of
     "Fri, Dec 5, 2025 at 4:29 PM".
+  - CORRECTED 2026-11-01: p. 14 is not a Google delivery failure. It is the Gmail print of Google Legal Support's reply of
+    "Fri, Dec 5, 2025 at 4:29 PM" (gmail:19af06ba182f7aa6, EV-053), printed under its thread's subject line. That subject,
+    "Delivery Status Notification (Failure)", belongs to the thread's first message, gmail:19aeb813a9016750
+    (2025-12-04T22:35:05Z, mailer-daemon): a bounce of mayorandcitycouncil@beverlyhills.com ("returned Null MX"). The
+    bounced address is at beverlyhills.com, not the City's beverlyhills.org. No DSN in thread 19aeb71fdbbceb23 reports a
+    failure to any Google address (GOOGLE_NOTICES §2; DECL_2026-03-27_exhibits_A-C, p. 14 row).
 - **X-05 · 2026-01-09 and 2026-01-12 · Det. Kalé.**
   - His denials are quoted under L-01.
   - gmail:19bb38cf19aec75b (checked at source): "I have submitted a preservation request to Google for those emails
@@ -264,6 +281,18 @@ Context records. These are acts by others and are not counted.
   - Absence test: EV-079 (drive:1IUm-tR81jO1d788zlS80MbuBGxXm4eHp) is a comparison Halsey adopted. Its result, as the
     tracker states it, is "different sets; 15/17 verified" (JURISDICTION_SPLIT Part A, quoting CURRENT_STATE Front 1).
     That is, 15 of its 17 emails are absent from the live account. Lead: EV-108.
+  - CORRECTED 2026-11-01: the "15/17" count is superseded in the tracker's own report. 85_POLICE_REPORT_V3.md, table EX-10
+    (tracker@6f5d8b0, governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/85_POLICE_REPORT_V3.md):
+    - row 21 (L5229) labels "15 verified absent, 2 verified present, 3 undated" as "SUPERSEDED";
+    - row 22 (L5230) gives the current state, verbatim: "17 listed → 12 verified absent, 2 verified present (false
+      positives, disclosed first), 3 undated/untestable", described as "The verified floor of the series."
+    - Read: of the 17 listed emails, 12 are verified absent, 2 are present, and 3 cannot be tested.
+    - Pointer: JURISDICTION_SPLIT notes, reader's observation 2. Both rows were checked at source, read-only, on 2026-11-01.
+    - The comparison itself (EV-079, SP-1410) is WORK-PRODUCT and has not been read. The count remains a comparison Halsey
+      adopted, not a provider record.
+    - "Lead: EV-108" here and below: the words quoted are the tracker index's description of EV-108 (work product), which
+      itself still carries the superseded "15 of its 17". EV-108 is the §271 RFO, a COURT filing (SP-0397). See the
+      CORRECTED line under "How to read this ledger".
 - **Status:** ACCOUNT as to who deleted the emails and as to the date "August 4, 2025". The absence of the emails rests on a
   comparison Halsey adopted, not on a provider record.
   - Pending: Google's server-side records for halsey2005@gmail.com — sessions, IP addresses, devices and deletion events —
@@ -442,6 +471,9 @@ Context records. These are acts by others and are not counted.
 - **Act, in Halsey's words:**
   - His 7/14/2025 letter to Spiegel, item 3 (as quoted in gmail:1980aad41bcc7b22; the original is gmail:1980a06eb3177ce9):
     "The DVRO papers include documents prepared for mediation. Under Evid. Code § 1119(a) & (c) they are inadmissible…"
+    - CORRECTED 2026-11-01: this quotation is a lead only. No thread reader has quoted it at source; its text comes from
+      81B (AI-LEAD) and 85_V3 (WORK-PRODUCT). 1980a06eb3177ce9 is the thread id; as a message it is SP-0276, not read. The
+      message of that thread read at source is gmail:1980a9fa8e91ccd2 (SP-3100; see the CORRECTED line under G-2).
   - His 8/3/2025 email to Snyder (gmail:198717bc1e84199f): "Somehow, Lance paid off my mediator to share all confidential
     emails and conversations I had with them."
   - Lead: 81B B7/C5, census only: "Confidential mediation email Halsey→Jacobson — later attached by Spiegel as TRO "Exhibit
@@ -545,6 +577,20 @@ Context records. These are acts by others and are not counted.
   - Kralle "had twice followed up for the signed Notice and Acknowledgment of Receipt (1/25, 1/31)" (85_V3).
 - **Status:** DOCUMENTED (CORRESPONDENCE).
 - **The documents do NOT show:** a signed acknowledgment returned by Halsey.
+  - CORRECTED 2026-11-01: they do (FIRST_CONVERSATIONS §3, read in full; the register rows lag).
+    - **Returned:** gmail:18e1cfa4c88b36e4 (SP-2835), 2024-03-08T07:32:29Z, halsey2005@ → AnnaK@, lances@, shannonminor@.
+      Body: "Accepted March 7, 11:31 PM Pacific Time". Attachment "FL117 NAR copy.pdf" is the NAR dated "January 25,
+      2024", signed by Halsey, item 5 "March 8, 2024 [8:26 AM Central European Standard Time]".
+    - **Filed:** the same NAR, stamped "Electronically FILED by Superior Court of California, County of Los Angeles
+      3/8/2024 12:24 PM ... By A. Gonzalez, Deputy Clerk" (attachment "2024-03-08 Ntc.Ack.Receipt.Petition.pdf" to
+      gmail:190dcf708ca9607b, SP-0144).
+    - **Effect, in the statute's words:** service of the summons was complete under CCP 415.30(c), "deemed complete on
+      the date a written acknowledgement of receipt of summons is executed, if such acknowledgement thereafter is returned
+      to the sender" (LAW/CCP_service el. 5; matrix C6 el. 5 SHOWN). Both conditions are shown: executed 3/8/2024, and
+      returned the same day.
+    - FL-180 in the signed 8/22/2024 packet (SP-0160): "The court acquired jurisdiction of the respondent on (date): 3/8/24
+      a. [x] The respondent was served with process."
+    - The matrix still records el. 2 (mailing "by first-class mail or airmail") as not shown: both packets went by email.
 - **Bears on:** CCP 415.30 el. 5.
 
 ### L-11 · 2024-02-13 · "Case Inititation Documents" sent by email · (c, e)
@@ -564,6 +610,9 @@ Context records. These are acts by others and are not counted.
 - **Act:** register: "Notice - Acknowledgment of Receipt of Summons & Petition" (Petitioner).
 - **Status:** DOCUMENTED (COURT, register line).
 - **The documents do NOT show:** the form image, or who signed the acknowledgment and when.
+  - CORRECTED 2026-11-01: the form image is in hand twice: as returned (SP-2835 attachment) and as filed (SP-0144
+    attachment, "3/8/2024 12:24 PM"). Halsey signed it, and item 5 dates it "March 8, 2024 [8:26 AM Central European
+    Standard Time]". See the CORRECTED lines under L-10.
 - **Bears on:** CCP 415.30 el. 5.
 
 ### L-13 · 2024-03-20 · proof of service of summons "via Email" · (c, d)
@@ -685,6 +734,9 @@ Context records. These are acts by others and are not counted.
   - Kralle: "No, that was the complete document."
   - Register for 10/14/2025: "Responsive Declaration" (Petitioner).
 - **Status:** DOCUMENTED.
+  - CORRECTED 2026-11-01: the two quotations above, first taken via 85_V3, have since been read at source
+    (ASKS_TO_FIRM_2025_2026 §2c and §5e). Halsey's question is gmail:199e45bc07381dc6, 2025-10-14T20:13:50Z, sent from
+    halsey@vividlabs.com. Kralle's answer is gmail:199e45d488541702 (AnnaK@), 20:15:37Z. Both are verbatim as above.
 - **The documents do NOT show:** a POS.
 
 ### L-24 · 2025-10-28 · Petitioner's ex parte · (c, d)
@@ -770,6 +822,11 @@ Context records. These are acts by others and are not counted.
   - 3/2/2026 minute order (EV-005; drive:1qWjh1R2_NVHh00A2KGn6rDjIa59p9xH5): "The Court finds that service of the
     above-captioned matter has not been effectuated. Accordingly, the RFO/MTN - Quash filed by on December 29, 2025 is
     dismissed."
+    - CORRECTED 2026-11-01: EV-005's primary is SP-0559, drive:1Ts0cxesyYzQTtgfERl22hsJv69Vhetbt, the evidence index's
+      pointer ("Original: Drive 1Ts0cxesyYzQTtgfERl22hsJv69Vhetbt · 94,262 B", EVIDENCE_INDEX notes, EV-005 block). Its
+      preserved byte-exact copy is SP-0565, tracker:governance/evidence/preserved_2026-08-19/EV-005_minute_order_3-2-2026.pdf
+      @6f5d8b0 (sha256 65e7b918…), read in full (COURT_ORDERS notes). The id cited above, drive:1qWjh1R2…, is SP-0560: a
+      same-size copy, metadata-only, not hash-verified. The quotation is unchanged.
   - Register: "3/2/2026 8:30 AM … RFO - Quash — Held - Order Made".
 - **The documents do NOT show:** any POS for the motion itself; none is in the Drive copy.
 
@@ -949,6 +1006,16 @@ Context records. These are acts by others and are not counted.
   - any USPS office name, city or ZIP. The record names only "Estados Unidos de América".
   - The reading note's own limit: "This note is a reader's transcript, which is AI work and so not evidence in itself. An
     evidentiary capture would need a person to save the live page." Halsey decides whether to make one.
+  - CORRECTED 2026-11-01 (status confirmed; caveat kept, and why):
+    - **The record.** The Correos de México tracking page is a third-party provider record (Mexico's postal service). It
+      was read at source on 2026-11-01, at 03:39:18Z and again at 03:40:29Z, with identical results (USPS_tracking notes
+      §3; register SP-3513). The entry stays DOCUMENTED as a third-party provider record.
+    - **The caveat** did not come from elsewhere: it is the reading note's own limit (USPS_tracking notes §5). It is kept
+      because it describes the thread's copy, not the record. What the thread holds is a reader's transcript of a live
+      page, and no saved capture (page file with hash) exists. For use outside this thread, a person must save the live
+      page (matrix c-3; Halsey decides). The transcript is a pointer to the record; the record is Correos's.
+    - **Register class.** The register classes SP-3513 as ACCOUNT. This ledger carries it as a third-party provider record.
+      This run does not edit the register.
 - **Bears on:** PC 118 el. 3–5 and CCP 1013b, but only if this package is matched to a paper whose POS declares a different
   date. No document makes that match.
 
@@ -1430,6 +1497,18 @@ Context records. These are acts by others and are not counted.
 
 ### L-62 · 2026-04-28 · three Writs of Execution issued on the judgment of 5/12/2025 · (g)
 
+- CORRECTED 2026-11-01: "on the judgment of 5/12/2025" in this heading is the EJ-130's own wording. The records differ,
+  and both are stated here without being resolved:
+  - **The writs** print "Judgment entered on (date): 05/12/2025" (item 5; WRITS notes).
+  - **The register** shows:
+    - "10/23/2024 — Judgment" and "10/23/2024 — Notice - Entry of Judgment" (printout B entries 41–42; DOCKET notes
+      L577–578);
+    - on 5/12/2025, "Request for Order re: Modification Hearing — Held - Order Made" and a "Minute Order" (DOCKET notes
+      L117, L629);
+    - writ lines that read "… based on Order 5/12/2025" (below).
+  - Why the EJ-130 gives 05/12/2025 as the date "Judgment entered" is not shown (matrix g-5). Certified copies of the
+    applications and of the 5/12/2025 order would show it (CLK).
+
 - **Act, on the register** — six entries, all filed by Petitioner, verbatim:
   - "Application - Issue Writ E/P/S Los Angeles - $11,000.00 Attorney's Fees based on Order 5/12/2025"
   - "… - $21,857.00 Spousal Support based on Order 5/12/2025"
@@ -1623,7 +1702,16 @@ Context records. These are acts by others and are not counted.
 - **Context:** both answer Halsey's letter of 7/14/2025 (see the guardrails section). Register: 7/14/2025 "Request to
   Continue and Reissue TRO (Form 115)" (Respondent); 7/16/2025 "Restraining Order Hearing — Held - Continued, TRO
   Reissued".
-- **Status:** DOCUMENTED.
+- **Status:** DOCUMENTED as to the 20:42:53Z reply only (gmail:1980aad41bcc7b22, SP-0277). LEAD as to the 20:53:47Z
+  reply (gmail:1980ab73fbfe94e7, SP-0278).
+  - CORRECTED 2026-11-01 (was "DOCUMENTED" for both):
+    - **20:42:53Z, read at source.** "If you request the continuance on Wednesday, there will be no opposition. You are
+      entitled to the continuance pursuant to the statute." (ASKS_TO_FIRM_2025_2026 §3a and TSV row 49; the reply follows
+      Halsey's gmail:1980a9fa8e91ccd2, 2025-07-14T20:28:11Z.)
+    - **20:53:47Z, lead only.** "It has not been granted. …" has not been read at source. Its text was taken from
+      AI-LEAD and work-product transcriptions (81B, 63K, 85_V3).
+    - Reading SP-0278 at source would restore it (matrix h-7; Halsey's mailbox). Entry counts are unchanged, because the
+      20:42:53Z act remains documented.
 
 ### L-74 · 2025-12-24 (executed) · Spiegel's declaration in the Motion for Protective Orders · (h, c)
 
@@ -1633,6 +1721,16 @@ Context records. These are acts by others and are not counted.
   - ¶3.B: "Respondent has engaged in criminal extortion and during multiple court appearances has been admonished by the
     Court for not complying with the Court's directions."
   - "Executed December 24, 2025 at Beverly Hills, California."
+  - CORRECTED 2026-11-01: the execution line is not legible as "24".
+    - **What the page reads.** "Executed December 2[?], 2025 at Beverly Hills, California." The day is handwritten. The
+      first digit is "2". The second glyph "resembles a "4"", but the reader is not certain: "it could be read as "5""
+      (BEHAVIOR_c §2.2, D1 p. 13, image).
+    - **Order of dates, documented.** The same declaration's ¶2 (D1 p. 11, text) reads "On December 26, 2025, Petitioner
+      served Petitioner's Objections to Respondent's Notice of Deposition of Petitioner, Shannon Minor." So the sequence
+      is: execution on 12/24 or 12/25 (either reading), then the service date stated in ¶2 (12/26), then e-filing on
+      12/29/2025 at 2:30 PM. On either reading, the execution date is earlier than the service date the declaration states.
+    - No conclusion is drawn (matrix H1, el. 5: PARTLY). The heading and summary-table date "2025-12-24" should be read
+      as "2025-12-2[4 or 5]".
 - **Status:** DOCUMENTED (COURT / SWORN).
 - **The documents do NOT show:**
   - any DVRO proof of service or non-service return (SVL U4: "no DVRO POS/non-service return is in the corpus");
@@ -1677,6 +1775,13 @@ Context records. These are acts by others and are not counted.
 
 ### L-76 · 2025-12-30 · the §271 sanctions RFO and Spiegel's declaration ¶2 · (h)
 
+- CORRECTED 2026-11-01: this filing is EV-108.
+  - Register primary: SP-0397 (drive:1r_5T4D4v4lwSbCWU1ZpO--6S9y4nRunT, "File C", a PDFium re-save), class COURT, read in
+    full.
+  - drive:1MZDYige…, cited below, is SP-0395: the firm's original export of the same filing (DUPLICATE of SP-0397, same
+    text; SPIEGEL_DECLARATIONS §0).
+  - EV-108 is not AI material (see the CORRECTED line under "How to read this ledger"). Only its Exhibit 2, the Exhibit F
+    log as re-attached, is AI-LEAD content.
 - **Act** (drive:1MZDYigedKUsRAh3inRsw6j8eoooeFFW5; "Executed December 30, 2025 at Los Angeles, California"):
   - Heading: "I. THE ALLEGATIONS AND EXHIBITS INCLUDED IN RESPONDENT'S DECLARATION FILED OCTOBER 31, 2025 INCLUDED FALSE
     STATEMENTS AND FALSIFIED EXHIBITS".
@@ -1740,6 +1845,17 @@ characterization. The statutes and their elements are in `LAW/VERIFIED_AT_SOURCE
   - Item 5: "If the 529 is not re-titled within 20 days, I will instruct civil counsel…"
   - Proposal: "1. Withdraw the current DVRO… If these steps are completed, I will waive any civil-damages claim related to
     the 529 loss".
+  - CORRECTED 2026-11-01: which words were read at source, and which are lead only.
+    - **Read at source.** These sentences are in gmail:1980a9fa8e91ccd2 (SP-3100), 2025-07-14T20:28:11Z, Halsey →
+      lances@, thread 1980a06eb3177ce9 (ASKS_TO_FIRM_2025_2026, TSV row 49): "Withdraw the current DVRO." / "Stipulate
+      that neither party will seek a new protective order absent new facts or direct contact in California." / "Mediate
+      the remaining financial issues within 45 days." / "Please advise by July 21st 2025 whether Ms. Minor will accept
+      this resolution."
+    - **Lead only.** Item 4 ("Felony complaints for grand theft …"), item 5 ("If the 529 is not re-titled within 20 days,
+      I will instruct civil counsel…") and "If these steps are completed, I will waive any civil-damages claim related to
+      the 529 loss". No thread reader has quoted these at source; the text comes from 85_V3 (WORK-PRODUCT) and 81B
+      (AI-LEAD).
+    - 1980a06eb3177ce9 as a message is SP-0276, not read. Reading it, and items 4–5 at source, is matrix h-7.
 - **G-3 · 2026-01-05 · notice sent to the firm,** subject "FORMAL NOTICE: Criminal Spoliation of Evidence, Internal Leakage,
   and Demand for Preservation" (gmail:19b8f1dd4d7a670c, per 85_V3 B-29; not opened by this ledger).
 - **G-4 · 2026-02-25T01:20:51Z · accusation to the City and BHPD, also addressed to lances@ysfamilylaw.com and
@@ -1935,3 +2051,27 @@ who holds that document.
 19. **A firm named "Yanez & Sherman"** (CANON §3.1, AI-LEAD). It is false per F-18, and no document shows such a firm.
 20. **Who changed the halsey2005@gmail.com password on 2022-09-14** (X-01). The index records it as "unexplained".
     - Settled by: Google's account activity for that date. Held by: Google.
+
+---
+
+# CORRECTIONS 2026-11-01
+
+These are the nine findings of ELEMENT_MATRIX §7, each checked against the notes named before anything was changed. Every
+change is additive: a dated "CORRECTED 2026-11-01:" line sits under the text it corrects, and the original wording is
+kept. One status line changed (L-73). Entry counts are unchanged.
+
+| # | Entry | What the ledger said | What changed | Verified against |
+|---|---|---|---|---|
+| 1 | L-10, L-12 | No signed acknowledgment is shown; "who signed the acknowledgment and when" not shown | Recorded: Halsey returned the signed NAR on 2024-03-08T07:32:29Z ("Accepted March 7, 11:31 PM Pacific Time"; item 5 "March 8, 2024 [8:26 AM Central European Standard Time]"). It was filed "3/8/2024 12:24 PM". Service of the summons was complete under CCP 415.30(c) (el. 5). FL-180: jurisdiction acquired "3/8/24". El. 2 (mailing) is still not shown. | FIRST_CONVERSATIONS §3 (18e1cfa4c88b36e4; 190dcf708ca9607b attachment); SP-2835, SP-0144, SP-0160 |
+| 2 | L-01 | "15/17 verified … 15 of its 17 emails are absent" | Replaced by the tracker's current count: "17 listed → 12 verified absent, 2 verified present (false positives, disclosed first), 3 undated/untestable" (85_V3 EX-10 row 22, L5230). Row 21 (L5229) marks 15/2/3 "SUPERSEDED". Still a comparison Halsey adopted (EV-079, WORK-PRODUCT, not read). | JURISDICTION_SPLIT notes, observation 2; checked at source in tracker@6f5d8b0 (read-only) |
+| 3 | L-62 | Heading: "issued on the judgment of 5/12/2025" | Both records stated, not resolved: EJ-130 "Judgment entered on (date): 05/12/2025"; register "10/23/2024 — Judgment" and "Notice - Entry of Judgment"; 5/12/2025 "Request for Order re: Modification Hearing — Held - Order Made"; writ lines "based on Order 5/12/2025". | WRITS notes; DOCKET notes L117, L577–578, L629, L435–440 |
+| 4 | L-74 | "Executed December 24, 2025" given as verbatim | Corrected to "Executed December 2[?], 2025" (handwritten; "4" or "5"). Order of dates recorded: execution 12/24 or 12/25, then ¶2's stated service date "On December 26, 2025", then filing 12/29/2025 2:30 PM. | BEHAVIOR_c §2.2 (D1 pp. 11, 13) |
+| 5 | How to read; L-01; L-76 | EV-108 listed as AI material; "Lead: EV-108" | EV-108's register primary SP-0397 is the §271 RFO itself (COURT, read in full); SP-0395 is the firm's original export. Only the tracker index's description of EV-108 is work product, and only Exhibit 2 inside it is AI-LEAD content. L-76 is labelled as EV-108. | EVIDENCE_REGISTER rows SP-0395, SP-0397; SPIEGEL_DECLARATIONS §0; EVIDENCE_INDEX notes EV-108 block |
+| 6 | L-73; G-2 (also L-09, L-23) | L-73 DOCUMENTED for both replies; G-2 and L-09 quoted verbatim | L-73: DOCUMENTED for 20:42:53Z (SP-0277, read at source); LEAD for 20:53:47Z (SP-0278, not read at source). G-2: four proposal sentences read at source (SP-3100); items 4–5 and the waiver sentence are lead only. L-09's item-3 quotation is lead only. L-23's two quotations are now read at source (no status change). | ASKS_TO_FIRM_2025_2026 §2c, §3a, §5e; TSV row 49; register SP-0276–0278, SP-3100 |
+| 7 | L-81 | DOCUMENTED, with the note's caveat "not evidence in itself" | Status confirmed: the Correos record is a third-party provider record read at source twice (03:39:18Z, 03:40:29Z). The caveat came from the reading note itself (§5), not from elsewhere. It is kept because it concerns the thread's transcript, not the record; no saved capture exists (c-3). The register's class for SP-3513 (ACCOUNT) is noted, not changed. | USPS_tracking notes §§3, 5; register SP-3513 |
+| 8 | X-04 | Exhibit C p. 14 is a Google Legal Support "Delivery Status Notification (Failure)" | Corrected: p. 14 is Google Legal's 12/5/2025 reply printed under its thread's subject. The DSN is the thread's first message, a bounce of mayorandcitycouncil@beverlyhills.com ("returned Null MX"). No DSN reports a failure to a Google address. | GOOGLE_NOTICES §2; DECL_2026-03-27_exhibits_A-C p. 14 |
+| 9 | L-29 | EV-005 cited as drive:1qWjh1R2… | EV-005's primary is SP-0559 (drive:1Ts0cxesyYzQTtgfERl22hsJv69Vhetbt, the index pointer). Its preserved copy is SP-0565 (tracker, sha256 65e7b918…, read in full). drive:1qWjh1R2… is SP-0560, a same-size copy, metadata-only. | EVIDENCE_REGISTER rows SP-0559, SP-0560, SP-0565; EVIDENCE_INDEX notes EV-005; COURT_ORDERS notes |
+
+Not changed by this run: EVIDENCE_REGISTER.tsv. That file is outside the files this run may write. The register lags
+listed in ELEMENT_MATRIX Appendix A stand: SP-2835, SP-0144 and SP-0379 are marked "metadata-only" or "not-read",
+although the notes record full reads. SP-3513 is classed ACCOUNT.

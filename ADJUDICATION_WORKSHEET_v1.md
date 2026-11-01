@@ -50,4 +50,30 @@ Verdict-dependent rows (W-V) are added from ASSESSMENT_v1 in the same run.
 | W-M1 | The minorventures.com mailbox: does it still exist; will you export June 2024 | Decides whether the 6/18/2024 disclosure email can be shown received or not received |
 
 ## H. Verdict-dependent decisions
-PENDING ASSESSMENT_v1 (added in the same run as W-V rows: for each behavior, report / court-first / hold / drop, and where).
+Added 2026-11-01 from ASSESSMENT_v1. One row per behavior. Each row records a decision only you can make: report,
+court-first motion, hold, or drop. This thread does none of them.
+
+**The collision gate.** Before any destination is used, W-C1 must be chosen (COLLISION_GATE.md):
+- (a) a route the existing routines do not read;
+- (b) a carve-out you instruct in the Front 4 session yourself;
+- (c) accepting the overlap knowingly.
+
+COLLISION_GATE.md calls these three options W-C1–W-C3; this worksheet calls them W-C1(a)–(c).
+
+What the routines see:
+- **Court filings in 24STFL00432:** "Case mail read" and the 24STFL00432 monitor both see courts.ca.gov notices. That is
+  expected for a court filing.
+- **beverlyhills.org and da.lacounty.gov:** replies would be filed into the Shannon work, published, and may be answered
+  in your voice.
+- **calbar.ca.gov:** read by no routine found.
+
+| # | Behavior · verdict | Decision only you can make | Forum, if any | Collision gate (W-C1) | Guardrail it touches |
+|---|---|---|---|---|---|
+| W-V-a | (a) WAITING ON EXHIBIT F / INSUFFICIENT | **Hold.** First decide W-F1 (export the Workspace Drive audit log now, before retention runs) and W-F2 (whether to engage a neutral examiner, and through whom). No report until the log or Google's records show an actor. | None yet. If the log shows a session that was not yours: the police agency where the access occurred (LAPD, BHPD or LASD; PEN 502(j)); JSID if an attorney is shown. IC3: federal, note only. | Required before any report. A report to BHPD or the DA would have its replies read by "Case mail read" and filed into the Shannon work. Google legal process would come through the civil process (D-66), where court notices are expected. | W-G1; W-G2; W-F4 (your two sworn accounts of Exhibit F, with counsel) |
+| W-V-b | (b) INSUFFICIENT (any email-based part waits on Exhibit F) | **Hold or drop.** Name a filing if one exists (Q-H3). | None. The mediation-material question belongs to the family court. | Not reached until a destination exists. | W-G1 |
+| W-V-c | (c)-1 INSUFFICIENT; (c)-2 COURT-FIRST | (c)-1: **hold** until the envelopes are matched to the POS (W-E1, Q-H4). (c)-2: **court-first motion or hold**: the appeal, if alive (W-A1), or a family-court motion with counsel (W-A2). | The family court (24STFL00432). The State Bar only with written findings. If ever documented: BHPD (where the POS were signed) or LAPD Central (where they were filed); JSID; USPIS as a federal note only. | Court filing: expected. Any police or DA destination needs W-C1 first. | W-G2 (no reference to any report in the motion; compare G-x3); W-E2 (Exhibit B years) |
+| W-V-d | (d) COURT-FIRST | **Court-first motion or drop.** | The family court. Not a police matter. | Court filing: expected. | W-G2 |
+| W-V-e | (e)-1, (e)-2 COURT-FIRST | **Court-first motion or hold.** The motions are Fam. Code § 2107, and § 2122(b) or (f), brought within one year of discovery (Q-H12). With counsel, decide how your FL-144 of 8/22/2024 (item 2.a, a sworn representation that the preliminary declarations were "completed and exchanged") is addressed. | The family court. The State Bar only on a written finding. | Court filing: expected. | W-G2 (keep the disclosure asks inside the court process, with no mention of any report; matrix §5.3 item 5) |
+| W-V-f | (f) INSUFFICIENT | **Hold.** Wait for the City's PRA answers (R-6, owned by Front 4; next update by 6 Nov 2026). Decide whether to order Exhibits 18–19 by certified copy. | None yet. If ever documented: JSID ("including attorneys … and law enforcement personnel"). | BHPD replies already go to Front 4 (beverlyhills.org; justfoia.com). This thread acts on none of them. | W-G1 |
+| W-V-g | (g) DROP as a police matter | **Drop from this thread, or not.** Confirm that the levy questions go to the civil/financial process (W-S2). Open and save Ally's 9/4/2026 message before 2026-12-03 (W-S1). Carry the date notes by your own hand (W-D1). | The civil/financial process; the issuing court for the writs. Regulators per the jurisdiction file (Federal Reserve; CFPB; Utah DFI): not police. | No destination for this thread. The Ally and LASD rows belong to the financial thread. | W-G2 (no report linked to the levy or to any support position) |
+| W-V-h | (h)-1 COURT-FIRST; (h)-2 DROP; (h)-3 INSUFFICIENT | (h)-1: **court-first or hold**: the trial at which the §271 amount is reserved, or a motion, with counsel. (h)-2: **drop**. (h)-3: **hold** for the firm's fee ledger through the civil process. | The family court first; then the State Bar with written findings. If ever documented: LAPD Central or BHPD, by place; JSID. | Court filing: expected. calbar.ca.gov is read by no routine found. | W-G1; W-G2. ASSESSMENT §D: Spiegel's 2025-06-23 "Criminal Extortion" email, and ¶3.B of his December 2025 declaration, are why these matter. |

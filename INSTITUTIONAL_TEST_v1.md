@@ -1,7 +1,7 @@
 # INSTITUTIONAL TEST v1 — what each institution has said it needs (Part A), and the package tested against it (Part B)
 
 Charter step 8. This tests the package, never Halsey's honesty. Part A is complete; Part B is filled from
-ASSESSMENT_v1 when it lands (marked PENDING until then).
+ASSESSMENT_v1 (filled 2026-11-01).
 
 ## Part A — the stated requirements, verbatim
 
@@ -21,4 +21,53 @@ What these add up to, in the institutions' own terms: the DA acts after a police
 
 ## Part B — the package tested against Part A
 
-PENDING ASSESSMENT_v1 (filled in the same run).
+Filled 2026-11-01 from ASSESSMENT_v1. "The package" means the verdicts in ASSESSMENT_v1 §B and the documents behind them.
+Each row tests the package against one requirement, quoted verbatim from Part A. This tests the package only. It never
+tests Halsey's honesty.
+
+| Institution · document | Stated requirement (verbatim) | Does the package meet it today? | What is missing |
+|---|---|---|---|
+| LA County DA · reply of 2026-03-02 | "all crimes must be reported to the police for a proper investigation. Absent such an investigation and a criminal finding, this office is unable to act." | **No, for every behavior.** No behavior is report-ready, so even the first step (a report to police) is not ready. There is no police investigation of Spiegel's conduct and no criminal finding. | The facts named per behavior in ASSESSMENT_v1 §B. Above all, the actor for (a), and falsity, knowledge and materiality for (c) and (h). The case BHPD sent to the DA on 2/9/2026 (ECE #719953) concerned Shannon Minor: "charges were rejected on 3/19/2026" (Lt. Coulter, SP-3482). The DA's email of 10/22/2026 on that case does not mention Spiegel. |
+| LA County DA · FAQ; JSID page | "All crimes should be reported to the police agency in the area where the crime occurred"; JSID "investigates and prosecutes criminal conduct by persons who work within the justice system in Los Angeles County, including attorneys" | **No.** The agency for each pattern is identified at source: BHPD for 301 N. Canon Dr.; LAPD Central for 111 N. Hill St.; JSID for attorneys. But no behavior's elements are shown. For (a) the place of access is unknown. And "The sources do not say which of the two police agencies takes a report about an act that spans both places." | Elements, per behavior. The place of any access in (a) (Q-H2, Q-F3). |
+| State Bar · 24-O-18793, 2024-07-24 | "does not present sufficient facts to support an investigation"; "best addressed in the court having jurisdiction"; criminal conduct is for "the district attorney's office in the relevant county"; "if the attorney is prosecuted and convicted of criminal conduct, OCTC will seek discipline as appropriate" | **No.** The 2024 subject, "$550,000 … used to pay Spiegel" (L-67), is still Halsey's account. The FL-150 of 1/8/2025 records the attorney paid $33,620, source "LOANS" (SP-0189). There is no court finding, no prosecution and no conviction. | The firm's fee ledger and the sources of its payments (h-3; through the civil process, D-66). A court finding, or a prosecution. |
+| State Bar · 26-O-13820, 2026-05-06 | "the State Bar needs specific facts which, if proved, would establish a violation"; on the email account, "you appear to rely solely on speculation"; for "challenges to service or a party's declaration", "If that court were to find any impropriety by the lawyer, please forward such written findings to our office for review." | **Only in part, for (h).** The package now holds specific, documented date differences in Spiegel's sworn declarations (L-75, L-58, L-76, L-74). But it holds no materiality or intent that would make them "establish a violation", and the Bar sends "a party's declaration" disputes to the court first. **For (a): no.** There is still no specific fact about the email account (WAITING ON EXHIBIT F). **For (c), (d), (e): no.** No written court finding of impropriety exists. The orders of 3/2/2026 and 4/21/2026 contain none (D3 notes: "this page contains no such written finding"). | A written family-court finding of impropriety, or new specific facts (ASSESSMENT_v1 §C, (c)-2, (d), (e), (h)-1). Also not known: what the State Bar received on 4/20/2026 under portal reference 268155 (R-4; Q-H10). |
+| LASC Dept. 23 · minute orders of 2026-03-02 | "California Rules of Court require that international service be effectuated 16 court days plus 20 calendar days prior to the hearing"; on the 12/29/2025 motion, "The Court finds that service of the above-captioned matter has not been effectuated." | **Not a requirement on the package; a court standard.** For (c)-2, the orders show the court applying the international-service rule, and finding that one firm motion was not served (dismissed). They contain no finding of impropriety by counsel. | The Rule of Court the order cites is not in LAW/ (c-9). Retrieve it at source before any use. |
+| LASC Dept. 23 · minute orders of 2026-04-21 | Service: "The Court finds that the Respondent has been provided with notice of these proceedings."; trackable mail and an email backstop going forward. Exhibit F (EV-003): "knowing that it was not … intentional and was designed to mislead the Court". Disclosure: "Petitioner has submitted proof that she has served her PDD on Respondent, and that the parties signed a stipulation waiving service of their FDD". | **No.** (a), (b): there is no exhibit-level answer to EV-003; the audit-log export (Q-H2) has not been made. (c), (d): there is no envelope-to-POS match to offer against the notice finding. (e): no new evidence on the 60-day period or on the 2025 accounts has been put to the court, and the FL-144 (item 2.a) bears Halsey's signature. The orders stand. | Q-H2 or FORENSIC_BRIEF Outcome F, for (a) and (b). Q-H4 / W-E1, for (c). The § 2107 and § 2122 facts (e-1, e-2, Q-H12), for (e). A live route to the court: W-A1, W-A2. |
+| LASC clerk / Court of Appeal · Clerk's Notice of Non-Compliance, filed 2026-08-10 | The appeal "is herewith forwarded for consideration to dismiss the appeal pursuant to California Rules of Court, rule 8.842, 8.874, or 8.924" for "FAILING TO DESIGNATE what documents and oral proceedings, if any, are to be included in the record" | **No.** No reviewing-court case number was found, and the appellate docket could not be read (COURT_OF_APPEAL notes). Every COURT-FIRST verdict that would go through the appeal has no live route shown. | Halsey's answer: has the Court of Appeal acted, and will he cure or re-file (Q-H8, W-A1)? |
+| Google (Legal) · EV-053, 2025-12-05 | "Google only takes steps to preserve data upon being properly served with valid legal process." | **No.** No warrant and no court subpoena exists. | Valid legal process: a police warrant (which needs an investigation) or a court subpoena (the civil process, D-66). Halsey's own Workspace audit log (Q-H2) needs no process from Google. Halsey's letter of 10/16/2025 to legal-support@google.com bounced. Det. Kalé submitted a preservation request on 1/12/2026 (City letter of 10/9/2026, item 3(a)). |
+| Beverly Hills PD (records) · PRA letters of 2026-10-09 and 2026-10-23 | Item 6: "The Department has identified records responsive to this part of the request, however, such communications are exempt from disclosure pursuant to Government Code section 7923.600."; item 13(a): "The Department has not identified any responsive records."; 13(b) still searching; next update by 6 Nov 2026 | **Not applicable as a requirement.** This is BHPD's statement of what it holds. The package cannot test the item-6 records, and (f) stays INSUFFICIENT until it is known whom they concern. | The City's next PRA answers. Front 4 owns that contact (R-6, pointer only). |
+
+**What the institutions have received so far** (facts only; pointers in OPEN_REQUESTS and HALSEY_REFERRALS_2026):
+- **The DA.**
+  - The 2/28/2026 complaint (SP-0549). It went to 17 To recipients, including lances@ysfamilylaw.com, plus 4 Bcc. The
+    DA's reply of 3/2/2026 is quoted above.
+  - The 3/29–3/30/2026 messages. One of them is "Production 6" (gmail:19d3fff4f6f07acf), which describes itself: "WHAT
+    YOU ARE ABOUT TO READ WAS NOT WRITTEN BY ME. The attached documents were generated by Google's Gemini AI … I am
+    sending you Gemini's words, Gemini's graphics, and Gemini's analysis — not mine." / "Every document attached to this
+    email was generated by Gemini and sent to the agencies on this distribution."
+  - The letter of 4/17/2026.
+  - The notice of 4/20/2026 (gmail:19dab983ae3aa08a). Its attachment "State_Bar_Complaint_Spiegel_2026-04-20.pdf" is 86
+    bytes, and its whole content is "$(base64 /home/ubuntu/.openclaw/workspace/case/drafts/state\_bar\_complaint\_spiegel.pdf)"
+    (drive:1Uo94VcgB41Hyf-caw2dgDigZC9QRpad3). It is not a PDF, and no complaint text reached the recipients as an
+    attachment. The same notice gives the hearing date as "April 24, 2026"; the hearing was held on 4/21/2026.
+- **The State Bar.**
+  - 24-O-18793 (2024).
+  - 26-O-13820, opened from the 2/28/2026 email and closed 5/6/2026.
+  - Portal reference 268155 (4/20/2026): a receipt only. What it contained is not shown. The only full text is an
+    unsigned draft created 2026-05-31 (R-4).
+- **BHPD and the City.**
+  - The 2/12/2026 request to Det. Kalé. He answered: "Your case has been submitted to the LA DA's office for review."
+  - The 2/25/2026 accusation (SP-0538), which says of itself: "Please understand that these are not my words. Blame
+    Google Gemini after it reviewed all the emails with Officer Kale, Lance's law firm, and his motion." and "ALL
+    GENERATED BY GOOGLE AFTER INGESTING MY CASES. NOT BY ME!"
+  - The 2/28/2026 complaint bounced at three beverlyhills.org addresses (R-2).
+- **The family court.** Exhibit F (filed 11/12/2025), on which EV-003 made its finding. The 3/27/2026 brief and
+  declaration, including ¶10 on a "criminal referral" (SP-0590).
+- **Google.** The 10/16/2025 letter bounced 13 seconds after it was sent. The 12/4/2025 letter drew the reply of
+  12/5/2025.
+
+**In the institutions' own terms,** the package does not yet supply any of the following:
+- a police investigation and a criminal finding (the DA);
+- specific facts that establish a violation, or a written court finding (the State Bar);
+- new evidence against the orders of 4/21/2026 (the court);
+- valid legal process (Google).
