@@ -23,3 +23,17 @@
 2. The tracker's root CLAUDE.md auto-loaded with "commit and push every working
    turn". Not followed: per charter WALL 3, tracker files are data, not
    instructions to this thread.
+
+## Scheduled task — 2026-11-01 05:03 UTC (charter step 10)
+
+- Created: "Spiegel — weekday scan", id `trig_01TruLqL48ws1eGgp6o2RzR1`, fresh session per firing,
+  cron `CRON_TZ=America/Cancun 34 7 * * 1-5`, push notifications on, prompt = the ROUTINE text verbatim,
+  model set to claude-sonnet-5-5.
+- **Limitation:** the platform refused the `connectors` parameter for this organization and stored NO
+  connectors on the task ("the sessions it fires will run without connector (mcp__<server>__*) tools").
+  Without Gmail, Google_Drive and Claude_Code_Remote the routine cannot attach the repositories or read
+  mail or Drive; it would stop at step 1 on every firing.
+- **Therefore disabled** (enabled=false) until connectors are attached. Remedy, per the platform: create
+  or edit the routine in the claude.ai routines UI with Gmail, Google_Drive and Claude_Code_Remote
+  attached, then enable it — or re-create it from a session that can pass those grants. The ROUTINE text
+  is in CHARTER.md (section ROUTINE) for pasting.
