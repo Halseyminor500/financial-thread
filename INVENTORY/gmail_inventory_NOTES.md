@@ -145,3 +145,131 @@ One line per message. Flagged attachment names follow the colon. Format: pointer
 - `gmail:msg:19dea47680f034f7 thread:19dea47680f034f7` (2026-05-02T20:00:41Z | D): Exhibit_1_Officer_Kale_Forensic_Report.pdf; Exhibit_4_Lance_Criminal_Evidence_Analysis.html; Exhibit_7a_Gemini_Collusion_Analysis.jpg; Exhibit_7b_Gemini_Analysis_2.jpg; Exhibit_7c_Gemini_Analysis_3.jpg
 - `gmail:msg:19dff13fd9dd8b9b thread:19dff13fd9dd8b9b` (2026-05-06T20:56:00Z | D): Digital_Forensic_Dossier Older I think.pdf
 - `gmail:msg:19dff2cfa242d6ac thread:19dff18b2aa86646` (2026-05-06T21:23:50Z | D): Officer_Kale_Report_Footnoted_v2 2.pdf
+
+## Continuation: bucket A (message-level, all windows) and bucket E (Feb-May 2026)
+
+Scope as narrowed by the coordinator: bucket A only, and bucket E as `in:sent after:2026/02/01 before:2026/06/01 (Spiegel OR ysfamilylaw OR "Lance")`. Gmail use was read-only (search_threads, get_thread METADATA_ONLY). No body text was read or written. Writes went only to this folder.
+
+### Method
+
+- A query: `(from:ysfamilylaw.com OR to:ysfamilylaw.com OR cc:ysfamilylaw.com)`, calendar-month windows from 2024/01/01 through before:2026/11/02, includeTrash true, pageSize 50. Any window at the 50 cap was split into 1st-15th and 16th-end.
+- E query: the query above, monthly windows (Feb, Mar, Apr, May 2026). March hit the 50 cap (estimate 64) and was split into 03/01-03/15 and 03/16-03/31; both halves are complete.
+- Thread membership for 2025-12 through 2026-05 and all E windows was re-listed with THREAD_VIEW_IDS_ONLY. The query and window were unchanged, and the counts matched the METADATA_ONLY counts logged earlier.
+- METADATA_ONLY previews carry no date or label fields, so every returned thread was fetched with get_thread METADATA_ONLY. 210 threads in total: 39 A-only, 159 E-only, 12 in both.
+- A rule (message level): a message is an A row when its sender, To or Cc header contains ysfamilylaw.com and its date falls between 2024-01-01 and 2026-11-01. Bcc is not used. Gmail returned some threads only because a firm address appears in Bcc; those messages are not A rows and are listed in the flags below.
+- E rule: a message with the SENT label, dated inside a window, in a thread that the same window's query returned. A SENT message in a thread returned only by a different window is not included.
+- E superset caveat: body-term matches (Spiegel, Lance) cannot be checked from metadata. E rows are therefore every SENT message in the returned threads within the window, which is a superset of the query's hits.
+- Dates are the UTC dates from Gmail. One February E message (19c171a6e277bd30, 2026-02-01T02:48:52Z) is January 31 in US Pacific time; it is kept as February because its thread was returned by the February query.
+- A windows: rows keep the message's own header values. For METADATA_ONLY-sourced rows, subject and attachments are "(not fetched)".
+- Existing rows already in the TSV keep their values; only the bucket letters were merged (alphabetical, comma-joined). New rows were added for message IDs not already present.
+
+### Per-window table: bucket A
+
+| Window | Query range | Threads returned | Complete |
+|---|---|---|---|
+| 2024-01 | 2024/01/01-2024/02/01 | 1 | yes |
+| 2024-02 | 2024/02/01-2024/03/01 | 14 | yes |
+| 2024-03 | 2024/03/01-2024/04/01 | 3 | yes |
+| 2024-04 | 2024/04/01-2024/05/01 | 1 | yes |
+| 2024-05 | 2024/05/01-2024/06/01 | 3 | yes |
+| 2024-06 | 2024/06/01-2024/07/01 | 3 | yes |
+| 2024-07 | 2024/07/01-2024/08/01 | 11 | yes |
+| 2024-08 | 2024/08/01-2024/09/01 | 6 | yes |
+| 2024-09 | 2024/09/01-2024/10/01 | 5 | yes |
+| 2024-10 | 2024/10/01-2024/11/01 | 13 | yes |
+| 2024-11 | 2024/11/01-2024/12/01 | 1 | yes |
+| 2024-12 | 2024/12/01-2025/01/01 | 3 | yes |
+| 2025-01 | 2025/01/01-2025/02/01 | 5 | yes |
+| 2025-02 | 2025/02/01-2025/03/01 | 11 | yes |
+| 2025-03 | 2025/03/01-2025/04/01 | 12 | yes |
+| 2025-04 | 2025/04/01-2025/05/01 | 3 | yes |
+| 2025-05 | 2025/05/01-2025/06/01 | 0 | yes |
+| 2025-06 | 2025/06/01-2025/07/01 | 18 | yes |
+| 2025-07 | 2025/07/01-2025/08/01 | 6 | yes |
+| 2025-08 | 2025/08/01-2025/09/01 | 15 | yes |
+| 2025-09 | 2025/09/01-2025/10/01 | 1 | yes |
+| 2025-10 | 2025/10/01-2025/11/01 | 11 | yes |
+| 2025-11 | 2025/11/01-2025/12/01 | 12 | yes |
+| 2025-12 | 2025/12/01-2026/01/01 | 9 | yes |
+| 2026-01 | 2026/01/01-2026/02/01 | 13 | yes |
+| 2026-02 | 2026/02/01-2026/03/01 | 13 | yes |
+| 2026-03 | 2026/03/01-2026/04/01 | 3 | yes |
+| 2026-04 | 2026/04/01-2026/05/01 | 4 | yes |
+| 2026-05 | 2026/05/01-2026/06/01 | 3 | yes |
+| 2026-06 | 2026/06/01-2026/07/01 | 1 | yes |
+| 2026-07 | 2026/07/01-2026/08/01 | 4 | yes |
+| 2026-08 | 2026/08/01-2026/09/01 | 4 | yes |
+| 2026-09 | 2026/09/01-2026/10/01 | 0 | yes |
+| 2026-10 | 2026/10/01-2026/11/01 | 0 | yes |
+| 2026-11-01 | 2026/11/01-2026/11/02 | 0 | yes |
+
+A windows total (sum of per-window counts; a thread can appear in two months): 212. Distinct A-window threads: 51 in the 2025-12 to 2026-08 range fetched in this continuation; earlier windows were transcribed previously.
+
+### Per-window table: bucket E
+
+| Window | Query range | Threads returned | Complete |
+|---|---|---|---|
+| E-2026-02 | 2026/02/01-2026/03/01 | 47 | yes |
+| E-2026-03 | 2026/03/01-2026/04/01 (full month, first call) | 50 | no (cap; split below) |
+| E-2026-03a | 2026/03/01-2026/03/16 | 21 | yes |
+| E-2026-03b | 2026/03/16-2026/04/01 | 43 | yes |
+| E-2026-04 | 2026/04/01-2026/05/01 | 37 | yes |
+| E-2026-05 | 2026/05/01-2026/06/01 | 32 | yes |
+
+March halves: 21 + 43 = 64 returned, 63 distinct threads (19c66cb256ed6d7d is in both halves).
+
+### Totals
+
+- TSV rows: 211 before, 874 after (663 new rows added; no duplicate pointers or message IDs).
+- A letter: 420 rows total, 405 new rows and 15 existing rows that gained A. By year: 2024 = 123, 2025 = 227, 2026 = 70.
+- E letter: 304 rows total, 269 new rows (258 E only, 11 A and E) and 35 existing rows that gained E. By month: 2026-02 = 101, 2026-03 = 97, 2026-04 = 61, 2026-05 = 45.
+- Existing rows that gained letters: 49 (A only 14, E only 34, both 1).
+- Windows that could not be completed: none. Every window above is complete.
+
+### Caveats and exceptions
+
+- messageCount above returned messages: 35 threads returned fewer messages from get_thread than messageCount reported. The missing messages cannot be listed with METADATA_ONLY (possibly drafts or trashed messages). Threads and counts (messageCount, returned):
+  - 19b5c4e233f60118 (4, 3): A:2025-12;E:-
+  - 19b6cc55639bdc93 (8, 7): A:2025-12;E:-
+  - 19b5d526bad05170 (7, 6): A:2025-12;E:-
+  - 19ae64fb3079084e (2, 1): A:2025-12;E:-
+  - 19b8f1dd4d7a670c (18, 10): A:2026-01;E:2026-02
+  - 19b9ec48515756ba (7, 6): A:2026-01;E:-
+  - 19ca398af605f23a (9, 7): A:2026-02;E:2026-02,2026-03a
+  - 19c9262bb219c577 (8, 7): A:2026-02;E:2026-02
+  - 19c4f9dc9d26b93f (5, 4): A:2026-02;E:2026-02
+  - 19c59a367a2e5a11 (7, 5): E:2026-02;A:-
+  - 19b9f7b82104dd6f (18, 17): E:2026-02;A:-
+  - 19c21703604c62e5 (11, 9): E:2026-02;A:-
+  - 19c40473d0746dfb (11, 8): E:2026-02
+  - 19be37485b19f067 (14, 13): E:2026-02,2026-03a
+  - 19c30cfc5f20dddb (7, 6): E:2026-02
+  - 19c66d015a085e3d (6, 5): E:2026-02
+  - 19c23d3150784831 (3, 2): E:2026-02
+  - 19c7219c24bd03c3 (9, 5): E:2026-02
+  - 19c6e8c40f8e9c2e (12, 11): E:2026-02
+  - 19cb22151685fd7a (4, 3): E:2026-03a
+  - 19ceaeeaf689ff5c (2, 1): E:2026-03a
+  - 19cce78c216e7912 (6, 5): E:2026-03a
+  - 19cbb8c9201890b4 (4, 3): E:2026-03a
+  - 19cc3d5a07ae99b1 (8, 6): E:2026-03a
+  - 19cf8d7719277a3a (6, 4): E:2026-03b
+  - 19d17f84a4c27f0a (7, 6): E:2026-03b
+  - 19d204a3bbefd6d3 (9, 7): E:2026-03b
+  - 19d3fe84a1dc818e (19, 15): E:2026-03b
+  - 19d2d270351e162b (4, 3): E:2026-03b
+  - 19cf9153215efa4c (3, 2): E:2026-03b
+  - 19a93c44e4f8f6e1 (14, 12): E:2026-03b
+  - 19cf91f427c2d88b (6, 4): E:2026-03b
+  - 19c85c8367323de8 (10, 9): E:2026-03b
+  - 19d4fc9c20fac011 (13, 12): E:2026-04
+  - 19e1783453b65f2e (17, 14): E:2026-05
+- Bcc-only hits (not A rows, not added to the TSV; flags for the caller to decide): 3.
+  - 19b9e2435572b38e | 19ba0331e15a53ff | 2026-01-09T00:41:02Z | halsey2005@gmail.com | LosAngeles@fbi.gov | bcc only: VivianH@ysfamilylaw.com;AnnaK@ysfamilylaw.com;lances@ysfamilylaw.com (not an A row under the sender/to/cc rule)
+  - 19b9e4e25bc5663b | 19b9f636a1ef17f8 | 2026-01-08T20:54:10Z | halsey2005@gmail.com | info@da.lacounty.gov | bcc only: VivianH@ysfamilylaw.com;AnnaK@ysfamilylaw.com;lances@ysfamilylaw.com;mvs@ysfamilylaw.com;keny@ysfamilylaw.co (not an A row under the sender/to/cc rule)
+  - 19b9e2e602fb5f38 | 19b9f2e529d79fbc | 2026-01-08T19:56:11Z | halsey2005@gmail.com | akale@beverlyhills.org;mstainbrook@beverlyhills.org;MayorandCityCouncil@beverlyhills.org;Sharona@sharonanazarian.com;ddimond@beverlyhills.org;lwiener@beverlyhills.org;shannonminor@gmail.com | bcc only: lances@ysfamilylaw.com;AnnaK@ysfamilylaw.com;VivianH@ysfamilylaw.com (not an A row under the sender/to/cc rule)
+- Excluded under the E window rule: 19c85c89ad7860f5 (2026-02-22) and 19c8b941e639157d (2026-02-23), both SENT, in thread 19c85c8367323de8, which the February query did not return.
+- Address forms seen in headers, recorded as received: keny@ysfamilylaw.co (To, 19b8f1dd4d7a670c, 2026-01-05; the .co domain is not ysfamilylaw.com, but the message has other firm addresses), ances@ysfamilylaw.com (To, 19fb9141436502ce, 2026-07-31), and Halsey@realitylab.com (sender of SENT messages 19e336e7fed5eea7 and 19e1783453b65f2e).
+- Earlier thread 1979db6b2125390b: the thread-level exclusion was replaced by the message-level A rule, as recorded above.
+- Quota: earlier in this continuation Gmail returned "Resource has been exhausted" on about 7 of 16 rapid get_thread calls. Retries after a pause succeeded; later batches were kept to about 10 calls.
+
