@@ -25,6 +25,7 @@ check a quotation; those are marked **(checked at source)**.
     SWORN (signed under penalty of perjury), CORRESPONDENCE (email or letter, by its sender), or ACCOUNT-record (Halsey's own
     statement, sworn or not).
   - **ACCOUNT**: only Halsey's account shows the act. The entry names the document that would settle it and who holds it.
+  - One entry, L-81, rests on a third-party postal record. That fits none of the four classes, and it is labelled as such.
 - **No verdict words.** "Bears on" names element numbers from `LAW/` only, for example "PC 118 el. 3–5". Whether an element
   is met is left to ASSESSMENT_v1.
 - **AI material is never evidence.** It appears only as "lead: <file>" pointing to a primary document. This covers:
@@ -50,7 +51,8 @@ check a quotation; those are marked **(checked at source)**.
     **"JAN 30, 202[?]"**, with the last digit 6 or 8 and not resolved. In the original photo, scored against the same
     printer's digits, "JAN 30, 2026" is favored — "moderate-to-high", not certain. A customs form on the same envelope
     prints "Date of Mailing: 01/30/202[6]". Where a year is needed, the ledger uses **2026**: by context (the declaration
-    was executed on 27 March 2026, which rules out 2028) and by that reading.
+    was executed on 27 March 2026, which rules out 2028) and by that reading. The Correos de México tracking record for
+    that envelope (L-81) then fixed the deposit date as 30/01/2026, which resolves the year.
   - The audit's "Packages bore earlier dates (December referenced)" is that note's paraphrase. The declaration itself says
     "the postmarks on these packages were from much earlier dates, including early December 2023".
 - **Pointer formats.**
@@ -95,16 +97,17 @@ Each entry is counted once, under its first behavior. Cross-tags appear in the t
 |---|---|---|---|
 | (a) access / alteration / creation in Halsey's accounts | 7 | 0 | 7 |
 | (b) material from his accounts in filings | 5 | 3 | 2 |
-| (c) papers claimed as served on dates other than sent (every POS, transmittal and register service line) | 37 | 35 | 2 |
+| (c) papers claimed as served on dates other than sent (every POS, transmittal and register service line) | 38 | 36 | 2 |
 | (d) electronic service without consent | 7 | 6 | 1 |
 | (e) Petitioner's disclosure and its service | 5 | 4 | 1 |
 | (f) concert with court or police | 3 | 2 | 1 |
 | (g) Ally restriction and the writs | 3 | 1 | 2 |
 | (h) other | 13 | 11 | 2 |
-| **Total** | **80** | **62** | **18** |
+| **Total** | **81** | **63** | **18** |
 
-L-78 to L-80 were added last. They record statements Halsey made on 2026-11-01, as relayed by the coordinator, and they sit
-in their behavior sections below, out of numeric order.
+L-78 to L-81 were added last, and they sit in their behavior sections below, out of numeric order:
+- L-78 to L-80 record statements Halsey made on 2026-11-01, as relayed by the coordinator.
+- L-81 rests on a postal tracking record read on 2026-11-01.
 
 **DOCUMENTED means only that the act appears in the named document.** For most (c) entries that document is the firm's own
 proof of service, a transmittal email or a register line. The fact the behavior turns on — which paper travelled in which
@@ -194,6 +197,7 @@ envelope, and on what date — is not documented for any paper. Each entry says 
 | L-78 | 2025-09-24 06:19:45Z (creation of the Exhibit F document); stated 2026-11-01 | not identified ("my computer … was hacked") | ACCOUNT-record | ACCOUNT | a |
 | L-79 | not dated; stated 2026-11-01 | Spiegel (Halsey's account) | ACCOUNT-record | ACCOUNT | b |
 | L-80 | about 2026-08 ("Three months ago"); stated 2026-11-01 | not identified ("Somebody") | ACCOUNT-record | ACCOUNT | a |
+| L-81 | 2026-01-30 (deposit; delivery scan 2026-02-26) | CN22 sender "NATHAN GRAY / YOUNG N SPIEGEL"; firm return address | third-party postal record | DOCUMENTED | c |
 
 Context records (acts by others; not counted):
 - X-01 · 2022-09-14 · Google password change.
@@ -497,7 +501,7 @@ Context records. These are acts by others and are not counted.
   - "$13.00 … DEC 30, 2025" (p-002 and p-010 — possibly two envelopes, not confirmed).
   - "$29.70 … FCPIS … JAN 30, 202[6]" (p-003, orange/kraft). It carries a CN22 customs form: "Date of Mailing:
     01/30/202[6]", FROM "NATHAN GRAY / YOUNG N SPIEGEL / 301 N. CANON DR # 300 / BEVERLY HILLS, CA 90210", barcode "LH 265
-    470 088 US" (not looked up).
+    470 088 US". Its Correos de México record (L-81) shows the deposit on 30/01/2026 and an "Entrega" scan on 26/02/2026.
   - "$13.00 … JAN 06, 2026" (p-004).
   - "$13.00 … FEB 02, 2026" (p-006), photographed with an FL-300 under a binder clip.
   - "$7.55 … JAN 08, 2026" (p-009), with a partial machine cancellation "Los Ange[…]" / "THU 0[8?] […]".
@@ -908,6 +912,46 @@ Context records. These are acts by others and are not counted.
 - **The documents do NOT show:** why the declared date differs from the date of the email, or any mailing record.
 - **Bears on:** PC 118 el. 3. The declared date is the statement.
 
+### L-81 · 2026-01-30 · the orange $29.70 package deposited for mailing (Correos de México record) · (c)
+
+- **Actor (as shown):** the CN22 customs form names the sender as "NATHAN GRAY / YOUNG N SPIEGEL / 301 N. CANON DR # 300 /
+  BEVERLY HILLS, CA 90210". The envelope carries the printed return address of Young, Spiegel & Hosp, LLP (ENVELOPE_PHOTOS
+  p-003, §4).
+- **Act:** the Correos de México tracking record for "LH 265 470 088 US" (USPS_tracking notes §3). It was read on 2026-11-01 at
+  03:39:18Z and again at 03:40:29Z, with identical results. Verbatim, dates as dd/mm/yyyy:
+  - 30/01/2026 12:14: "Deposito del Cliente en el país de origen" (Estados Unidos de América).
+  - 01/02/2026 01:37: "En zona de intercambio int. hacia el país destino, previo Aduana".
+  - 10/02/2026 08:18: "Arribo a Zona Intercambio México, en espera de ingreso a la Aduana". 12:29 and 14:40: "En tránsito
+    hacia destino" (CDMX).
+  - 16/02/2026 16:04: "Recepción en Oficina de Correos" (Centro de Clasificación Internacional 23). 17:24: "En tránsito hacia
+    destino".
+  - 23/02/2026 13:43: "Recepción en Oficina de Correos" (Centro Operativo de Reparto Benito Juárez Cancún, Q. Roo.). 13:49:
+    "1er visita al domicilio para entrega, no se encontró al destinatario".
+  - 24/02/2026 09:31: "Con mensajero para entrega".
+  - 26/02/2026 12:04: "Entrega". The "Recibió :" field reads "SALOMON R".
+  - The page also says: "Te recordamos que el envío buscado es un producto Ordinario el cual no tiene rastreo, por lo que la
+    respuesta en nuestro Centro de Atención, será la misma que se presenta en esta página."
+- **Status:** DOCUMENTED, by a third-party postal record.
+  - The record fixes the mailing date as 30 January 2026. That resolves the year on the label and on the CN22 ("Date of
+    Mailing: 01/30/202[6]").
+  - The package took 27 days to the "Entrega" scan.
+  - It was "Con mensajero para entrega" on 24/02/2026, the date of the building's receipt ("24 de Febrero"). The carrier's
+    delivery scan is dated 26/02/2026. These dates are set side by side; no conclusion is drawn about why the delivery scan
+    differs from the receipt date.
+- **Candidate matches** (see the (c) table):
+  - 3 days after the declared service date of 1/27/2026 (L-34);
+  - 3 days before the declared date of 2/2/2026 (L-35);
+  - the same day as the date of the vexatious-litigant FL-300 (1/30/2026).
+  - CN22: Qty "20"; Wgt "1" lb "2" oz; "DOCUMENTS".
+- **The documents do NOT show:**
+  - which paper the package held;
+  - a USPS scan. The USPS page answered "Access Denied" (HTTP 403).
+  - any USPS office name, city or ZIP. The record names only "Estados Unidos de América".
+  - The reading note's own limit: "This note is a reader's transcript, which is AI work and so not evidence in itself. An
+    evidentiary capture would need a person to save the live page." Halsey decides whether to make one.
+- **Bears on:** PC 118 el. 3–5 and CCP 1013b, but only if this package is matched to a paper whose POS declares a different
+  date. No document makes that match.
+
 ### L-39 · 2026-02-24 · ten envelopes delivered together in Cancún · (c)
 
 - **Actor (as shown):** "Petitioner's counsel" (Decl. ¶4). Envelopes #1 and #7 carry the printed return address "Young,
@@ -919,8 +963,9 @@ Context records. These are acts by others and are not counted.
   dates."
 - **Exhibit A** (DECL exhibits notes) and the original photos (ENVELOPE_PHOTOS):
   - **Labels:** nine envelopes are seen, or eight if p-002 and p-010 are one envelope. Their labels are listed in the common
-    facts above. They run from DEC 30, 2025 to FEB 02, 2026; the orange envelope carries tracking "LH 265 470 088 US". No
-    December-2023 postmark is legible on any item.
+    facts above. They run from DEC 30, 2025 to FEB 02, 2026. The orange envelope carries tracking "LH 265 470 088 US", and
+    its postal record (L-81) reads "Con mensajero para entrega" on 24/02/2026 and "Entrega" on 26/02/2026 ("Recibió: SALOMON
+    R"). No December-2023 postmark is legible on any item.
   - **Halsey's email sending the photos** (gmail:19cfcf815d187364, 2026-03-17T18:04:02Z, to his preparer): "All photos of
     mess. I opened a few and saw fakes emails from me and stopped opening starting filing charges."
   - **Handwritten receipt,** verbatim: "Yo Francisco Javier Franco morales recibi el correo. / del Señor Halsey Minor el día
@@ -1027,3 +1072,866 @@ Context records. These are acts by others and are not counted.
   dated 07/21/2026." / "A hard copy of the above will follow by U.S. Mail w/ USPS Tracking Number: RF414694440US."
 - **Status:** DOCUMENTED.
 - **The documents do NOT show:** the scan history.
+
+## (d) Electronic service without consent
+
+**The consent record, in date order.** These are context items, not entries, quoted verbatim.
+
+- **January 2024, between the parties, before the firm's first email (1/25/2024).** Thread 18cf64db45243ba9:
+  - Shannon, 2024-01-11T02:15:24Z: "Are you OK to accept the service? If so, will you please let me know where I can have
+    the papers delivered."
+  - Halsey, 2024-01-11T11:17:06Z (gmail:18cf83d7742fd195, checked at source): "Agreed. When will you be sending papers. I
+    will let you know where I am."
+  - Halsey, 2024-01-16T15:28:55Z (gmail:18d12e3cc70ee998, checked at source): "Please send the documents in advance to this
+    email address. We should be on the same page. I don't obviously have a fixed address yet."
+  - Shannon, 1/16/2024 (gmail:18d13fab671da237, via 85_V3): "Please let me know whether you will agree to accept service of
+    the Petition by mail so that we can avoid the inconvenience of having it delivered to you by a process server…"
+- **2025-06-23, Halsey to the firm.**
+  - 18:59:54Z (gmail:1979e2946a3346f0): "SINCE YOU DONT HAVE THE RIGHT TO SERVE BY EMAIL, I WOULD LIKE TO SEE WHAT YOU HAVE
+    PRESENTED TO THE COURT."
+  - 19:08:12Z (gmail:1979e30e22e4ae99): "I AGREED TO ACCEPT SERVICE FOR ONLY THE DIVORCE PAPERS YOU HAVE STILL NOT PRESENTED
+    IN FULL. … TO BE CLEAR I HAVE NOT GIVEN YOU THE RIGHT TO SERVE ME BY EMAIL LANCE."
+  - Spiegel's replies at 19:03:35Z and 19:58:07Z quote both messages, which documents that he received them (G3).
+- **2025-08-17, lead only.** 81B B24: "Non-consent #7 … "I have never granted email service."". This ledger did not find it
+  in the mailbox.
+- **2026-01-22, Halsey** (gmail:19be3bbd3fa862b8): "You cannot serve me by email or by mail…" (85_V3 grades it U).
+- **Halsey's declaration, as reproduced in the firm's filing** (D2 Exhibit 1): "Improper e‑service assertions. Counsel
+  repeatedly asserts email service without my written consent and without proof (CCP §1010.6; CRC 2.251). I have objected
+  at least six times (including in the DVRO context)."
+- **Decl. 3/27/2026 ¶3:** "I have not filed Judicial Council form EFS-005-CV or any other written consent to electronic
+  service. I have never affirmatively authorized Petitioner or Petitioner's counsel to use email as formal service of motion
+  papers on me."
+- **The court's summary of his motion, 4/21/2026** (drive:1_Jqo1pLxysDaP9uKpqOLT1ZqCOHID7Of): "He argues that no
+  preliminary declaration of disclosure was served, despite the parties agreeing to email service to exchange declarations
+  of disclosure. … He argues that Petitioner's counsel asserts email service without Respondent's written consent and he
+  alleges that he has objected at least six times."
+- **Halsey's statements in session, as the index records them (U).**
+  - "Halsey confirms (U) he consented to service by email" (EV-036 [2/2]).
+  - 2026-08-19: "consented to initial service by email ... so we could exchange documents".
+  - The index notes that this is "reconcilable with ¶3 (scope: informal exchange vs formal e-service, no EFS-005-CV)".
+- **No EFS-005-CV**, and no other written consent, appears in any record read.
+- **Respondent's own electronic-service entries on the register (16).** These are Halsey's side's filings.
+  - 6/4/2025: "Proof of Service Proof of Electronic Service (Comment)" ×3 and "Proof of Service Proof of electronic Service
+    (Comment)".
+  - 6/5/2025: "Proof of Service Proof of Electronic Service (Comment)".
+  - "Proof of Service Electronic" on 8/25/2025, 9/17/2025, 9/22/2025, 11/17/2025 (two, one marked "- RFO 1-12-2026"),
+    12/8/2025, 1/6/2026 (×3), 2/18/2026 and 3/27/2026.
+  - The register does not say who prepared or filed them. Provinziano's withdrawal was "Granted" on 6/5/2025.
+  - Bears on: CCP 1010.6 el. 4 ("The act of electronic filing shall not be construed as express consent.") and CRC 2.251
+    el. 2, 4, 6.
+- **The firm's own footer.** It appears on Spiegel's 6/23/2025 messages and on AnnaK@ emails of 4/8, 4/14 and 4/15/2026:
+  "Without limiting the foregoing, I am advising you that emails are not sufficient for ex parte notice. [California Code
+  of Civil Procedure sections 1013(e); 1010.6(a)(2)(A)(ii); California Rules of Court 2.251(b)]".
+- **The court, 4/21/2026 (EV-002):** "As a backstop, all service shall also be effectuated by electronic means."
+
+### L-47 · 2024-06-18 · FL-141 declaring that the PDD was served by email only · (d, e)
+
+- **Actor (as shown):** Anna Kralle, declarant. The attorney block is "LANCE S. SPIEGEL 51625 / YOUNG, SPIEGEL & HOSP, LLP.".
+- **Act:** FL-141 (EV-036; drive:1HPyFn_0OHf_GFe105uSgvNLUeMebgd8B; preserved_2026-08-19/EV-036_FL-141_P_disclosure_service_6-18-2024.pdf):
+  - e-filed "6/18/2024 1:42 PM … By A. Gonzalez";
+  - item 1: "I am the X attorney for X petitioner";
+  - item 2: "X the other party … X Other (specify): Email: halsey@minorventures.com on (date): June 18, 2024";
+  - "I declare under penalty of perjury ... Date:June 18, 2024 / Anna Kralle (TYPE OR PRINT NAME) / Anna Kralle SIGNATURE".
+- **Status:** DOCUMENTED (SWORN; COURT filing).
+- **The documents do NOT show:**
+  - a consent to email service, or a delivery record;
+  - that Kralle is an attorney. Every signature block read says "Paralegal", and no State Bar number appears for her
+    (BEHAVIOR_b_e §4).
+  - Address history: Kralle, 2/1/2024 (gmail:18d65a9dad2be7d3): "Please see Lance's response below as the email bounced
+    back when he sent it to you." Sirriyeh, 10/31/2024 (gmail:192e4f2f43647e39): "I received the bounce back message
+    attached from your email address at halsey@minorventures.com indicating that my prior email below and related
+    attachments were too large to send." EV-089, a verification result: mail to halsey@minorventures.com is delivered into
+    halsey2005@gmail.com.
+- **Rulings, 4/21/2026** (drive:1_Jqo1pLxysDaP9uKpqOLT1ZqCOHID7Of):
+  - "In the instant case, the responsive declaration contains Exhibits 4 and 6 which contain the 6.18.24 email Petitioner's
+    counsel used to send Petitioner's PDD and the subsequent declaration regarding service of her preliminary declaration
+    of disclosure and income and expense declaration dated the same day."
+  - "Petitioner has submitted proof that she has served her PDD on Respondent, and that the parties signed a stipulation
+    waiving service of their FDD upon the other party."
+  - "this court has denied such requests as recently as 1.12.26".
+- **Bears on:** PC 118 el. 2–3 (the "attorney" box on a form signed under penalty of perjury; materiality and knowledge,
+  el. 4–5, are not shown); FAM 2104 el. 4, 7; CCP 1010.6 el. 4; CRC 2.251 el. 2, 4.
+
+### L-48 · 2025-06-23 16:54:42Z · ex parte DVRO notice sent by email · (d)
+
+- **Actor (as shown):** Matthew Sirriyeh, "Paralegal and Notary Public". To halsey2005@ and halsey@minorventures.com; cc
+  lances@, VivianH@ and AnnaK@.
+- **Act:** gmail:1979db6b2125390b: "I gave you several calls this morning at the following phone numbers to give you Ex Parte
+  Notice: … EX PARTE NOTICE: Petitioner will be requesting a Domestic Violence Restraining Order ("DVRO") against you,
+  Respondent, HALSEY MINOR, tomorrow, Tuesday, June 24, 2025 at 10:00 a.m. in Dept. 23 of the Los Angeles Superior Court…"
+  - Register for 6/24/2025: "Declaration - Ex Parte Notice (Notice Given)" (Petitioner).
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** call records for the three numbers listed. The calls are the sender's statement.
+- **Related:** Halsey's replies are in the consent record above. On 2025-07-09 he wrote to mvs@ (gmail:197ef5895435e31b):
+  "Matt why have you not served me the case? Do you have any proof as pro se I have been served your case?" The thread has
+  no reply.
+- **Bears on:** CCP 1010.6 el. 4; CRC 2.251 el. 4. The ex parte notice rules are not among the `LAW/` texts.
+
+### L-49 · 2025-06-23 19:03:35Z · Spiegel: "consult with counsel", and his footer · (d, h)
+
+- **Act:** gmail:1979e2cd049f87a2, to halsey@minorventures.com: "Encouraging you to consult with counsel so that you understand
+  how the ex parte process works."
+  - Footer: "Notice to opposing counsel: I do not review emails during non-business hours or on a regular and frequent basis
+    during the day. … Without limiting the foregoing, I am advising you that emails are not sufficient for ex parte notice.
+    [California Code of Civil Procedure sections 1013(e); 1010.6(a)(2)(A)(ii); California Rules of Court 2.251(b)]".
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** any sending of the papers presented to the court, which Halsey had asked for at 18:59:54Z
+  ("PLEASE SEND THE ORDER, TIME, AND PLACE.").
+- **Bears on:** nothing on its face. The footer and the firm's emailed ex parte notice (L-48) are set side by side here
+  without comment.
+
+### L-50 · 2025-08-18 · ex parte notice by email (lead only) · (d)
+
+- **Act:** lead: 81B B24/C19 (census 24a:35842, 24a:45278): "Non-consent #7 (8/17 19:51Z, to Thomas cc Kralle/Lance: "I have
+  never granted email service."); 8/18 9:15 AM ex parte notice by email + voicemail".
+- **Status:** ACCOUNT (lead only). Pending: the email itself, in the halsey@minorventures.com mail or the firm's sent
+  records.
+- **The documents do NOT show:**
+  - any firm message, or any Halsey message to the firm. This ledger searched halsey2005@gmail.com (in:anywhere,
+    ysfamilylaw, 2025-08-15 → 08-22) and found none.
+  - a Petitioner ex parte notice declaration in August 2025. The register shows Respondent's ex parte notice declarations
+    on 8/21, 8/25 and 8/26/2025, and Petitioner's responsive declarations on 8/22, 8/26 and 8/28/2025.
+
+### L-51 · 2025-10-08 22:06:18Z · Spiegel proposes a service stipulation for the DVRO requests · (d)
+
+- **Act:** gmail:199c5dc7db16c037 (checked at source): "Let me know if you are willing to enter into a stipulation that you
+  and Shannon agree to accept service of each other's request for restraining orders, that further personal service shall
+  not be required and that a hearing on both requests for restraining orders will be scheduled on the same date."
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** Halsey's answer.
+
+### L-52 · 2025-11-24 19:24:58Z · stipulation on personal service of the pending DVRO requests · (d)
+
+- **Act:** gmail:19ab753ad35b7d52, from Sirriyeh, cc lances@, VivianH@ and AnnaK@: "The Stipulation attached is responsive to
+  the court's comments at the hearing on 11/19/2025 that both DV hearings need to be conducted at the same time. Please
+  advise whether it is acceptable. If you do, I can send it to you via Docusign for signature."
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** whether it was signed. The attachment, "2025-11-24 Stip.Order.Pending.Reqs.DVRO.pdf", was not
+  opened.
+
+### L-53 · 2026-05-08 00:23:22Z · the subpoena order sent to Halsey's preparer by email, with a demand to produce · (d, h)
+
+- **Act:** gmail:19e04f7c4026ee5d, mvs@ to kat.flds@, cc Halsey ×4, lances@, VivianH@ and AnnaK@:
+  - "Please see attached the Court's Order After Hearing on Respondent's Motion to Quash Petitioner's Subpoena to Family Law
+    Document Services and Request for Sanctions dated 04/21/2026."
+  - "Pursuant to the Order After Hearing, Respondent's Motion to Quash was denied."
+  - "Accordingly, please produce all documents in your possession, custody and control responsive to the Subpoena
+    (attached) on or before Thursday, 05/14/2026 at 10:00 a.m."
+  - Schwenke replied on 5/13/2026 (gmail:19e23145b9b264db): "I do not accept service by email."
+- **Status:** DOCUMENTED. What followed is L-77.
+- **Bears on:** CRC 2.251 el. 5 (electronic service on a nonparty).
+
+## (e) Petitioner's disclosure and its service
+
+**X-06 · 2024-06-17 · Shannon Minor's Preliminary Declaration of Disclosure.** This is her act, recorded as context.
+
+- **The copy read** is drive:1GccZcaDn8YJVDQuMh1uonrVsF7yXepsU, "24.06.17, P's PDD, Minor, Halsey.pdf": the firm-file copy
+  from Provinziano's office, 37 pp., DocuSign envelope 921F0808-….
+  - The FL-140, FL-142 and FL-150 are each dated "Date: 6/17/2024" and signed "SHANNON MINOR" under "I declare under penalty
+    of perjury…".
+  - Caption: "LANCE S. SPIEGEL [SBN 51625] YOUNG, SPIEGEL & HOSP, LLP. … ATTORNEY FOR (Name): PETITIONER, SHANNON MINOR".
+- **FL-142:**
+  - Item 6: WF x0890, "P", "BEFORE MARRIAGE", 16,929.
+  - Item 16: four Vanguard 529s — "X245-01" 197,701, and "X245-02/-03/-04" 197,862 each.
+  - Items 5, 10 and 13: "NONE". Total assets: 808,216.
+- **FL-150:** item 11a is $16,929. Item 15, the fee confirmation, is blank.
+- **What the reader searched for and did not find:**
+  - "Any Vanguard account other than the four 529s": NOT FOUND.
+  - "Any account in Joyce Flaherty's name …": NOT FOUND.
+  - "'Ally' / 'brokerage' / 'transfer'": NOT FOUND.
+- **Later disclosure:** the 2/24/2025 FL-142 (L-19) adds WF x1074, x1530, x4249, x4215 and x5631, four life policies, and
+  Fidelity Roth IRA x3347.
+- **Route:** what a disclosure should have contained is for the family court (Fam. Code §§ 2104, 2107, 2120–2129; LAW
+  FAM_disclosure). No document read shows what Spiegel knew of its contents, beyond his firm's caption on the forms.
+
+### L-54 · 2024-06-18 12:12 PM · the transmittal email filed as Exhibit 4 · (e, d)
+
+- **Actor (as shown):** Anna Kralle, cc Lance Spiegel and Alicia Thomas.
+- **Act, as filed** (drive:1vdBvUfD_KukuXm8eFwH6GiHJIyUsMJ4Y p. 25, image): "From: Anna Kralle / Sent: Tuesday, June 18, 2024
+  12:12 PM / To: halsey@minorventures.com; Jeff Jacobson; Deborah Uhtof / Cc: Lance Spiegel; Alicia Thomas / Subject: Minor /
+  Attachments: 2024-6-17 [P] PDD.pdf" — "Hello, Please see attached Petitioner's Preliminary Declaration of Disclosure. All
+  the best, Anna Kralle, Paralegal".
+- **Status:** DOCUMENTED (COURT, exhibit as filed).
+- **The documents do NOT show:**
+  - a message-ID, transport headers, or any delivery or bounce record. It is an Outlook print, and halsey2005@gmail.com is
+    not a recipient.
+  - non-receipt. The email's absence from halsey2005@gmail.com (85_V3 D.7) is not evidence that Halsey did not receive it.
+    His own June 2024 minorventures mail is only partly in that mailbox: three sent messages are present, but his 6/15/2024
+    2:45 PM and 6/23/2024 9:39 AM emails, both filed as court exhibits, are absent (BEHAVIOR_c §6).
+- **Halsey's account,** 6/17/2025 (gmail:1977c51ddad08b0a): "I have only ever been sent a blank FL-105, and I have never
+  received the required forms (FL-140, FL-141, FL-142, FL-150, FL-160) for proper service".
+- **Rulings:** the 4/21/2026 compel order, quoted under L-47, and the 1/12/2026 denial, quoted under L-04.
+- **Bears on:** FAM 2104 el. 4, 7.
+
+### L-55 · 2024-08-22 · Stipulation and Waiver of Final Declaration of Disclosure (FL-144) · (e)
+
+- **Actor (as shown):** Petitioner. The attorney block reads "Lance S. Spiegel SBN 51625 / Young, Spiegel & Hosp, LLP", and
+  both parties DocuSigned it.
+- **Act** (preserved_2026-08-19/P_FL-144_waiver_FDD_8-22-2024.pdf):
+  - e-filed "8/22/2024 3:55 PM"; "Mediated by Jeffery S. Jacobson, CFLS".
+  - Item 2.a: "We have complied with Family Code section 2104, and the preliminary declarations of disclosure have been
+    completed and exchanged."
+  - Item 2.e: "Each party understands that this waiver does not limit the legal disclosure obligations of the parties but
+    rather is a statement under penalty of perjury that those obligations have been fulfilled."
+  - Signatures: "Shannon Minor … DocuSigned by: … D6534EB6051D456…"; "Halsey Minor … DocuSigned by: … EE63E6C701EF401…".
+- **Status:** DOCUMENTED (COURT; SWORN by both parties).
+- **The documents do NOT show:** what each party had actually received.
+- **Statements that bear on it:**
+  - The 4/21/2026 order quotes the stipulation: "1. We have complied with the Family Code § 2104, and the preliminary
+    declarations of disclosure have been completed and exchanged…"
+  - The mediator, 8/5/2024 (gmail:19123d4be19e2d44): "Halsey, while I understand that you have reached out to potential
+    family law attorneys, the documents are drafted to reflect that you are representing yourself. Let me know if anything
+    has changed."
+- **Bears on:** FAM 2107 el. 1–5, the route if a disclosure is challenged.
+
+### L-56 · 2025-01-08 · Shannon Minor's FL-150, with Spiegel's fee confirmation · (e, h)
+
+- **Act** (preserved_2026-08-19/P_FL-150_income_expense_1-8-2025.pdf):
+  - "Electronically FILED … 1/8/2025 12:46 PM"; signed "Date: 1/7/2025 SHANNON MINOR".
+  - Item 11a: "2,433".
+  - Item 13r, total expenses: $70,550. Item 13s, paid by others: $68,000, annotated "*LOANS FROM PARENTS".
+  - Item 15: paid attorney $33,620, source "LOANS"; still owed $9,092; rate "$950"; "I confirm this fee arrangement. Date:
+    1/7/25 LANCE S. SPIEGEL".
+- **Status:** DOCUMENTED (COURT / SWORN).
+- **The documents do NOT show:** who the lenders were beyond "LOANS FROM PARENTS", or any sum of $550,000 (see L-67).
+  Spiegel's 12/29/2025 ¶11.B later dates this I&E "January 1, 2025" (L-75).
+
+### L-57 · 2025 (after 3/29, before 7/14) · "how should we divide the Vanguard fund" · (e, h)
+
+- **Act, in Halsey's account** (second-hand; 85_V3 S-0344/S-0345): "counsel referred to the four Vanguard 529 accounts to my
+  lawyers as something I had always known about; his words as my lawyers relayed them: 'how should we divide the Vanguard
+  fund.'" / "The remark was off the record; no transcript carries it."
+- **Status:** ACCOUNT. Pending: Provinziano's file and an interview with him; any minute order or transcript.
+- **Spiegel's sworn statement,** 12/29/2025 ¶5 (drive:1bUF2pkzxfWI1Bmj27e2I8xejSDWDTH_R): "At one point, Mr. Provinziano
+  asked me whether the 529 accounts could be used to settle Petitioner's claims. I responded that Petitioner had no interest
+  in the 529 accounts."
+- **The documents do NOT show:** the date or the words of any exchange between counsel.
+
+### L-58 · 2026-02-24 · Spiegel's declaration on service of the PDD, with Exhibits 3–8 · (e)
+
+- **Actor (as shown):** Lance Spiegel, declarant, in Petitioner's Responsive Declaration to Respondent's RFO re Motion to
+  Compel (drive:1vdBvUfD_KukuXm8eFwH6GiHJIyUsMJ4Y; register 2/24/2026 "Responsive Declaration - MTC.FDD").
+- **Act:**
+  - ¶7: "On June 17, 2024, Mr. Jacobson suggested that the parties exchange their Preliminary Declarations of Disclosure
+    ('PDDs'). Later that same day, Petitioner served her PDD via email to both Respondent and Mr. Jacobson."
+  - ¶8: "On June 23, 2024, Respondent emailed both Mr. Jacobson and myself confirming receipt of Petitioner's PDD."
+  - Exhibit 7, Halsey's email as filed: "Her disclosure is a joke. It's our kids savings accounts. Where's the $550,000 plus
+    you've already admitted to taking. Where does that show up? This statement is worthless and it was not difficult to
+    produce an accurate statement for her."
+- **A documented discrepancy, set side by side:**
+  - ¶7 says "Later that same day" (6/17/2024), and calls Ex. 4 "the transmittal email from my office dated June 17, 2024".
+  - Exhibit 4 prints "Sent: Tuesday, June 18, 2024 12:12 PM". Exhibit 6 (the FL-141) gives "on (date): June 18, 2024".
+  - The 12/29/2025 declaration ¶7 uses the same wording. SPIEGEL_DECLARATIONS Table (i) row 10: "DIFFERS (6/17 vs
+    6/18/2024)".
+- **Status:** DOCUMENTED (COURT / SWORN).
+- **The documents do NOT show:** that the one-day difference is material, or that it was known (PC 118 el. 4–5). No
+  document shows either.
+- **Ruling:** 4/21/2026: "Petitioner has submitted proof that she has served her PDD on Respondent…"
+- **Bears on:** PC 118 el. 3–5, but only if someone shows the difference to be material and knowing.
+
+## (f) Concert with court or police
+
+**X-07 · 2025-03-29 → 2025-04-14 · context.**
+
+- **Provinziano's letter to BHPD, dated "March 29, 2025"** (drive:1CuG6-SmmKcATPmM5x-PPhmpB0CDoj19T; "VIA US MAIL Beverly
+  Hills Police Department"). BEHAVIOR_f §1: "Spiegel is not named anywhere in the letter." The signature line is blank in
+  this copy.
+- **Det. Kalé to al@provinziano.com** (cc qijing@, ashot@), as quoted in gmail:196204851f0234f1 (2025-04-10T15:18:40Z,
+  checked at source). Spiegel is not a recipient.
+  - 4/7/2025 11:00 AM: "Does someone on this team have time to speak with me briefly about this Halsey Minor case?"
+  - 4/8/2025 7:57 PM: "Just re-pinging you guys to see if you have availability to speak about this Halsey Minor case."
+- **Det. Kalé, 4/14/2025:** he had "to speak with all parties involved. This includes your ex-wife, who is being deposed in
+  the next coming weeks." His own text in all 11 messages read does not mention Spiegel or opposing counsel (BEHAVIOR_f).
+
+**X-08 · 2026-02-12/13 · Halsey's request to Det. Kalé.** This is documented police contact by Halsey, not by Spiegel.
+
+- Halsey's request (gmail:19c5435095e084b7) included: "2) Immediate preservation hold to Lance Spiegel / firm (prevent
+  spoliation) … please immediately send a written preservation / litigation-hold notice to: • Lance Spiegel and all members
+  of his firm involved, and • any relevant e‑filing vendor / third-party service".
+- Kalé's reply (gmail:19c548a31edc8c3d): "Good Afternoon Halsey, Your case has been submitted to the LA DA's office for
+  review. Please allow them ample time to review your case. Thanks, Alex".
+
+**X-09 · 2026-10-09 and 2026-10-23 · Public Records Act request PD-2026-677.**
+
+- **Item 6** asked for "Contact with Lance Spiegel and Shannon Minor … from January 1, 2024 to present". BHPD Records,
+  letter of 10/9/2026, p. 4 (drive:1RiFIsYMcjPvxaqt25Iq8f1OjsK67m00e): "The Department has identified records responsive to
+  this part of the request, however, such communications are exempt from disclosure pursuant to Government Code section
+  7923.600."
+  - The answer does not say whom the records concern.
+  - This is the only lead in the record about contact between BHPD and anyone on the Petitioner's side.
+- **Item 5(d)** asked for "Communications between Kale (or any BHPD personnel) and Lance Spiegel, Shannon Minor, or any
+  representative of either". 10/23/2026: "The City is still searching for potentially responsive records."
+- **Item 13** asked about the February 2026 complaints about Spiegel (tracker row 18 @6f5d8b0). 13(a): "The Department has not
+  identified any responsive records." 13(b): "The Department is still searching for potentially responsive records." The
+  next update is due "by 6 Nov 2026".
+- **Lt. Coulter, 9/16/2026** (gmail:1a0aab75402ca709): the case "including all documents, emails, and text communications
+  provided by you and other involved parties" went to the DA on 2/9/2026 (ECE #719953), and charges were rejected on
+  3/19/2026 (BEHAVIOR_f §3.4).
+
+### L-59 · 2025-04-18 · Exhibit 18: "correspondence to the Beverly Hills Police Department from Respondent's counsel" · (f, b)
+
+- **Act:** Supplemental Declaration of Lance S. Spiegel, ¶7 (drive:1TAK-0STgnMnJ-94vKObIZ9ntq0KwaVxj): "A copy of
+  correspondence to the Beverly Hills Police Department from Respondent's counsel is attached hereto as Exhibit '18.' I was
+  not copied on the letter from Respondent's counsel. My response dated April 16, 2025, is attached hereto as Exhibit
+  '19.'"
+- **Status:** DOCUMENTED (COURT / SWORN).
+- **The documents do NOT show:**
+  - Exhibit 18 itself. It was not found; the 16.4 MB file is over the download limit.
+  - how Spiegel obtained it.
+  - whether it is Provinziano's 3/29/2025 letter. That is not established.
+- **Objection:** Respondent, 5/7/2025: "Objection 2: Lacks foundation (Evid. Code § 400, et seq)." No ruling was found
+  (BEHAVIOR_f).
+- **Bears on:** PC 182 el. 1–2, 4, but only if a communication between Spiegel and BHPD is shown. None is.
+
+### L-60 · 2025-04-16 · Spiegel's "response dated April 16, 2025" (Exhibit 19) · (f)
+
+- **Act:** known only from ¶7 (L-59). ¶7 does not name the addressee.
+- **Status:** DOCUMENTED as to its existence (SWORN). Its content was not found.
+  - BEHAVIOR_f: "Exhibit 19 is known only from Spiegel's ¶7 description."
+  - Searches listed there: 25 Drive copies of the filing, all over the download limit; Gmail `from:ysfamilylaw.com`,
+    2025-04-01 → 05-20, returned 0 messages.
+- **Related documents from Halsey's own counsel** (BEHAVIOR_f §2.7):
+  - Provinziano's advisory letter of 4/17/2025, §V: "Following your deposition, our office received a communication from
+    opposing counsel, Lance Spiegel, asserting that attorney-client confidentiality has been waived based on your testimony
+    and prior communications. He has indicated an intent to depose me personally." (See L-71.)
+  - Invoice entries: "04/16/2025 … advisory letter after OPC sending notice of deposition to AFP"; "04/17/2025 … Case chat
+    with ALC re BHPD letter and depo."
+- **Pending:** Exhibit 19. It is in the LASC file and in Halsey's served copy (drive:1TAK-…), which needs a route past the
+  download limit.
+- **The documents do NOT show:** to whom the response went or what it says. BEHAVIOR_f: "No document read shows a
+  communication sent by Spiegel or anyone at ysfamilylaw.com to BHPD, the City of Beverly Hills, or the LA District
+  Attorney, or one sent by any of them to Spiegel or his firm."
+
+### L-61 · 2025-03-29 → 2025-08-04 (Halsey's dates) · "Lance obtained my confidential 567-page police report" · (f, a)
+
+- **Act, in Halsey's account:**
+  - The 2/28/2026 complaint (gmail:19ca3c3b9151b03c): "3. March 29, 2025 - August 4, 2025: Lance obtained my confidential
+    567-page police report (only Detective Kale should have this)".
+  - His 1/5/2026 notice to the firm, subject "FORMAL NOTICE: Criminal Spoliation of Evidence, Internal Leakage, and Demand
+    for Preservation" (gmail:19b8f1dd4d7a670c, per 85_V3 B-29).
+- **Status:** ACCOUNT. Pending:
+  - BHPD's records of any disclosure: the item-6 records withheld under Gov. Code § 7923.600, and item 5(d), still being
+    searched (City/BHPD);
+  - the 1/29/2026 DA hold request covering "any communications between BHPD personnel and attorney Lance Spiegel or his
+    office" (gmail:19c102e73a5cbca7);
+  - the firm's file (through the civil process, D-66).
+- **The documents do NOT show:** 85_V3 B-43: "NEGATIVE — no Kalé↔Spiegel communication found in any corpus searched
+  (mailbox, Drive census, the pre-report export)."
+- **Statements that bear on it:**
+  - Det. Kalé, 1/12/2026: "we still have that original 567-page document you sent us. That document has not been
+    compromised at all."
+  - Halsey's own report withdraws one accusation in this line (85_V3 ch. 11 item 11): "A file in my archive titled 'Alex
+    Did You Sleep With Her Or Get Paid By Lance.pdf' is my own accusation, not evidence … My email of January 12, 2026 —
+    'you got paid off — 10 billion:1 you're innocent' [19bb44ffb3cfb52d] — was an accusation I had no evidence for." /
+    "Stated plainly. Withdrawn."
+- **Bears on:** PC 182 el. 1–4; PC 135 el. 2–4, as to the deletions in L-01.
+
+## (g) The Ally restriction and the writs
+
+### L-62 · 2026-04-28 · three Writs of Execution issued on the judgment of 5/12/2025 · (g)
+
+- **Act, on the register** — six entries, all filed by Petitioner, verbatim:
+  - "Application - Issue Writ E/P/S Los Angeles - $11,000.00 Attorney's Fees based on Order 5/12/2025"
+  - "… - $21,857.00 Spousal Support based on Order 5/12/2025"
+  - "… - $62.876.00 Child Support based on Order 5/12/2025"
+  - "Writ - Execution Los Angeles - $11,000.00 Attorney's Fees based on Order 5/12/2025 - Issued 4/28/2026"
+  - "… - $21,857.00 Spousal Support … - Issued 4/28/2026"
+  - "… - $62.876.00 Child Support … - Issued 4/28/2026"
+- **The writs themselves** (EJ-130; WRITS notes; drive:1Pr59CjO_0us4hlAWzIOPXJJ6b21p_IV3,
+  1QD2SBrs5H1iCiANuaHsXYd3eVBl0g-NY and 1epfUvZ9OJoJFlQeUeArJXrQLaqtiZNjF — the copies Schwenke sent on 8/24/2026,
+  gmail:1a0352339565d674):
+  - Requester block: "NAME: LANCE S. SPIEGEL [SBN 51625] / FIRM NAME: YOUNG, SPIEGEL & HOSP, LLP. … ATTORNEY FOR (name):
+    PETITIONER, SHANNON MINOR".
+  - Margin: "Received: 4/28/2026 1:16 PM".
+  - "Judgment entered on (date): 05/12/2025"; "To the Sheriff or Marshal of the County of: LOS ANGELES".
+  - Judgment debtor: "HALSEY MINOR / 602 Punta Del Mar / Kukulcan Boulevard / Zona Hotelera / 77500 Cancún, QRO, Mexico".
+  - Issued: "Date: 4/28/2026 Clerk, by /s/ L. Murillo , Deputy".
+  - **W1:** judgment $62,876.00; total due (item 18) $29,237.14; [X] "child support or spousal support."; creditor SHANNON
+    MINOR.
+  - **W2:** judgment $21,857.00; total due $10,206.29; [X] "child support or spousal support."; creditor SHANNON MINOR.
+  - **W3:** judgment $11,000.00; total due $7,657.87; [X] "other (describe): Attorney's Fees."; item 3 creditor: "YOUNG,
+    SPIEGEL & HOSP, LLP. / is the [X] original judgment creditor".
+- **Status:** DOCUMENTED (COURT).
+- **The documents do NOT show:**
+  - a levying officer, a levy, a Notice of Levy, a bank, an account, a garnishee or a return. WRITS notes: "'Ally': not
+    present".
+  - any levy, return, abstract or earnings-assignment entry on the register through 7/13/2026.
+  - The writs were issued three months before the restriction Halsey reports in August 2026.
+- **Bears on:** no `LAW/` element. The enforcement statutes printed on the form (CCP §§ 699.520, 712.010, 715.010) are not
+  among the verified texts.
+
+### L-63 · 2026-07-29 → 2026-08-06 (Ally, as Halsey restates it) · levy and restraint at Ally · (g)
+
+- **Actor (as shown):** not shown in any primary read. Halsey's account and Schwenke's statement name Spiegel.
+- **Act:**
+  - Schwenke, 8/18/2026 (gmail:1a0159a192615118), her statement: "2. Lance had writs issued and levied your bank accounts. He
+    does NOT have to provide you with notice of doing it. The court signed the writs and he served your bank."
+  - Halsey, 10/31/2026, restating Ally (gmail:1a19038a7b1f6fa6):
+    - "Please provide the outstanding records explaining the $4,156.66 restrained on August 6, 2026 across my accounts
+      ending 0942 and 9376, associated with LASD file 2026069969 and court case 24STFL00432"
+    - "Both notices Ally says it received on July 29 and August 5, and every accompanying writ, instruction, and service
+      record."
+    - "Please explain the Kingsburg, California address in your correspondence when the execution writ lists Cancún,
+      Mexico."
+  - **Lead:** drive:1IZFMiVDCoIwMlratDV4XxoQdwRMeqPrC p. 3, Exhibit B-1/B-2. This is a screenshot inside an AI-drafted
+    package (AI-LEAD). It shows an Ally reply stating that on "July 29 and August 5, 2026, Ally Bank received a Notice of
+    Levy from Young, Spiegel and Hosp LLP", that "on August 6, 2026, a hold was put on the funds in your Spending Accounts
+    ending in 0942 and 9376 in the total amount of $4,156.66", and that "The above-referenced restriction was removed from
+    your accounts on August 19, 2026." The original Ally message is the primary; the screenshot does not show its date.
+- **Status:** ACCOUNT. Pending:
+  - Ally's own message, in Halsey's Ally secure-message inbox. Ally's 9/4/2026 secure message (gmail:1a06da1478a8cadd) is
+    encrypted and was not read.
+  - the Notices of Levy and Ally's legal-process file (Ally).
+  - LASD civil levy file 2026069969 (LASD). Halsey requested it on 10/29/2026 (gmail:1a1883ded810e8f8), and LASD's reply
+    forwarded the request to its Beverly Hills office (gmail:1a188bb739993167).
+- **Documents that sit beside it,** stated with no inference:
+  - Ally Bank's subpoena production of 11/27/2024 (drive:1wgEzPYyYiKoxMslycWuH9Qytnb46ZgT5, cover letter): "Records
+    Subpoenaed from Ally Bank Account No.: xxxxxx0942, xxxxxx9376, xxxxxx0931 / Case No.: 24STFL00432". It was delivered to
+    Provinziano & Associates on 02/13/25 (Litbros cover). These are the subpoenas of L-15.
+  - Ally Financial, 11/18/2024: "Ally Financial is unable to locate any open or closed accounts…".
+- **Timestamps, set side by side and not reconciled:**
+  - Ally (lead): notices received 7/29 and 8/5; hold placed 8/6; restriction removed 8/19/2026.
+  - Halsey's email to lances@: 2026-08-08T00:36:58Z, which is 8/7 at 5:36 p.m. PDT.
+  - Halsey to Ally: "As of 08/08/2026 at 1:50 PM", and "At approximately 1:50 p.m. on August 8, 2026, I discovered…".
+  - The civil complaint was submitted to LASC 2026-08-07 18:46 PT (EV-034, gmail:19fdf0dab8975f4d).
+  - Halsey, 8/20/2026 (gmail:1a01fc775016ae06 per BEHAVIOR_g §B, whose table lists 1a01fcb067325e9b): "Lance did not cut
+    off my funds after I filed. He did it the day before I filed."
+- **Halsey's own words** (as pasted, L1): "Timing alone does not establish who caused the restriction." He also wrote that he
+  "found no filing by Mr. Spiegel that authorizes or explains Ally?s restriction".
+- **The documents do NOT show:** the Notices of Levy, who served them on Ally, or the levying officer.
+- **Bears on:** no `LAW/` element.
+
+### L-64 · 2026-08-07 / 08-08 · Ally points Halsey to Spiegel's office · (g)
+
+- **Act, in Halsey's account:**
+  - To lances@, 2026-08-08T00:36:58Z (gmail:19fdecd35a44d2ec, checked at source): "My bank has informed me that my accounts
+    are restricted and specifically directed me to your office as the contact from whom I am to obtain the reason for the
+    restraint." … "Please confirm immediately whether you, your firm, Shannon Minor, or anyone acting at your or your
+    client's direction requested, procured, transmitted, served, or otherwise caused this restriction."
+  - To Ally (pasted chain, L1 S1): "During my telephone call with Ally, an Ally representative specifically directed me to
+    contact Lance Spiegel and his law office?the attorneys for the adverse party in active litigation against me?to learn
+    why Ally had restrained my funds."
+- **Status:** ACCOUNT. Pending: Ally's call record or notes and ECR files 64504079 / 65504572 (Ally) — what document, claim
+  or instruction supplied Spiegel's name.
+- **Ally's replies,** as pasted by Halsey (L1): "I understand that you are seeking information regarding the restriction
+  placed on your account and the circumstances surrounding it." / "Please allow 7 to 10 business days…". L1: "no Ally reply
+  mentions Spiegel, his firm, or any referral, and none confirms or denies one."
+- **The firm:** no reply to 19fdecd35a44d2ec or 19fded7384ca4b84 was found (BEHAVIOR_g §C; search `from:ysfamilylaw.com`,
+  2026-08-06 → 11-01).
+- **The documents do NOT show:** who at Ally said it, or why.
+
+## (h) Other
+
+### L-65 · 2024-02-01 16:55:06Z · Spiegel: "It is very important for you to retain counsel" · (h)
+
+- **Act:** gmail:18d6598e61e8abf0, to halsey@minorventures.com and AnnaK@ (checked at source): "It is very important for you to
+  retain counsel so that you have a complete understanding of the process, including how to address the issues mentioned
+  in your email. If you have not already done so, please refer the Notice and Acknowledgment of Receipt to your counsel."
+- **Context:**
+  - It answers Halsey's 2/1/2024 email, which speaks of the "$550,000 disappear[ing]" and of the lockout: "I was locked out
+    of my primary email account, which Shannon was able to solely control before I could get access back from Google
+    support."
+  - Kralle forwarded the reply (gmail:18d65a9dad2be7d3): "Please see Lance's response below as the email bounced back when
+    he sent it to you."
+- **Status:** DOCUMENTED. 85_V3 D.4–D.6: both emails name no institution; on Vanguard, "no"; and "'He closed my bank
+  accounts' as a literal act of counsel: no evidence found".
+
+### L-66 · 2024-02-01 16:58:59Z · Spiegel: "These are issues that can and will be addressed in the dissolution proceedings" · (h)
+
+- **Act:** gmail:18d659c74c96f2f5 (checked at source): "These are issues that can and will be addressed in the dissolution
+  proceedings. Important for you to have independent counsel. If you have not already done so, I strongly encourage you to
+  retain a lawyer."
+- **Context:** it answers Halsey's email of 1/31/2024, which spoke of an "abrupt withdrawal of $550,000…" and said: "Shannon has
+  the only access to our financial records." / "I would be obliged to report such unauthorized removal of company property
+  to the authorities under normal circumstances."
+- **Status:** DOCUMENTED.
+
+### L-67 · 2024-01-31 → 2024-06-25 · the $550,000 allegation · (h)
+
+- **Act, in Halsey's account:**
+  - 1/31/2024 (quoted under L-66).
+  - 6/23/2024 (Exhibit 7, under L-58): "Where's the $550,000 plus you've already admitted to taking."
+  - The State Bar's summary of his complaint of 6/25/2024 (OPEN_REQUESTS R-1): "$550,000 embezzled and used to pay
+    Spiegel".
+- **Status:** ACCOUNT. Pending: the firm's fee ledger and the sources of its payments, and Shannon's bank records for the
+  period. Held by the firm and the banks; reachable through the civil process (D-66).
+- **Statements that bear on it:**
+  - State Bar, 7/24/2024 (drive:1zyRwrL_fJQGt1UNLVhf8NS-GbPWxYQZVQKbrjIcMzXs): "does not present sufficient facts to support
+    an investigation"; the issue "is best addressed in the court having jurisdiction".
+  - Jacobson, 6/19/2024 (gmail:190329e29a9a186c): "Attached please find a summary prepared by Shannon regarding various
+    expenses … in response to your questions regarding the 550k. I have also asked Lance to provide the bank statements that
+    you have requested."
+  - FL-150 of 1/8/2025, item 15: attorney paid $33,620, source "LOANS" (L-56).
+- **The documents do NOT show:** any payment out of the $550,000 to the firm.
+
+### L-68 · 2024-04 · Spiegel's call to Halsey's then counsel (Halsey's account) · (h)
+
+- **Act, in Halsey's account:** 6/15/2024 (gmail:1901d53bbcd4ab2f): "Lance demanded I hire an attorney and even went so far as
+  to call him up to find out whether I had, in fact, paid him … although I wasted $5,000".
+  - Lead: prior counsel's billing (census 24a:28790–28899, R): "Phone call with Attorney Lance Spiegel to discuss the
+    matter".
+  - Halsey, 4/3/2024 (gmail:18ea161400dbc944): "Lance, I have hired counsel in support of mediation."
+- **Status:** ACCOUNT. Pending: prior counsel's native billing record (prior counsel; Halsey).
+- **The documents do NOT show:** what was said on the call.
+
+### L-69 · 2024-06-17 1:20 PM · Spiegel ends the open extension to respond · (h)
+
+- **Act,** as filed in Ex. 14 of the 4/18/2025 Supplemental Declaration (drive:1TAK-0STgnMnJ-94vKObIZ9ntq0KwaVxj): "I am
+  hereby terminating your open extension to respond to the Petition. Unless you file a Response on or before July 17, 2024, I
+  will request the court to enter your default."
+- **Status:** DOCUMENTED (COURT, exhibit as filed).
+- **Context:** the register shows no attorney of record for Halsey before 10/18/2024 (BEHAVIOR_b_e §1.1).
+- **The documents do NOT show:** the native email.
+
+### L-70 · 2024-07-17 · mvs@: "we highly encourage you to retain or consult with a family law attorney" · (h)
+
+- **Act:** gmail:190c2fad1c4fd49a, cc Jeff@, lances@, VivianH@ and AnnaK@: "As previously stated, we highly encourage you to
+  retain or consult with a family law attorney on all issues in this matter (including the below)."
+- **Status:** DOCUMENTED.
+
+### L-71 · about 2025-04-16 · Spiegel's communication to Provinziano's office · (h, f)
+
+- **Act, as Halsey's own counsel describes it:** Provinziano's advisory letter of 4/17/2025, §V
+  (drive:1ydfoh2iep0x1YNzUiaeztepO23_QfQHC, an attachment of gmail:196456fb137d13a6): "Following your deposition, our office
+  received a communication from opposing counsel, Lance Spiegel, asserting that attorney-client confidentiality has been
+  waived based on your testimony and prior communications. He has indicated an intent to depose me personally. We will
+  discuss this with you in more detail, including our strong opposition to such a deposition."
+  - Invoice entry: "04/16/2025 … advisory letter after OPC sending notice of deposition to AFP".
+- **Status:** DOCUMENTED (CORRESPONDENCE by a third party, describing Spiegel's communication).
+- **The documents do NOT show:** the communication itself, its date, or whether it is the "response dated April 16, 2025"
+  (Exhibit 19). BEHAVIOR_f §2.7: "none says it was sent to the police".
+
+### L-72 · 2025-06-23 19:58:07Z · Spiegel: "Criminal Extortion under California law." · (h)
+
+- **Act:** gmail:1979e5eb9bbac178, to halsey@minorventures.com, cc mvs@: "Suggest you consult with counsel and research the
+  following subjects: 1. The ex parte process and procedure in California. 1. The California Domestic Violence Protection
+  Act, including acts constituting abuse and consequences of a finding of domestic violence. 1. Criminal Extortion under
+  California law. Lance Spiegel". The list numbering is as rendered; Halsey's reply quotes the items as 1, 2, 3.
+- **Context:** it answers Halsey's message of 19:08:12Z (see the consent record under (d)). G3: "Within this thread, no message
+  before item 3 mentions extortion, prosecution, money or funds. The thread does not show what Spiegel's item 3 refers to."
+  Halsey's reply at 20:25:58Z is in the guardrails section below.
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** what item 3 refers to.
+
+### L-73 · 2025-07-14 20:42:53Z and 20:53:47Z · Spiegel's replies on the continuance · (h)
+
+- **Act:**
+  - gmail:1980aad41bcc7b22: "If you request the continuance on Wednesday, there will be no opposition. You are entitled to
+    the continuance pursuant to the statute."
+  - gmail:1980ab73fbfe94e7: "It has not been granted. If you appear remotely and request the continuance, there will be no
+    opposition and the court will grant the request."
+- **Context:** both answer Halsey's letter of 7/14/2025 (see the guardrails section). Register: 7/14/2025 "Request to
+  Continue and Reissue TRO (Form 115)" (Respondent); 7/16/2025 "Restraining Order Hearing — Held - Continued, TRO
+  Reissued".
+- **Status:** DOCUMENTED.
+
+### L-74 · 2025-12-24 (executed) · Spiegel's declaration in the Motion for Protective Orders · (h, c)
+
+- **Act** (drive:1LTNP2xmnf3hwfd3NKvWJL1Dy7ldrT9pr, checked at source):
+  - ¶3.A: "The hearing has been continued several times because Respondent is evading personal service in Mexico. The
+    hearing is currently set for February 10, 2026."
+  - ¶3.B: "Respondent has engaged in criminal extortion and during multiple court appearances has been admonished by the
+    Court for not complying with the Court's directions."
+  - "Executed December 24, 2025 at Beverly Hills, California."
+- **Status:** DOCUMENTED (COURT / SWORN).
+- **The documents do NOT show:**
+  - any DVRO proof of service or non-service return (SVL U4: "no DVRO POS/non-service return is in the corpus");
+  - any court finding of extortion, or any admonishment in a minute order read;
+  - a hearing on 2/10/2026. The register shows the restraining-order hearings on 2/11/2026 ("Denied - Without Prejudice"
+    ×2).
+- **Ruling:** the motion was dismissed on 3/2/2026 for non-service (EV-005; L-29).
+- **Bears on:** PC 118 el. 3–5 and BPC 6068(d) el. 2–3, but only if the statements are shown to be untrue, material and
+  known. No document shows that.
+
+### L-75 · 2025-12-29 · Spiegel's declaration ¶12: retained in "early 2024"; no assistant "Janine" · (h, e)
+
+- **Act:** FL-320 responsive declaration (drive:1bUF2pkzxfWI1Bmj27e2I8xejSDWDTH_R; "Executed December 29, 2025 at Los
+  Angeles, California"), ¶12: "In connection with the instant RFO, Respondent submitted a Declaration dated October 31,
+  2025, that includes as exhibits purported emails from me during the period August 2021 through July 2023 (Exhibit "F" to
+  the Declaration). I was not retained by Petitioner until early 2024. The exhibit includes a purported email dated
+  February 7, 2022, that refers to "my assistant Janine." I have never had an assistant named "Janine." Respondent has
+  fabricated these email exhibits and should be sanctioned for presenting falsified documents under penalty of perjury.
+  Petitioner requests Family Code §271 sanctions in the amount of $250,000 for Respondent's willful misconduct."
+- **Status:** DOCUMENTED (COURT / SWORN).
+- **Documents that bear on ¶12:**
+  - The Petition was e-filed "1/16/2024 9:23 AM", "Petitioner SHANNON MINOR by LANCE S. SPIEGEL (SBN 51625)" (EV-035).
+  - The first firm email in the mailbox is dated 2024-01-25T20:28:35Z (gmail:18d424f91222fab9).
+  - The pre-intrusion export: "'lance' 0 · 'spiegel' 0 · 'ysfamilylaw' 0" (85_V3).
+  - No firm sender, address or signature named "Janine" is recorded (lead: 63K). Halsey's own text of 4/22/2026
+    (gmail:19db6286e0fd8857, not re-opened): "Yes Lance she has 2 names same person."
+- **Documented discrepancies in the same declaration** (SPIEGEL_DECLARATIONS Table (i)), set side by side:
+  - ¶7 says the PDD was served "Later that same day" (6/17/2024). Exhibits 4 and 6 show 6/18/2024 (row 10, "DIFFERS").
+  - ¶11 says "Since entry of Judgment, on October 23, 2025". ¶10 and Ex. 9 give October 23, 2024 (row 14).
+  - ¶11.A refers to "An Updated Schedule of Assets and Debts dated February 7, 2025". The FL-142 in the record is dated
+    "FEBRUARY 24, 2025" (row 15).
+  - ¶11.B lists an I&E dated "January 1, 2025". The FL-150 was signed 1/7/2025 and filed 1/8/2025 (row 16).
+  - ¶12 asks for sanctions, and the 12/30/2025 RFO asks for a perjury finding (L-76). EV-003 made a §271 finding; the notes
+    record no perjury finding (row 23: "NOT ADDRESSED (perjury)").
+- **The documents do NOT show:** that any of these differences is material or known. They bear on PC 118 el. 4–5 only if
+  someone shows them material and knowing, and no document read shows either.
+- **Ruling:** EV-003 (see the standing note). The court's summary: "According to a sworn declaration from counsel Lance
+  Spiegel, the email correspondence did not in fact occur, and could not have occurred between counsel and Respondent, as
+  they occurred several years before counsel was retained. Moreover, counsel has declared that he never had any assistant
+  named Janine, which assistant is referenced in the emails."
+- **Bears on:** PC 118 el. 3–5; BPC 6068(d) el. 3.
+
+### L-76 · 2025-12-30 · the §271 sanctions RFO and Spiegel's declaration ¶2 · (h)
+
+- **Act** (drive:1MZDYigedKUsRAh3inRsw6j8eoooeFFW5; "Executed December 30, 2025 at Los Angeles, California"):
+  - Heading: "I. THE ALLEGATIONS AND EXHIBITS INCLUDED IN RESPONDENT'S DECLARATION FILED OCTOBER 31, 2025 INCLUDED FALSE
+    STATEMENTS AND FALSIFIED EXHIBITS".
+  - ¶2: "I was not retained by Petitioner until early 2024 and did not send the emails included in Respondent's exhibit,
+    including the email dated February 7, 2022, that refers to "my assistant Janine." I have never had an assistant named
+    "Janine." The purported responses from me do not remotely represent my customary drafting style and include direct
+    "links" to webpages. It is not my practice to include links in my emails. Without exception, my staff sends all links
+    on my behalf."
+  - FL-300 item 7(1): "A finding that Respondent committed perjury in connection with the facts and exhibits presented to the
+    court in his Declaration dated October 31, 2025".
+  - ¶3: fees "in excess of $73,000" for eight RFOs. ¶4: a further "$10,000", and "future fees to respond to frivolous
+    requests will exceed $150,000".
+- **Status:** DOCUMENTED (COURT / SWORN).
+- **Documented differences** (SPIEGEL_DECLARATIONS Table (i) row 24; §4.6):
+  - ¶2 says the responses "include direct 'links' to webpages". Exhibit 2 shows the placeholders "[link]" and "[link to a
+    generic financial literacy website]", and no URL ("DIFFERS").
+  - The RFO "contains no statement that six emails are signed 'Lance'".
+- **Rulings:**
+  - 3/2/2026: continued (D3).
+  - 4/21/2026: register "RFO - Sanctions — Denied" ×2; the EV-003 standing note.
+  - EV-003: "On 2/23/26, Petitioner withdrew her request for $250,000…"; "The issue of 271 sanctions is reserved to the time
+    of trial."
+  - On the fees, as 85_V3 quotes EV-003: "inadequate for the Court to assess the reasonableness of such fees".
+- **The documents do NOT show:** that the "links" wording is material or known (PC 118 el. 4–5).
+- **Bears on:** PC 118 el. 3–5; BPC 6068(d) el. 3.
+
+### L-77 · 2026-05-18 23:41:12Z · mvs@: "We intend to enforce the court's order" · (h)
+
+- **Act:** gmail:19e3d773b931aaea, to kat.flds@: "We intend to enforce the court's order and suggest that you consult with
+  counsel to determine your rights and obligations."
+- **Context:** it answers Schwenke's "I do not accept service by email." BEHAVIOR_g §A: "the "court's order" in context is
+  the 04/21/2026 Order After Hearing on the motion to quash".
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** any reference to writs, a levy, Ally or a bank. BEHAVIOR_g: this is "the only firm sentence
+  in the mailbox using the word "enforce"".
+
+---
+
+# ACTS BY HALSEY THAT THE RECORD SHOWS AND THAT BEAR ON THE GUARDRAILS (PC 518/519/523/524)
+
+These records protect Halsey; they are not findings against him. They are stated strictly as facts, verbatim, with no
+characterization. The statutes and their elements are in `LAW/VERIFIED_AT_SOURCE_2026-11-01_PC_guardrails_extortion.md`.
+
+- **G-0 · 2024-01-31 · to Spiegel** (as quoted in gmail:18d659c74c96f2f5): "I would be obliged to report such unauthorized
+  removal of company property to the authorities under normal circumstances."
+- **G-1 · 2025-06-23T20:25:58Z · reply to Spiegel's "Criminal Extortion" email** (gmail:1979e7813a178045; G3):
+
+  ```text
+  I have. There is no criminal extortion. The criminal court is beyond my
+  control, and I am offering nothing more than an opportunity to return what
+  has been taken without threatening prosecution. civil action. The
+  misappropriated funds for a "college" fund can be given back and should
+  be. You have failed to produce documents that I was owed 18 months ago,
+  and that's the issue.
+  ```
+
+- **G-2 · 2025-07-14 · letter to Spiegel** (gmail:1980a06eb3177ce9, as quoted in gmail:1980aad41bcc7b22):
+  - Item 4: "Felony complaints for grand theft, attempted murder, and attempted insurance fraud are actively under
+    investigation. I have no power to influence or discontinue that inquiry, and nothing in this letter is intended—or
+    could be construed—as leverage regarding it."
+  - Item 5: "If the 529 is not re-titled within 20 days, I will instruct civil counsel…"
+  - Proposal: "1. Withdraw the current DVRO… If these steps are completed, I will waive any civil-damages claim related to
+    the 529 loss".
+- **G-3 · 2026-01-05 · notice sent to the firm,** subject "FORMAL NOTICE: Criminal Spoliation of Evidence, Internal Leakage,
+  and Demand for Preservation" (gmail:19b8f1dd4d7a670c, per 85_V3 B-29; not opened by this ledger).
+- **G-4 · 2026-02-25T01:20:51Z · accusation to the City and BHPD, also addressed to lances@ysfamilylaw.com and
+  AnnaK@ysfamilylaw.com** (gmail:19c9262bb219c577).
+  - Recipients: MayorandCityCouncil@, Citymanager@, mstainbrook@, akale@ and ddimond@ (beverlyhills.org), and
+    Sharona@sharonanazarian.com.
+  - Subject: "Lances Motions and Google's Most Sophisticated AI Opinions Holding All Case Data."
+  - Text: "Technically, only Alex Kale knows how this is possible…at this moment." / "Please understand that these are not my
+    words. Blame Google Gemini after it reviewed all the emails with Officer Kale, Lance's law firm, and his motion." / "ALL
+    GENERATED BY GOOGLE AFTER INGESTING MY CASES. NOT BY ME!"
+- **G-5 · 2026-02-28T10:20:38Z · complaint** (gmail:19ca3c3b9151b03c), subject "CRIMINAL COMPLAINT AND REQUEST FOR ARREST
+  WARRANT FOR LANCE SPIEGEL".
+  - Sent To lances@ysfamilylaw.com among 17 To recipients, plus 4 Bcc (jswearingen.elliot@gmail.com, davidfife@gmail.com,
+    isnow@snowphipps.com, kat.flds@gmail.com). Three beverlyhills.org addresses bounced.
+  - Text: "FILING DEADLINE CONTEXT: Pre-emptive filing before March 2, 2026 court ruling".
+  - Section titles: "Lance's Impossible Dilemma (The Trap Is Set)" and "VII. STRATEGIC FILING CONTEXT / Pre-March 2, 2026
+    Filing Creates Checkmate".
+  - Ask: "I need a safe, mutually agreed way to deliver evidence collected meticulously over 365 days."
+  - Forward of 2026-02-28T10:24:51Z to tw@waitt.com: "FYI. Complicated is right but too many mistakes, too much ego and this
+    happens one of the top 3 divorce attorneys in LA."
+- **G-6 · 2026-03-01T02:30:34Z · forward to shannonmimor@gmail.com** (gmail:19ca73bbab906e02). The address is as the document
+  shows it, and the item does not otherwise identify its holder. Cover note:
+
+  ```text
+  I asked Lance Why? Twice. I could have helped you. Wanted to. Let Lance
+  know I don't want my children growing without the parents they love and
+  your situation was creating more and more attention, Federal attention. He
+  tried to prove no pre se would have control. He has very likely destroyed
+  your life when offered an off ramp. I hope he told you that. I want you to
+  know that. I'm truly sorry for you despite what you've done. I just needed
+  Lance to not want the TRO when he had broken so many laws to get it. Twice
+  he answered "no". Exactly why I offered it.
+  ```
+
+- **G-7 · 2026-03-29 and 2026-03-30 · messages to the DA and federal addresses.**
+  - Copied to shannonminor@gmail.com:
+    - gmail:19d3ac1d78697485 (Cc), "Marsy's Law Demand — Victim Right to Confer…";
+    - gmail:19d3fc9b6c9ad1cb (Bcc), "Preserved Evidence of Premeditated Murder Never Retrieved — Immediate Subpoena
+      Required".
+  - "Production 6" (gmail:19d3fff4f6f07acf) was **not** copied to shannonminor@. Its To line: NHochman@ and
+    info@da.lacounty.gov, USACAC.CV-CivilRights@, USACAC.Citizen.Complaints@, criminal.division@, oig.hotline@ and
+    tips@fbi.gov. Cc: henrynicholas@gmail.com, henryn@broadcom.com.
+  - Production 6 describes itself: "WHAT YOU ARE ABOUT TO READ WAS NOT WRITTEN BY ME. The attached documents were generated
+    by Google's Gemini AI … I am sending you Gemini's words, Gemini's graphics, and Gemini's analysis — not mine." / "Every
+    document attached to this email was generated by Gemini and sent to the agencies on this distribution."
+- **G-8 · 2026-04-20T15:52:53Z · notice to the DA** (gmail:19dab983ae3aa08a):
+  - "The complaint is attached. It comprises 72 paragraphs and 9 counts…"
+  - "A sanctions hearing premised on this evidence destruction is scheduled for April 24, 2026 — four days from today."
+  - The attachment "State_Bar_Complaint_Spiegel_2026-04-20.pdf" is 86 bytes. Its whole content is "$(base64
+    /home/ubuntu/.openclaw/workspace/case/drafts/state\_bar\_complaint\_spiegel.pdf)" (drive:1Uo94VcgB41Hyf-caw2dgDigZC9QRpad3).
+- **G-9 · 2026-04-22T22:50:29Z · email to Shannon, "Re: Money"** (EV-048; gmail:19db7634412cf151; checked at source). It replies
+  to her message "You have not paid a dime of support…":
+
+  ```text
+  I have not had a job. I am negotiating to get my original investors back. But you'll fuck it up. I am so happy I
+  filed a complaint with the California bar association a day before the one hour ambush over janine. I alerted them to
+  the fraud that was coming and the da as well. I could not be happier for you. You made my case 1 day after they
+  received the warning. Lance will be hearing soon. He can tell them he won and how. They are going to be thrilled to
+  see the manipulation up close and personal.
+  ```
+
+- **G-10 · 2026-08-08T00:36:58Z and 00:47:54Z · emails to lances@** (gmail:19fdecd35a44d2ec; gmail:19fded7384ca4b84).
+  - The ask is quoted under L-64. The second copy went Bcc to 12 addresses.
+  - One Bcc recipient replied, cc lances@ (gmail:19fdef1dd95b745c): "Yeah.Paulsy, I think you sent this to the wrong email.
+    This is Craig Walker, not Lance."
+- **Outside this ledger's subject.** Halsey's email of 1/11/2026 to City officials, which Det. Kalé answered in
+  gmail:19bb38cf19aec75b, contains a settlement demand addressed to the City. It concerns neither Spiegel nor Shannon and is
+  not quoted here. It is listed only so that a guardrail review sees it.
+
+---
+
+# STATUS OF THE COURT ROUTES
+
+Stated without characterization.
+
+- **Family court, 24STFL00432** (register B, printed 7/13/2026).
+  - **Party block:** "AVALOS ORSON Depositor" · "MINOR HALSEY Respondent" · "MINOR HALSEY Appellant" · "MINOR SHANNON
+    Petitioner" · "SPIEGEL LANCE STEPHEN Attorney for Petitioner".
+  - **Halsey's counsel of record:**
+    - The 5/21/2025 printout: "PROVINZIANO ALPHONSE FRANCIS - Attorney for Respondent for Respondent".
+    - "Substitution of Attorney" filed by Respondent on 10/18/2024, 10/28/2024 and 1/21/2025.
+    - 6/2/2025 "RFO/MTN - Withdraw/Be Relieved as Counsel of Record" (Respondent); 6/5/2025 "RFO - Withdraw/Be Relieved as
+      Counsel of Record — Granted".
+    - The printouts of 1/2/2026, 2/8/2026, 6/1/2026 and 7/13/2026 list no attorney for Respondent.
+  - **§271:** "The issue of 271 sanctions is reserved to the time of trial." (EV-003). On 8/28/2025: "Trial Setting Conference —
+    Held - Trial Date Set". The trial date is not in the register text.
+  - **Later hearings:**
+    - Printouts A and B list "7/21/2026 8:30 Department 315 … RFO - Family Law". A 7/21/2026 minute order exists
+      (gmail:19f870bf19d5f34f, attachment "2026-07-21 [C] MO.RFO.Preserve.Rights.Objs.pdf"; not read).
+    - Schwenke's ex parte notice of 7/31/2026 (gmail:19fb9141436502ce): "Mr. Minor will be seeking a request for order to
+      Set aside/vacate nonappearance finding of July 21, 2026 and any orders issued in Respondent's absence (CCP §
+      473(b)); stay; evidence preservation; order shortening time."
+    - Schwenke, 8/18/2026: "Your hearing is scheduled for 9-29-2026." No outcome appears in any document read, and no
+      register printout after 7/13/2026 was found.
+- **Appeal.**
+  - Register: "6/18/2026 Appeal - Notice of Appeal/Cross Appeal Filed General Appeal (Respondent)"; "6/26/2026 Appeal - Notice
+    of Filing of Notice of Appeal"; "7/7/2026 Appeal - Notice of Default Issued for NOA filed 6/18/2026. DEFAULT FOR
+    DESIGNATION. (Respondent)".
+  - The Notice of Default, filed July 7, 2026: "TO APPELLANT: Your appeal has been placed in default pursuant to California
+    Rules of Court (CRC), rule 8.140(a) for FAILING TO DESIGNATE what documents and oral proceedings, if any, are to be
+    included in the record that will be sent to the Court of Appeal, pursuant to CRC, rule 8.121." / "IF YOU FAIL TO COMPLY
+    WITH THE ABOVE ITEM(S) WITHIN 15 DAYS after this notice is sent, your appeal will be referred to the Court of Appeal for
+    dismissal."
+  - **"CLERK'S NOTICE OF NON-COMPLIANCE OF DEFAULT ON APPEAL", FILED 08/10/2026** (drive:1Rekh834DFHTj7VhkYcuifd8xGHlQ8ez6),
+    to the "2ND District Court of Appeal": "The above-entitled appeal record consisting of the following is herewith
+    forwarded for consideration to dismiss the appeal pursuant to California Rules of Court, rule 8.842, 8.874, or 8.924." /
+    "[✓] Notice of Appeal/Cross-Appeal filed on 06/18/2026" / "[✓] Clerk's Notice of Default on Appeal mailed on 07/07/2026"
+    / "[✓] Other: FAILING TO DESIGNATE what documents and oral proceedings, if any, are to be included in the record that
+    will be sent to the Court of Appeal, pursuant to CRC, rule 8.121."
+  - "REVIEWING COURT CASE NUMBER:" is blank. No dismissal order appears in what was read.
+- **Civil process.** JURISDICTION_SPLIT Part A says the civil thread (26STCV25125) owns "discovery and subpoenas to private
+  parties and providers — … Lance Spiegel's firm, Shannon Minor, … preservation letters to any of them; any spoliation
+  motion; the 21 April 2026 section 271 order and Exhibit F".
+- **State Bar.**
+  - 24-O-18793 was closed on 7/24/2024.
+  - 26-O-13820 was closed on 5/6/2026: "If that court were to find any impropriety by the lawyer, please forward such written
+    findings to our office for review."
+  - Portal reference 268155 (4/20/2026) has a receipt only and remains open (OPEN_REQUESTS R-4).
+- **District Attorney.**
+  - 3/2/2026 (gmail:19cafa12df3a5ca4): "Please be advised that all crimes must be reported to the police for a proper
+    investigation. Absent such an investigation and a criminal finding, this office is unable to act."
+  - BHPD Records, 10/9/2026: "1(e): The case was submitted to the DA's office on 02/09/2026 and DA evaluation was completed on
+    03/19/2026."
+  - DA, 10/22/2026 (Rodriguez), on the Shannon Minor case: "prosecution was declined on March 19, 2026… I concur." Spiegel
+    is not mentioned.
+- **BHPD / City, PRA PD-2026-677.** The item-6 records are withheld under Gov. Code § 7923.600. Items 5(d) and 13(b) are still
+  being searched, with the next update due "by 6 Nov 2026" (tracker row 18 @6f5d8b0).
+- **This thread's gate:** JURISDICTION_SPLIT E.4, quoted at the top of this ledger.
+
+---
+
+# WHAT NO DOCUMENT SHOWS
+
+These attributions exist only in AI material or in Halsey's account. Each item names the document that would settle it and
+who holds that document.
+
+1. **Spiegel, or anyone acting for him, deleted emails from halsey2005@gmail.com,** on 2025-08-04 or on any date (L-01).
+   - Settled by: Google's server-side records (sessions, IPs, devices, deletion events) for April–September 2025.
+   - Held by: Google, by valid legal process (EV-053; Q-F3).
+2. **"Lance sent the malware"** (L-02).
+   - Settled by: a forensic image of the computer; the attachments as received; the firm's sent copies.
+   - Held by: Halsey; the firm (through the civil process).
+3. **Documents were "created and inserted" into his files by someone else** (L-03), and **the Exhibit F document was
+   "constructed on my computer based on the virus"** (L-78).
+   - Settled by: the Workspace Drive audit-log create event for drive:1vXbXc01VyXvch2Ae9-JoVsR1LvFkhjQAdh9b6TfCEos; its
+     version history; an examination of the device.
+   - Held by: Google (admin console, with Halsey as administrator); Halsey.
+4. **"Lance or his counsel read a "terrible documents" email in court"** (L-04), and **the firm's mail held "fakes emails from
+   me"** (gmail:19cfcf815d187364).
+   - Settled by: the reporter's transcript; the papers that were inside the envelopes.
+   - Held by: the court reporter and LASC; Halsey.
+5. **The 2/27/2026 Apple password change was "Lance's specific targeting"** (L-05).
+   - Settled by: Apple's account security log. Held by: Apple; Halsey.
+6. **Someone listened in on a video call** (L-80).
+   - Settled by: the provider's participant and join log. Held by: the provider (Dialpad appears in his mail); Halsey.
+7. **Spiegel used information that existed only in Halsey's private channels** ("telepathic", L-79).
+   - Settled by: the filing and the information in it. Held by: Halsey, who would name it (QUESTIONS_FOR_HALSEY); the LASC
+     file.
+8. **The DVRO papers include mediation material, and "Lance paid off my mediator"** (L-09; lead 81B C5).
+   - Settled by: the 6/24/2025 DVRO request and its exhibits (drive:1MXzsfi8qeo2ii0uzjocaSScaHuS2rrdr); the mediator's file.
+   - Held by: LASC; Jacobson.
+9. **Spiegel obtained the 567-page police report** (L-61), **or communicated with Det. Kalé, BHPD, the City or the DA** (L-59,
+   L-60). This includes the "Triangle of Corruption" custody hypothesis, which appears only in AI material (lead: EV-056).
+   - Settled by: the BHPD records withheld under Gov. Code § 7923.600 (item 6) and those under item 5(d); Exhibits 18 and 19
+     of the 4/18/2025 declaration; the DA hold.
+   - Held by: BHPD/City; LASC and Halsey's served copy.
+10. **Any paper was mailed on a date other than its declared service date.** This covers "All mail Lance claimed to have
+    "served" over 8 months arrived in one batch" (G1) and "falsely served 12 out of 12 times" (gmail:19db5366736c3eed).
+    - Settled by: a match of envelope to paper; the POS images in the court file; USPS or Correos records for each label
+      (one is already in hand, L-81); the firm's postage and mail log.
+    - Held by: Halsey; LASC; USPS / Correos de México; the firm (through the civil process).
+11. **Notice of the 4/21/2026 hearing was "~90 minutes"** (L-41).
+    - Settled by: the notice emails and their headers. Held by: Halsey's mailbox; the firm.
+12. **An ex parte notice was emailed on 8/18/2025 after "Non-consent #7"** (L-50; lead 81B B24).
+    - Settled by: the emails themselves. Held by: Halsey's minorventures mailbox; the firm.
+13. **The firm caused the Ally restriction, and an Ally representative named Spiegel's office** (L-63, L-64).
+    - Settled by: the Notices of Levy received on 7/29 and 8/5/2026; Ally's legal-process and ECR files (64504079 /
+      65504572); Ally's original reply (lead: the B-1/B-2 screenshot); LASD levy file 2026069969.
+    - Held by: Ally; LASD.
+14. **"$550,000 … used to pay Spiegel"** (L-67).
+    - Settled by: the firm's fee ledger and payment sources; Shannon's bank records.
+    - Held by: the firm; the banks (through the civil process, D-66).
+15. **Spiegel phoned Halsey's counsel about whether he had been paid** (L-68).
+    - Settled by: prior counsel's native billing record. Held by: prior counsel; Halsey.
+16. **"how should we divide the Vanguard fund"** (L-57).
+    - Settled by: Provinziano's file, or an interview with him. Held by: Provinziano.
+17. **"Spiegel specifically demanded the November 11, 2022 email"** (EV-065, Halsey's adopted letter, U). The thread
+    18461348b9fe0954 is intact in the live mailbox.
+    - Settled by: the paper or transcript in which a demand was made. Held by: LASC; the court reporter.
+18. **Any email between Halsey and Spiegel or his firm before 2024-01-25** (Q-F1), which is the subject of Exhibit F. The
+    EV-003 finding stands.
+    - Settled by: provider records of any pre-2024 traffic. Held by: Google and Microsoft; the firm.
+19. **A firm named "Yanez & Sherman"** (CANON §3.1, AI-LEAD). It is false per F-18, and no document shows such a firm.
+20. **Who changed the halsey2005@gmail.com password on 2022-09-14** (X-01). The index records it as "unexplained".
+    - Settled by: Google's account activity for that date. Held by: Google.

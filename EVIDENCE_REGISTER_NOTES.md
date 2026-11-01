@@ -103,3 +103,111 @@ DOCKET_24STFL00432 was not read line by line in its §4–§6 (verbatim docket t
 - SPIEGEL_DECLARATIONS_2025-12.notes.md
 
 To rebuild after they land, run `python3 -I reg/build.py` from the scratchpad. It re-scans every notes file for ids; new hand annotations go in `reg/ann.py`.
+
+---
+
+# PASS 2 (register maintenance, 2026-11-01)
+
+Same rules as pass 1: INVENTORY/AGENT_RULES.md obeyed (read-only everywhere; only EVIDENCE_REGISTER.tsv and this file written; no git; no Gmail or Drive call). The pass-1 schema, class rules and the judgment calls in §5 above are kept. `reg/build.py` was **not** re-run, because it renumbers every row. Pass 2 is an append script: scratchpad `reg2/pass2.py`, with hand annotations in `reg2/ann2.py`, the id scan in `reg2/scan.py` → `scan.json`, and the pass-1 register backed up at `reg2/EVIDENCE_REGISTER.pass1.bak.tsv`. To reproduce: copy the backup over the register, then run `python3 -I reg2/pass2.py`.
+
+## P2.1 Counts
+
+| | before | after |
+|---|---|---|
+| rows | 2,815 | **3,512** (new SP-2816 … SP-3512) |
+| CORRESPONDENCE | 738 | 1,391 |
+| WORK-PRODUCT | 836 | 837 |
+| COURT | 565 | 520 |
+| SWORN | 383 | 387 |
+| DUPLICATE | 74 | 184 |
+| AI-LEAD | 133 | 135 |
+| ACCOUNT | 86 | 58 |
+| read: metadata-only | 2,291 | 2,871 |
+| read: not-read | 394 | 305 |
+| read: full | 112 | 283 |
+| read: partial | 18 | 53 |
+
+- **New rows: 697.** 191 come from READING_NOTES (steps 1 and 3) and 506 from gmail_inventory.tsv (step 2). By class: CORRESPONDENCE 650, DUPLICATE 25, WORK-PRODUCT 9, COURT 8, ACCOUNT 3, AI-LEAD 2. By read_status: metadata-only 552, full 92, not-read 41, partial 12. They are numbered in date order among themselves, with `unknown` dates last.
+- **Existing rows changed: 278.** SP-ids, EV-ids and pointer ids are unchanged; this was checked against the backup.
+  - 120 were updated from the new notes: read_status raised (102), date set (39), tags merged (65), class set (20), type set (12).
+  - 75 Gmail rows that pass 1 marked not-read because they were "not in gmail_inventory" are now in the inventory. They are metadata-only, with the inventory header appended to the note.
+  - 76 step-3 copies became DUPLICATE, and their 6 primaries were annotated.
+  - 134 pointers had `thread:unknown` (or the message's own id) replaced by the thread id that the inventory or the notes give. Another 11 new rows took their thread from writs_levy_locate.tsv.
+- Notes field: each pass-2 text starts with `P2:` and the pass-1 note is kept after ` || `. Notes are clipped at 480 characters.
+- **Structural checks (re-run independently):** every line has 9 columns, the 3,512 SP-ids are unique and run without gaps, and all classes, types, tags and read_status values are valid. The only pointers carried by more than one row are the three shared pass-1 fallbacks (§2).
+
+## P2.2 Step 1: READING_NOTES not registered in pass 1
+
+Files read in full this pass:
+- DECL_2026-03-27_exhibits_A-C, BEHAVIOR_c_proofs_of_service, BEHAVIOR_f_police_contacts, BEHAVIOR_g_writs_schwenke_2026, SPIEGEL_DECLARATIONS_2025-12, WRITS_2026-04-28_and_appeal_notice, ENVELOPE_PHOTOS_originals, EXHIBIT_F_chain_emails and EXHIBIT_F_source_doc_metadata. These are the nine files newer than pass 1.
+- MO_2026-04-21_compel_disclosures, G4_stip_personal_service_DVRO_2025-11-24, JOLIE_context_only, COURT_ORDERS_and_FL141 and BRIEF_and_DECL_2026-03-27_text were re-read. They add nothing new; their documents were already registered.
+
+Every 16-hex Gmail id and every 33- or 44-character Drive id in the nine new files was scanned with the pass-1 regexes: 204 Gmail and 122 Drive ids. Each one is annotated by hand, already registered, or excluded. The script stops if any id is left unannotated.
+
+**Excluded:**
+- Folders: 13AdG4-9…, 18meu_Dv…, 1veFjTj9…, 1OgvJLK1… ("CLOSED LOOP…" folder), 1i6TqFK6…, 17Jjsm6E…, 1SUO9jGS… and 15Kwe3SX….
+- The sha256 prefix 16dc9cf484dda97a (ENVELOPE image table).
+- Truncated ids that cannot be resolved (13tfj0UM7U8F… and the others in the ENVELOPE §2 list).
+
+**Named rows:**
+- **EV-042 to EV-045 (shared finthread pointer):**
+  - EV-042 (SP-0590) stays partial: pp.4 and 7–15 are now read, but the pp.5–6 photos are not read in full.
+  - EV-043 (SP-2798) is dated 2026-03-27 and partial.
+  - EV-044 (SP-2799) is dated 2026-03-17 (execution date of both Exhibit B declarations) and full.
+  - EV-045 (SP-2800) is dated 2026-03-27 and full. It stays AI-LEAD; p13's last line is cut off by the source.
+- **Preserved minute orders:** EV-002, EV-003, EV-004 and EV-005 (SP-0565, SP-0667, SP-0668, SP-0669) were already "full" in pass 1. EV-001 preserved (SP-0666) stays **not-read**: no notes file read it.
+- **Writs** W1, W2 and W3 (SP-3373 to SP-3375) and the clerk's Notice of Non-Compliance (SP-3433) are COURT and full.
+- **Envelope photos:** the envelope-photo PDF 1zNB5FyW… (SP-2776) is now dated 2026-03-17, photo, partial. The overview 16SIlr36… (SP-1004) is full.
+- **Exhibit F chain:** the 18 messages are full. Thread ids that are not among the returned messages are rows marked not-read.
+- **Exhibit F source doc** 1vXbXc01… (SP-0323) stays AI-LEAD and metadata-only, with the Drive metadata added to the note.
+
+## P2.3 Step 2: Gmail inventory (874 rows; 663 new since pass 1)
+
+- **Reconciliation of the 663 new inventory rows:** 146 were already registered in pass 1 (ids named in READING_NOTES), 11 were added in step 1 from the new notes, and 506 are new step-2 rows. All 874 inventory messages are now in the register.
+- **Class** is provisional from sender and subject:
+  - CORRESPONDENCE, which covers firm mail (A) and Halsey's SENT mail (E);
+  - AI-LEAD for the 26 appendix messages (all already registered in pass 1) and for the monitor sender/subject pattern;
+  - ACCOUNT for Google and Apple account senders.
+- **Result:** all 506 new rows are CORRESPONDENCE. The new A and E rows have attachments "(not fetched)", so no name-based AI-LEAD match was possible.
+- **Tags:** A gives keyword tags over subject and attachments; E gives da, police or statebar only when the subject shows it; C, D, F and G map as in pass 1.
+- **read_status:** metadata-only. Where a notes file read the message, the step-1 annotation wins and the inventory header is appended to its note.
+
+## P2.4 Step 3: writ/levy locate (court or bank documents only)
+
+- **Added (new rows):**
+  - the three 2026-08-24 writ exports;
+  - the Notice of Non-Complaince export (1Rekh834…). It is not in writs_levy_locate.tsv; its source is the WRITS notes.
+  - the LASD levy-file request PDF 11dNGcfS… (SP-3494, CORRESPONDENCE, unopened).
+- **Updated:** the Ally SecureMessageAtt.html export (SP-2342) is now dated 2026-09-04; its note names the carrier email 1a06da14…; content still unread.
+- **One primary plus DUPLICATE rows** (same title and same size; not hash-verified; all unopened):
+
+| group | copies | primary | primary chosen as |
+|---|---|---|---|
+| ALLY BANK - 0001-0238.pdf | 16 | SP-1435 | earliest copy |
+| ALLY FINANCIAL INC. - 0001.pdf | 16 | SP-1992 | earliest copy |
+| Ally_Regulatory_Complaint_Package_2026-10-29.pdf | 2 | SP-1426 | earliest copy |
+| 2024-10-31 Notice to Consumer, Ally Bank | 16 | SP-1156 | `2024-10-31__ysfamilylaw.com__` export |
+| 2024-10-31 Notice to Consumer, Ally Financial Inc. | 16 | SP-2310 | `2024-10-31__ysfamilylaw.com__` export |
+| 2024-10-31 Notice to Consumer, Ally Servicing LLC | 16 | SP-0844 | `2024-10-31__ysfamilylaw.com__` export |
+
+- The three notice primaries are dated 2024-10-31, from the title and from the firm's transmittal 192e4eb4… (read in full).
+- Not added: the 2010 Sotheby's items and the AI monitor rows.
+
+## P2.5 Judgment calls
+
+1. **EV-108.** The primary stays on the index pointer, File C 1r_5T4D4… (SP-0397), under pass-1 rule 2, even though File B 1MZDYige… (SP-0395) holds the firm's original bytes. SPIEGEL_DECL shows File C is a PDFium re-save of File B with the same text. File B, D2 1WMbJ0KT… and D2b 1DZJSg1s… are DUPLICATEs of SP-0397.
+2. **15X2aSba… (SP-0386)** is now hash-verified byte-identical to File A 1bUF2pkz… (SP-0390; sha256 6f0f3b39…). It is now a DUPLICATE, and SP-0390 is SWORN and full. The EV-020 family (SP-0393 and the others, same 4,069,611 B) was not hashed by any reader, so pass-1 call 14 stays unresolved.
+3. **Provisional classes corrected where a reader saw the face of the document:**
+   - SP-0227, SP-0869, SP-2368, SP-2393 and SP-2683 → SWORN;
+   - SP-1544 and SP-2760 → COURT;
+   - SP-0932, SP-0986 and SP-2730 → CORRESPONDENCE;
+   - SP-0390 → SWORN.
+4. **Same-size copies are DUPLICATE with "not hash-verified"** (pass-1 rule 2):
+   - 20 copies of the 16,443,000 B 4/18/2025 Supplemental Pleadings → SP-0221;
+   - 4 copies of Halsey's "Spiegel, The Beverly Hills Police Department… FORMAL NO.pdf" → SP-1388;
+   - the two 414,452 B "e8a95c7b…" PDFs → the Provinziano letter SP-1221 (R1, 1CuG6…). Only the size matches; the content was not checked.
+   - Copies with the same text but different bytes: SP-1856 → SP-0227; 1thu8Zr7… → SP-1332; 1y5-lA6t… → SP-0221.
+5. **Thread ids** that the notes name but that are not among the returned messages get their own rows marked not-read, as in pass 1, with a note.
+6. **1a01fcb067325e9b** appears only in BEHAVIOR_g's §D table, for the message whose text §B gives under 1a01fc775016ae06. Both are rows; the discrepancy is not resolved.
+7. **1a015ef09efeb917** is AI-LEAD: its body quotes an AI analysis and a monitor email. The BHPD "Marsy's Law" dashboard images are WORK-PRODUCT, not AI-LEAD, because no document read shows they are AI output. The note records the BEHAVIOR_f §2.5 description.
+8. **The Ally regulatory package** keeps its provisional ACCOUNT class: it is unopened and its authorship is not established. The Provinziano invoices are ACCOUNT. The Square invoice notices are CORRESPONDENCE (type other).
