@@ -6,6 +6,7 @@
 - **Line ranges read:** 1–315
 - **Status:** **READ IN FULL** (no line over 1,500 chars)
 - **Reader:** Opus subagent (claude-opus-5-5), 2026-11-01. Read-only.
+- **Quotation convention:** text inside quotation marks is verbatim from the source (including the source's own nested quotes and italics where shown); where a quotation contains the source's double quotes, those inner marks may be rendered as single quotes. "L###" = line number in this file at 6f5d8b0.
 - **Class of this document:** WORK PRODUCT — a repo audit note, "Written 2026-08-10 18:15 UTC (shell-verified). Fact tags: (V) read at source this session · (Q) quoted with locator · (U) user-stated · (X) unverified · (I) inference." (L3–L5). It transcribes/decodes primary documents (Respondent's Brief and Declaration of 3/27/2026 with Exhibits A–C; Gmail messages). **This reader did not open any of those primary documents.** Exhibit C, as the note itself says, is an AI-generated summary → class **AI-LEAD** (AGENT_RULES rule 6).
 
 ---

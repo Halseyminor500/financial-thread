@@ -6,6 +6,7 @@
 - **Line ranges read:** 1–87
 - **Status:** **READ IN FULL** (no line over 1,500 chars)
 - **Reader:** Opus subagent (claude-opus-5-5), 2026-11-01. Read-only.
+- **Quotation convention:** text inside quotation marks is verbatim from the source, except that where a quotation itself contains the source's double quotes, those inner marks are rendered as single quotes. "L##" = line number in this file at 6f5d8b0.
 - **Class of this document:** WORK PRODUCT — a governance memo of the criminal thread (Front 4). L4: "Written under D-66 after Halsey's ruling of 28 Sep 20:16 UTC. Every fact below is from a file or message read in full and named; nothing is from memory. No cause is named and no motive characterised (D-44/47/48)." Not a primary document; it cites Gmail ids and repo files that this reader did not open.
 
 ---

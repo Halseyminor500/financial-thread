@@ -6,6 +6,7 @@
 - **Line ranges read:** 1–107
 - **Status:** **READ IN FULL** (every line; longest line, L46, is 1,998 chars and was read to its closing `|`)
 - **Reader:** Opus subagent (claude-opus-5-5), 2026-11-01. Read-only; nothing in the tracker was modified.
+- **Quotation convention:** text inside quotation marks is verbatim from the source, except that where a quotation itself contains the source's double quotes, those inner marks are rendered as single quotes. Bold/italics inside quotes are the source's. "L##" = line number in this file at 6f5d8b0.
 - **Class of this document:** WORK PRODUCT (a repo compilation). L107: "*Compiled 2026-08-20 from Google Drive sources read at source in-session (file IDs inline) and two Gmail cross-facts cited as given. V/U discipline per header. Re-verify every quote against the page image before any court or Bar filing.*" Its (V) quotes are the compiling session's transcriptions of primary documents; **this reader opened none of the primary documents.**
 
 ---
