@@ -44,3 +44,13 @@ Rules:
 
 Not read by this thread: "Production 8", four point-of-contact emails (DOJ, OIG, Criminal Division, BHPD IA), the kat.flds replies, and all attachments.
 
+## D. The levy records (behavior g) — asks owned by the financial thread; mirrored as pointers only
+
+| # | First asked (UTC) | By → to | The ask | Reply | Status |
+|---|---|---|---|---|---|
+| R-15 | 2026-08-24 | Halsey → Katherine Schwenke (katflds@gmail.com), thread 1a03183b93f08779 | the writ copies and their particulars | Schwenke 2026-08-18 (msg 1a0159a192615118): "Lance had writs issued and levied your bank accounts. He does NOT have to provide you with notice of doing it. The court signed the writs and he served your bank."; 2026-08-24 (msg 1a0352339565d674): "See attached Writs you requested copies of." — three "Writ issued 4-28-2026" PDFs (Drive exports 1Pr59CjO_0us4hlAWzIOPXJJ6b21p_IV3, 1QD2SBrs5H1iCiANuaHsXYd3eVBl0g-NY, 1epfUvZ9OJoJFlQeUeArJXrQLaqtiZNjF) | **Answered** (writs in hand; read in READING_NOTES/WRITS_2026-04-28_and_appeal_notice.notes.md when it lands) |
+| R-16 | 2026-10-29 (msg 1a1883ded810e8f8), repeated 2026-10-31 (1a19038a3345991a) | Halsey → LASD, "Judgment debtor records request — civil levy file 2026069969 / 24STFL00432" | the levy file records (notice of levy, memorandum of garnishee, returns) | LASD 2026-10-29 (msg 1a188bb739993167): the request was forwarded to the Beverly Hills office | **Open — reply owed by LASD; first asked 2026-10-29.** Pointer only |
+| R-17 | 2026-10-31 (msg 1a19038a7b1f6fa6; thread 1a06da1478a8cadd) | Halsey → Ally (depositsecr@ally.com), "Follow-up: missing levy notice and funds-disposition records — ECR 64504079 / 65504572" | the levy notice and funds-disposition records; Halsey's message restates Ally notices "on July 29 and August 5" and an "August 6 letter" to Kingsburg, and "$4,156.66 restrained on August 6, 2026" (his account of Ally's records) | Ally's 9/4/2026 secure message: not read by this thread | **Open — reply owed by Ally; first asked 2026-10-31** (and the August asks, R-7). Pointer only |
+
+Date note (documented vs account): Halsey's first email reporting the restriction and the referral is msg 19fdecd35a44d2ec, sent 2026-08-08T00:36:58Z = Friday 2026-08-07 17:36 PDT, the date the civil complaint was FILED (08/07/2026). His later statements give "same day" (8/12), "the day before I filed" (8/20), and "restrained on August 6, 2026" (10/29, 10/31). The financial thread's F-C1 ("about 1:50 p.m. on Aug 8") rests on a pasted message dated "08/08/2026 at 1:50 PM" about the absence of a written explanation. These are for Halsey to reconcile and, if he chooses, to carry to the financial thread.
+
