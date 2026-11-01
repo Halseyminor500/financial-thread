@@ -805,7 +805,9 @@ Context records. These are acts by others and are not counted.
 - **Declared service:** P7 (D13 p21) and P8 (D14 p3), "January 8, 2026", A/D, annak@, ANNA KRALLE VANMALI.
 - **Transmittal:** gmail:19b9ed5b3f686f69, 2026-01-08T18:19Z. Same day.
 - **Register:** 1/8/2026 "Objection Objection and Request to Strike (Objections)" (Petitioner).
-- **Label:** none legible matches. **Gap:** 47 days.
+- **Label:** "JAN 08, 2026" ($7.55), the same day, with a partial machine cancellation "Los Ange[…]" / "THU 0[8?] […]".
+  A contents photo (p-005) shows a paper captioned "PETITIONER'S OBJECTIONS AND REQUEST TO STRIKE DECLARATION OF
+  RESPONDENT"; which envelope it came out of is not shown. **Gap:** 47 days.
 - **The documents do NOT show:** which envelope carried these papers.
 
 ### L-33 · 2026-01-21 · Notice of Taking the DVRO Hearing Off-Calendar (POS P9) · (c)
@@ -815,7 +817,7 @@ Context records. These are acts by others and are not counted.
 - **Register:** 1/21/2026 "Notice Notice of Taking Hearing Off-Calendar" (Petitioner).
 - **Halsey's account:** gmail:19be3bbd3fa862b8, 1/22/2026: "You cannot serve me by email or by mail…" (85_V3: U; header
   pull owed).
-- **Label:** none legible matches. **Gap:** 34 days.
+- **Label:** none within four days; the next label, "JAN 30, 2026", is 9 days later. **Gap:** 34 days.
 - **The documents do NOT show:** which envelope carried this paper.
 
 ### L-34 · 2026-01-27 · Income and Expense Declaration (POS P10) and Responsive Declaration (POS not read) · (c)
@@ -827,8 +829,8 @@ Context records. These are acts by others and are not counted.
   - gmail:19c0338466026974 (2026-01-28T06:08Z), for the Responsive Declaration: "will follow by U.S. Mail". Its POS
     (drive:181IlSVc8O7P8dZB61r7QHKz5_qKAJa_4) was not read.
 - **Register:** 1/27/2026 "Proof of Service Proof of Service (Comment)" and "Proof of Service - Mail" (Petitioner).
-- **Label:** "JAN 30, 202[?]" (envelope #7) is three days after this declared date and three days before the 2/2 declared date
-  (L-35). Which paper it carried is not shown.
+- **Label:** "JAN 30, 2026" ($29.70, orange; CN22 "Date of Mailing: 01/30/202[6]") is three days after this declared date
+  and three days before the 2/2 declared date (L-35). Which paper it carried is not shown.
 - **Gap:** 28 days.
 
 ### L-35 · 2026-02-02 · two ex parte Responsive Declarations, with the vexatious-litigant FL-300 as Exhibit 1 (POS P11, P12) · (c)
@@ -838,12 +840,17 @@ Context records. These are acts by others and are not counted.
 - **Transmittal:** gmail:19c20c6b957e80c5, 2026-02-02T23:53Z: "Hard copies have been mailed". Same day.
 - **Register:** 2/2/2026 "Proposed Order - Vexatious Litigant - Motion/RFO/Other", "RFO/MTN - Family Law" and "Responsive
   Declaration" ×2 (Petitioner).
-- **Label:** envelope #7 (orange/kraft, "$29.70"), "JAN 30, 202[?]". That is three days before the declared service date.
-  The FL-300 itself is dated 1/30/2026.
+- **Labels:**
+  - "FEB 02, 2026" ($13.00) is the same day as the declared date. That envelope is photographed with an FL-300 under a
+    binder clip (p-006).
+  - The orange $29.70 envelope, "JAN 30, 2026", with the CN22 "Date of Mailing: 01/30/202[6]", is three days before the
+    declared date and the same day as the FL-300's own date.
+  - Contents photos p-007/p-008 show an FL-320 "RESPONSIVE DECLARATION TO REQUEST FOR ORDER" with the hearing "February 3,
+    2026 / 8:30 a.m. / 23".
 - **Gap:** 22 days.
 - **Ruling:** the 4/21/2026 order "MO 4-21-2026 Pet RFO filed 2-2-2026 denied" (drive:1jPi5RYwRBhJBWUWgflimv-FNN6KvVutR,
   not read).
-- **The documents do NOT show:** what envelope #7 contained, or whether it is the same envelope as #5 on p. 5.
+- **The documents do NOT show:** which paper either envelope contained.
 
 ### L-36 · 2026-02-23 · Spiegel's Reply Declaration, an I&E, and two PJ CMS (POS P13–P16) · (c, h)
 
@@ -860,7 +867,7 @@ Context records. These are acts by others and are not counted.
 - **Register:** 2/23/2026 "Declaration - Income and Expense", two "Post-Judgment Request for Order Case Mgmt Statement FAM
   119", and "Reply Reply (Comment)" (Petitioner).
 - **Ruling:** EV-003: "On 2/23/26, Petitioner withdrew her request for $250,000…".
-- **Gap:** 1 day. Every legible label is dated at least 24 days earlier.
+- **Gap:** 1 day. Every label seen is dated at least 21 days earlier (the latest is FEB 02, 2026).
 - **The documents do NOT show:** whether any 2/23 paper was in the bundle delivered the next day.
 
 ### L-37 · 2026-02-24 · three Responsive Declarations (POS P17–P19) · (c)
