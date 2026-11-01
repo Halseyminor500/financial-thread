@@ -179,7 +179,7 @@ Category roll-up for this file:
 - (a) **None attributed to Spiegel or his firm.** Related statements: Halsey told Spiegel he was locked out of an account “which Shannon was able to solely control” (B3, L157) — attributed to Shannon; the 7/21/2026 “locked me out” line is “(U — an account-lockout claim dated 7/21/2026, uninvestigated)” (L203) and not attributed to Spiegel; and the file reports “the Spiegel lane itself shows no visible hole.” (L110)
 - (b) C5 (TRO "Exhibit C" mediation email), C39 (WhatsApp quotes in a Spiegel supplemental declaration). Both census-only.
 - (c) C1, C6–C11, C16, C18, C20, C23–C25, C27, C29–C34, C36, C37.
-- (d) C15 and C19 (email service with stated non-consent); C11 (Halsey's statement); email-service candidates C1, C7–C10, C16, C18, C20, C23, C33, C36.
+- (d) C19 (ex parte notice by email the day after Halsey's “Non-consent #7” (L179); census-only); C15 (ex parte notice by email, and Halsey's non-consent replies the same day — the row gives the notice time as “9:55 AM” with no zone and the replies as “18:59/19:04/19:08Z” (L175), so their order is not established here); C11 (Halsey's statement); email-service candidates C1, C7–C10, C16, C18, C20, C23, C33, C36.
 - (e) C26 only (I&E, CSV, U). **Preliminary declaration of disclosure and the 6/18/2024 email-only proof of service: not mentioned in this file.** (The only "6/18" items are the 6/18/24 WhatsApp messages, L78/L253, and a 2026-06-18 LDA service row, L201.)
 - (f) C41 (negative), C42–C43 (Halsey's own allegations/artifacts); the two-person custody question has “**no new evidence either way**” (L265).
 - (g) C38 only; Ally entities appear only as 10/31/2024 subpoena targets (C8).
