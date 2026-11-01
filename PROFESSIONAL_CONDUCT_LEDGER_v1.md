@@ -1378,3 +1378,19 @@ BAR means only the State Bar can.
 - No one was contacted.
 - Scratch files are under /tmp/claude-0/-home-user/9a86eccf-071d-5c97-88ae-ef129ec55f9d/scratchpad/agent_conduct/.
 - This is the only project file written.
+
+---
+
+## ADDITIONS 2026-11-01 (appended; the body above is unchanged)
+
+Register C (presentations) — five dates in Petitioner's verified Response to Request for Production, Set Two (d:1R2tq2088r_g194ncizmjJ44J0TAYgCbQ · SP-1706; signed by Vivian Carrasco Hosp; verified by Shannon Minor 1/5/2026; served by Anna Kralle Vanmali 1/5/2026), each set beside the document it describes. DOCUMENTED as to the words; no document shows knowledge or materiality (CRPC 3.3(a)(1) "knowingly"; BPC 6068(d)).
+
+| # | The response says | The document says | Pointer |
+|---|---|---|---|
+| C-19 | "Petitioner's Preliminary Declaration of Disclosure was served on June 17, 2024" (five times) and "Transmittal Email dated June 17, 2024" | Exhibit 4 prints "Sent: Tuesday, June 18, 2024 12:12 PM"; the FL-141 reads "on (date): June 18, 2024" | SP-0532 p. 25; SP-0123 |
+| C-20 | "the Stipulated Judgment Re Child Custody, Visitation and Child Support entered October 23, 2025" (six times) | The same response says "Since entry of judgment on October 23, 2024" twenty times; the register shows the Judgment on 10/23/2024 | SP-1706; SP-0705 |
+| C-21 | "Petitioner and Respondent both waived their Final Declarations of Disclosure on June 17, 2024" | The FL-144 was signed and filed 8/22/2024 | SP-0161 |
+| C-22 | "An Updated Schedule of Assets and Debts dated February 7, 2025" (four times; also Spiegel decl. ¶11.A) | The FL-142 is dated "FEBRUARY 24, 2025" | EV-037 · SP-0199 |
+| C-23 | "Five Updated Income and Expense Declarations dated August 14, 2024, January 1, 2025, April 18, 2025, August 7, 2025 and October 22, 2025" | The files sent are "2025-01-08 [P] I&E.pdf" and "2025-08-06 [P] I&E.pdf" for the second and fourth | SP-0188; SP-0299 |
+
+Register A (statements) — one sworn sentence, for the record on both sides: Spiegel decl. 2/24/2026 ¶6, after quoting Halsey's "We previously agreed to email service to exchange Declarations of Disclosure": "This claim is inaccurate." (SP-0532). Set beside it: the firm served the PDD by email on 6/18/2024 and has since described email as "a courtesy" (2/24/2026, 3/27/2026 briefs). Words only; no inference.

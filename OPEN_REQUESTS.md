@@ -87,3 +87,11 @@ complaint is not shown either way; no reply from any beverlyhills.org address ex
 - **R-33.** The Court of Appeal docket after the 8/10/2026 referral for dismissal. Holder: the Court of Appeal.
 - **R-34.** A printout of the State Bar's public licensee search for "Kralle" and "Vanmali", run by Halsey (Q-H30). Holder: Halsey. The one check between F-2 of PROFESSIONAL_EVALUATION_v1.md and a document-only submission.
 - **R-35.** Halsey's filed address history: every address on a paper he filed, and any notice of change of address. Holder: LASC file. Settles which address CCP 1013(a) points to.
+
+## Added 2026-11-01 (fourth wave)
+
+- **R-36.** The contents of "Files.zip" (d:1fnLOIU3Azd0gBzW3kzk5sCQlWAGqC_LX, 8,489,283 bytes; the firm's 2/25/2025 production as forwarded by Provinziano). Holder: Halsey's Drive. The tools could not open it; Halsey can, and can list every statement by account and period. Settles what the February 2025 production did and did not contain.
+- **R-37.** The two ShareFile productions ("Petitioner's Related Document Production", 2/25 and 2/26/2025) as delivered to Provinziano. Holder: the firm; Provinziano's file.
+- **R-38.** The "supplemental production" of Citibank statements the firm promised on 2/26/2025 ("Once they are available, we will produce them in a supplemental production"). Holder: the firm. Not found in the mailbox.
+- **R-39.** Halsey's own 7/2/2024 transmittal of his preliminary declaration to Shannon or the firm, if one exists (sent mail of halsey2005@gmail.com, halsey@minorventures.com, halsey@vividlabs.com). Holder: Halsey.
+- **R-40.** The court e-filing records for Tyler envelopes 15797560 (7/1/2024, fl140/fl150/fl160 as "Proof of Service") and 15818136 (7/2/2024): filing receipts and service lists. Holder: Halsey's eFileCA/GreenFiling account.
