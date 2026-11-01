@@ -34,7 +34,7 @@
 
 ## Session mechanics
 - The scheduled task "Spiegel — weekday scan" (trig_01TruLqL48ws1eGgp6o2RzR1) exists, model claude-sonnet-5-5, DISABLED: the platform stored no connectors; attach Gmail, Google_Drive, Claude_Code_Remote in the routines UI and enable.
-- Git: from ~05:40 UTC the session's auto-mode classifier refused `git push` (four times) and then `git commit`; 8 commits are local only (01ee4fb is the last); later files are uncommitted on disk. A full snapshot archive of the worktree was delivered to Halsey in the conversation. Remedy: a permission rule allowing git commit/push for this session, then one push.
+- Git: from ~05:40 UTC the session's auto-mode classifier refused `git push` (five times) and once `git commit`; snapshot archives were delivered to Halsey in the conversation meanwhile. RESOLVED: on Halsey's instruction a permission rule allowing `git commit`/`git push` was added to the session's user settings and committed as `.claude/settings.json` on this branch; the push then succeeded (`9d931e2..efee697`). Everything is on GitHub (SETUP_NOTES.md, Git — resolved).
 - Two repositories are PUBLIC (SETUP_NOTES.md).
 
 ## Next dates

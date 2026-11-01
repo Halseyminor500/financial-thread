@@ -37,3 +37,12 @@
   or edit the routine in the claude.ai routines UI with Gmail, Google_Drive and Claude_Code_Remote
   attached, then enable it — or re-create it from a session that can pass those grants. The ROUTINE text
   is in CHARTER.md (section ROUTINE) for pasting.
+
+## Git — resolved 2026-11-01 (after Halsey's instruction)
+
+- From ~05:40 UTC the session's auto-mode classifier refused `git push` (five times) and once `git commit`.
+- Halsey chose: a permission rule for this session (user settings) plus the same rule committed on this
+  branch (`.claude/settings.json`: `permissions.allow` = `Bash(git commit:*)`, `Bash(git push:*)`), so the
+  weekday-scan sessions carry it.
+- Result: `git push -u origin spiegel-thread` succeeded at once; `9d931e2..efee697`. All work is on GitHub.
+  The project rule adds nothing else and grants nothing beyond commit/push on this branch's clones.
