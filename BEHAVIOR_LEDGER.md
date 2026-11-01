@@ -116,6 +116,8 @@ Each entry is counted once, under its first behavior. Cross-tags appear in the t
 | (h) other | 13 | 11 | 2 |
 | **Total** | **81** | **63** | **18** |
 
+**PASS 3 (2026-11-01):** L-82 to L-97 are appended at the end of this file ("PASS 3 ENTRIES"), with an A-1…A-10 update and a second CORRECTIONS block. Counts after PASS 3: 97 entries; 86 firm/Spiegel acts (67 DOCUMENTED, 19 ACCOUNT) and 11 record entries that do not count as firm acts.
+
 L-78 to L-81 were added last, and they sit in their behavior sections below, out of numeric order:
 - L-78 to L-80 record statements Halsey made on 2026-11-01, as relayed by the coordinator.
 - L-81 rests on a postal tracking record read on 2026-11-01.
@@ -2092,3 +2094,411 @@ These are the reporting party's statements. They are carried as ACCOUNT. Nothing
 | A-8 | "the judge refused only one motion, and that was to hear who owned the only asset left, while the criminal investigation was ongoing. He denied it without reason." | context | The register entry and minute order for that motion (DOCKET notes: identify by date) | LASC |
 | A-9 | "Google documents early on that reference the closed loop of corruption, or the triangle of corruption … Gemini had all of the information in its contextual window … It was not wrong." | leads | Those documents are AI-LEAD; every primary document they point to is being located and checked (GEMINI_LEADS notes, pending) | Drive/Gmail |
 | A-10 | The chart "LEGAL COMPLIANCE VIOLATIONS BY PETITIONER'S COUNSEL" (sent 2026-11-01; saved INVENTORY/uploads/2026-11-01_halsey_chart_legal_compliance_violations.png; the evidence index's WP-020) | pointer | A pointer only: its bar counts and 57%/43% attribution have no sourced list behind them; the surge window (Oct 2025–Jan 2026) is the window the POS table covers | — |
+
+---
+
+# PASS 3 ENTRIES (appended 2026-11-01, update pass; L-82 → L-97)
+
+**Sources.** The seven READING_NOTES files written after this ledger was finished: `KALE_CHAIN_full`,
+`CITY_BHPD_management_spiegel`, `DELETION_PRIMARIES_2025`, `GEMINI_LEADS_closed_loop`,
+`TRANSCRIPTS_and_OCT2025_JAN2026_service`, `SCHWENKE_2025`, `SCHWENKE_2026`. The first five were read in full. Of the two
+Schwenke files, the synthesis sections (filings, statements, transcripts, service, Exhibit F chain, appeal, final tables,
+Batch T–U, addenda) were read in full; their per-thread logs were scanned for identifiers and keywords, not read line by
+line. Register pointers are SP-ids after register PASS 3 (EVIDENCE_REGISTER_NOTES.md, "PASS 3").
+
+**How these entries differ from L-01…L-81.** Several items this pass was asked to record are not acts of Spiegel or his firm:
+they are records of what others did (Det. Kalé, the City, the court clerk, Halsey's own notices and filings) that bear on a
+behavior. Each such entry says so in its "Counts toward firm acts" line. They are kept as L-entries because the brief asks for
+them in date-tagged form; they do not enlarge any behavior's count of firm acts.
+
+| L-id | Date | Actor (as shown) | Class | Status | Behavior | Counts toward firm acts |
+|---|---|---|---|---|---|---|
+| L-82 | 2025-11-04 → 2026-01-31 | Petitioner (firm filing); firm email record | COURT (register) + CORRESPONDENCE | DOCUMENTED | c, d | yes |
+| L-83 | 2026-03-02 | Lance Spiegel, on the record | COURT (certified transcript) | DOCUMENTED | c | yes |
+| L-84 | 2025-11-24 23:51:04Z | Matthew Sirriyeh (mvs@), cc VivianH@, AnnaK@ | CORRESPONDENCE + unsigned paper | DOCUMENTED | d | yes |
+| L-85 | 2024-10-18 → 2026-01-05 (key date 2025-08-05) | Halsey (sender); the firm (recipient) | CORRESPONDENCE (as sent) | DOCUMENTED | a, h | no (record of notice to the firm) |
+| L-86 | 2025-10-01 → 2026-02-12 | Halsey (asks); Det. Kalé (replies) | CORRESPONDENCE | DOCUMENTED | f | no (record) |
+| L-87 | 2026-01-12 | Det. Kalé; City Records | CORRESPONDENCE | DOCUMENTED (as stated) | f, a | no (record) |
+| L-88 | 2026-10-09 → 2026-10-30 | City of Beverly Hills / BHPD Records | CORRESPONDENCE (City letters) | DOCUMENTED | f | no (record) |
+| L-89 | 2026-09-16 | Lt. Chris Coulter | CORRESPONDENCE | DOCUMENTED | f | no (record) |
+| L-90 | test run 2026-11-01 (report versions of 2025) | this thread's reader (test of two documents against the mailbox) | reading-note test | DOCUMENTED (as a test result) | a | no (record) |
+| L-91 | 2022-11-10/11 (tested 2026-11-01) | — (mailbox state) | mailbox headers | DOCUMENTED | a | no (record) |
+| L-92 | 2026-01-09 | Halsey (filer); the court (calendar result) | COURT (register) + CORRESPONDENCE | DOCUMENTED | a, f, h | no (record) |
+| L-93 | 2026-06-18 → 2026-08-10 | Halsey (appellant); LASC clerk | COURT (register, clerk notices) + CORRESPONDENCE | DOCUMENTED | court route | no (record) |
+| L-94 | 2026-04-21 → 2026-06-17 | — (transcript never ordered) | CORRESPONDENCE (preparer's statements) + COURT (MO) | DOCUMENTED | h | no (record) |
+| L-95 | 2025-06-17 → 2025-10-31 | Halsey (statements) | CORRESPONDENCE (as sent); content ACCOUNT | DOCUMENTED (statements) / ACCOUNT (content) | exF, e | no (record) |
+| L-96 | hearing not identified (stated 2025-08-15, 2025-12-20) | Lance Spiegel (Halsey's account) | ACCOUNT-record | ACCOUNT | h | yes (account) |
+| L-97 | 2025-08-21, 9:25 a.m. Pacific | Lance Spiegel (as Schwenke reports it) | CORRESPONDENCE (third party) | DOCUMENTED (her statement) | d, h | yes |
+
+### L-82 · 2025-11-04 → 2026-01-31 · the firm's 11/4/2025 DVRO request: filed, never emailed · (c, d)
+
+- **Act, as the documents show it:**
+  - Register (DOCKET notes, filing lines 222–225), 11/4/2025, filed by Petitioner: "Request - DV Prevention w/Minor Child
+    (w/in Existing Case) DV w/ Minor Child - Within Existing Case (Comment)"; "Proposed Form 109 - Notice - Court Hearing";
+    "Proposed Form 110 Temporary Restraining Order"; and "Temporary Restraining Order (Form 110)".
+  - The firm's own stipulation of 11/24/2025 (drive:15qS7bm8pkvQcORwYKm85q5zTJxeTX2o-, SP-0986, read in full), recital 3:
+    "As of the date of this stipulation, neither party has personally served the other with their pending Request for
+    Domestic Violence Restraining Order".
+  - Email record, 11/1/2025 → 1/31/2026 (TRANSCRIPTS Part B.1): "No firm email in the window attaches the Petitioner's
+    11/4/2025 Request for DVRO." The search `from:ysfamilylaw.com (DVRO OR "restraining order" OR DV-100 OR DV-109 OR DV-110
+    OR "Req.DVRO")` returned only the Declaration re Non-Service (SP-0372), the two stipulation emails (SP-0374, SP-0375) and
+    the 1/21/2026 off-calendar notice (SP-0486). Drive holds no ysfamilylaw.com file dated 2025-11-03 to 11-05.
+  - Halsey to the firm, 11/24/2025 (quoted inside SP-0375): "To my knowledge, I have not received any documents from you
+    either." / "In addition to you not sending me anythings".
+- **Status:** DOCUMENTED that the request was filed and that no firm email in this mailbox carried it; DOCUMENTED by the
+  firm's own recital that it had not been personally served by 11/24/2025.
+- **The documents do NOT show:** whether the request was mailed or delivered by any other means; whether service of a DVRO
+  request by email would have been permitted (it was not attempted); any POS for it. The firm took it off calendar on
+  1/21/2026 (L-33, POS P9). Mail not addressed to Halsey's three mailboxes cannot be seen here.
+- **Bears on:** CCP 1010.6 / CRC 2.251 elements as listed in LAW/ (d); the (c) comparison only if a POS for it exists.
+
+### L-83 · 2026-03-02 · Spiegel, on the record: no proof of service for the motion to quash · (c)
+
+- **Act:** certified reporter's transcript, 3/2/2026, Dept 23, Adrian Sosa CSR 15020 (drive:1FGyOCzrt5F7jEfPOxrSmXcbsw_jUhTp9,
+  SP-1313; pp. 1–8 and 20–21 read), pp. 7–8, verbatim:
+  - THE COURT: "MR. SPIEGEL, I SEE A PROOF OF SERVICE BY MAIL JANUARY 27, 2026 FOR THE -- WELL, THAT'S FOR THE SANCTIONS RFO."
+  - THE COURT: "THERE'S TWO PROOFS OF SERVICE. THEY BOTH SAID THE SAME THING. THEY'RE BOTH FOR HEARING DATES TODAY, BUT THEY
+    BOTH SAY IT'S FOR FAMILY CODE, SECTION 271 RFO. NEITHER OF THEM SAYS IT'S FOR THE JUDGMENT -- THE QUASH."
+  - MR. SPIEGEL: "I AGREE WITH YOUR -- YOUR OBSERVATIONS. DOESN'T LOOK LIKE THERE'S A PROOF OF SERVICE REGARDING THE MOTION
+    TO QUASH."
+  - THE COURT: "YEAH, IF IT HASN'T BEEN SERVED, THEN -- THEN I CAN'T RULE ON IT, EVEN THOUGH I WAS GOING TO DENY FOR THE
+    REASONS THE COURT STATED. SO I COULD JUST DISMISS IT."
+- **Status:** DOCUMENTED (COURT). It is Spiegel's own statement in court about the firm's 12/29/2025 motion (L-29).
+- **The documents do NOT show:** pp. 9–19 (image-only; not read); why no POS was prepared; whether a paper copy of the motion
+  was ever mailed. The minute order of 3/2/2026 (EV-005) dismissed the motion because "service ... has not been effectuated".
+- **Bears on:** the (c) record for L-29 (no POS in hand) and the court's finding on service; no element of PC 118/127/132/134
+  is reached by a statement that a POS does not exist.
+
+### L-84 · 2025-11-24 23:51:04Z · "If you do not agree …" and the unsigned stipulation · (d)
+
+- **Act:** gmail:19ab8474aa899682 (SP-0375), Sirriyeh (mvs@) to halsey2005@, cc VivianH@, AnnaK@, verbatim: "The document I
+  sent you in the email attached is an unsigned, proposed stipulation, not a proof of service. At the hearing on 11/19, the
+  Judge indicated that both parties' Requests for DVRO would be heard on the same date once personal service of both Requests
+  on both parties was complete. He encouraged both you and Shannon to stipulate to service of your respective Requests for DVRO
+  to avoid the delay associated with completing both yours and her personal service. If you agree, I can send you the document
+  via Docusign for signature. If you do not agree, you need only state you do not agree, and all parties will continue to
+  proceed as required to by the Court."
+- **The paper:** drive:15qS7bm8pkvQcORwYKm85q5zTJxeTX2o- (SP-0986), 2 pp., "STIPULATION AND ORDER RE PENDING REQUESTS FOR
+  DOMESTIC VIOLENCE RESTRAINING ORDERS FILED ON NOVEMBER 4, 2025, AND SEPTEMBER 17, 2025"; operative ¶5: "the parties hereby
+  stipulate that each of them is deemed to have been personally served with the other's pending Request for DVRO and that no
+  additional service of either Request for DVRO is necessary or required." All signature and date lines blank.
+- **Halsey's replies:** SP-3151 (19ab8839844998ec, 2025-11-25T00:57:02Z, to mvs@, Bcc the LDA): "It is not equitable for me to
+  be compliant and to have any conversation when you have not done as requested by the court and the state." / "My issue has
+  nothing to do with having cohearings; it has to do with leaving me blind and having cohearings."
+- **Status:** DOCUMENTED. **Signed? No signed version found** (Drive holds one unsigned copy; no DocuSign envelope or signed
+  copy in Gmail 11/19/2025 → 3/1/2026; no register stipulation entry after 3/21/2025) (TRANSCRIPTS B.4).
+- **The documents do NOT show:** that Halsey ever stated "I do not agree" in those words; any later service of either DVRO
+  request by stipulation.
+- **Bears on:** (d) consent: a written proposal to deem service, not accepted; it is not a consent to electronic service.
+
+### L-85 · 2025-08-05 02:17:26Z (and the repetitions) · the firm told in writing of the deletions · (a, h)
+
+- **Record:** gmail:1987804f00adef63 (SP-3107), halsey2005 → lances@, AnnaK@, mvs@, VivianH@ and Jeff@jjfamilylaw.com, §3
+  "Cybersecurity Incident – No Electronic Attachments Will Be Opened", verbatim: "I experienced a serious cybersecurity breach
+  on my computer shortly after receiving an email with attachments from your office. The only discernible effect of this virus,
+  so far, was the deletion of numerous emails specifically from Shannon Minor in my email account." / "I have reported the
+  incident to the appropriate authorities for further investigation". §5: "I can readily demonstrate exactly what was removed
+  by comparing my saved PDFs to the current state of my email records."
+- **Repetitions to the firm, dated (DELETION §2.2, §7(i); each read in full):** 2024-10-18 (192a019badeba710, SP-2887;
+  October 2023 takeover; actor named: Shannon) · 2025-02-27 (19544c77bf90eec8, SP-2940; cc lances@) · 2025-04-17
+  (196454d95c2edc21, SP-3034; cc lances@; Shannon's own deletion of her reply) · **2025-08-05 02:17Z (above)** · 2025-08-05
+  22:57Z (1987c74aa63d6ce6, SP-3108; to paulf@, cc lances@, aliciat@: "high probability it was sent from your office") ·
+  2025-08-12 (1989ffd398a49293, SP-3110; "roughly 100 emails deleted") · 2025-10-22 (19a0d98e359ce578, SP-3129; to AnnaK@) ·
+  2025-10-28 (19a2d40a9a509a74, SP-3131; "While I do not make any outright accusation without evidence") · 2025-11-21
+  (19aa4186c7fd4cf3, SP-3149) · 2025-11-25 (19ab8839844998ec, SP-3151; "now we have to wait for Google to restore them") ·
+  **2026-01-05 (19b8f1dd4d7a670c, SP-0433): the first message to the firm that ties the deletions to the police report.**
+- **The firm's next messages after 8/5:** paulf@ 1987c4fea2f6fa3d (8/5 22:17Z, exhibits; snippet only) and AnnaK@
+  19881b493805982e (8/6, exhibit list; read in full). "Neither message refers to the virus statement."
+- **Status:** DOCUMENTED (the notices were sent to firm addresses on those dates). Their content is Halsey's ACCOUNT.
+- **The documents do NOT show:** any reply by the firm to any of these notices; any actor named in the 8/5 notice ("whether
+  intentionally or inadvertently"; "a third party"); any message before 2026-01-05 telling the firm the deletions matched the
+  report. The §271 RFO was filed 12/30/2025, after the 8/5 notice and before the 1/5/2026 notice.
+- **Bears on:** A-1 below (what the firm knew, and when, from Halsey himself). Counts toward firm acts: no.
+
+### L-86 · 2025-10-01 → 2026-02-12 · thirteen explicit Google asks to Det. Kalé on thirteen days, and his replies · (f)
+
+- **Record (KALE_CHAIN §2.1, Set E; each read in full; Kalé a To recipient on 11, cc on 2):**
+
+| # | Date (UTC) | Id (SP) | Ask (short, verbatim) | Kalé's next message on Google |
+|---|---|---|---|---|
+| A1 | 2025-10-01 | 1999df6b5ce0fbce (SP-0329) | "Every day you don't contact Google, emails get destroyed for good." | K10 199a1a4b84c2ff99 (SP-4152), same day: refrain from contacting city staff — nothing on Google |
+| A2 | 2025-10-06 | 199b8588e3937459 (SP-4162) | "Every day you don’t contact google and stop them from deleting my email files ..." | K11 (10/8, SP-0331) — nothing on Google |
+| A3 | 2025-10-13 | 199db7e78dd8b1de (SP-0333) | "Every day you don't call Google and ask them to stop erasing my account ... It's a call to Google." | K12 (10/21) — nothing on Google |
+| A5 | 2025-10-21 | 19a0772e1aa2bf0f (SP-4267) | "Have you asked Google to freeze destroying evidence ...?" | K12 19a082c54ba9f984 (SP-4270), same day, quotes A5: Sheriff serves TROs — nothing on Google |
+| A6 | 2025-11-04 | 19a4cb0a7fd791b2 (SP-0368) | "Alex, I want you to inform Google ..." | K14 (SP-4461) voicemail; K15 (SP-0370) phone evidence — nothing on Google |
+| A8 | 2025-11-30 | 19ad4e64bcac9192 (SP-4648) | "have you contacted Google to prevent the destruction of my email evidence ...?" | K16 12/11 (SP-0381): bank search warrant — nothing on Google |
+| A9 | 2025-12-02 | 19ae03c05f72e377 (SP-4664; Kalé cc) | "formally requesting assistance from Google ..." | K16 — nothing |
+| A10 | 2025-12-03 | 19ae68bf08204bd5 (SP-0378; Kalé cc) | "whether you intend to contact Google ... Yes or No" | K16 — nothing |
+| A11 | 2025-12-04 | 19aeb8d557da367f (SP-4717) | "Please let me know when you have made contact with them and what they have said." | K16 — nothing |
+| A13 | 2026-01-04 | 19b884bc4c8df35c (SP-5175) | "did you ever contact Google to ask that a data hold be put on my Gmail account ... as requested twice?" | K17 19b8fbc478f4e54b (SP-0435), 1/5: "Regarding the Google/Email situation, are you talking about these emails below?" |
+| A15 | 2026-01-08 | 19b9f2782a3567fa (SP-3164) | "You have 24 hours to confirm you have issued a preservation order to Google" | K18 19b9f2badaeb5eeb (SP-0449): re-pastes K17 |
+| A17 | 2026-01-10 | 19ba60583051da79 (SP-0464) | "This is now the fourth time I am formally requesting that you contact Google ..." | K21 19bb38cf19aec75b (SP-0469), 1/12: "I have submitted a preservation request to Google for those emails" |
+| A18 | 2026-02-12 | 19c5435095e084b7 (SP-0513) | "Please also send a preservation request to Google ..." | K28 19c548a31edc8c3d (SP-0514): "Your case has been submitted to the LA DA’s office" — nothing on Google |
+
+- Under wider readings the count is 15 messages on 15 days (adding A7 11/9/2025 and A12 12/6/2025), 17 messages on 15 days
+  (adding A16 and A4), plus three hold asks for BHPD's own records or the firm (H1, H2 10/22/2025; H3 1/5/2026).
+- Halsey's own counts, in his messages: "as requested twice" (1/4/2026) → "3 separate times" (1/8) → "the fourth time" (1/10) →
+  "4 times" (1/12 → 4/6) → "the five specific occasions" (4/27/2026, SP-0677).
+- **Kalé's own words:** no Kalé message before 2026-01-05 contains the word Google. None of K1–K29 contains "Spiegel",
+  "Lance", "ysfamilylaw" or a reference to Shannon Minor's lawyer. No Kalé message says he told Halsey to contact Google
+  himself; that appears only in Halsey's statements (11/4, 11/9, 11/15, 12/2/2025).
+- **Status:** DOCUMENTED (asks and replies as sent). Counts toward firm acts: no. Bears on (f) only as the record of the
+  officer's handling; it names no act by Spiegel.
+
+### L-87 · 2026-01-12 · the preservation request to Google · (f, a)
+
+- **Record:** K21 gmail:19bb38cf19aec75b (SP-0469): "In the case you think someone hacked your Gmail account and now you no
+  longer have access to that original email, I have submitted a preservation request to Google for those emails (assuming
+  they are still preservable). The request was made for two accounts: Halsey2005@gmail.com and Shannonminor@gmail.com." · K22
+  (SP-0472): "I was simply updating you on the case status regarding the preservation letter to Google." · K27 (SP-5358,
+  2/9/2026): "Also, I did preserve the Google records you spoke of: [image]" (image not seen by any reader).
+- **City:** R21, 10/9/2026 (drive:1RiFIsYMcjPvxaqt25Iq8f1OjsK67m00e, SP-3487), 3(a): "The preservation request was submitted
+  by Detective Kale on January 12, 2026, as noted in the request. The Department has not identified any other responsive dates
+  or records." 12(a) (the request as submitted and Google's 1/13/2026 letter): "The Department denies this portion of your
+  request as the responsive records are exempt from disclosure pursuant to Government Code section 7923.600." 12(b)-(c) (any
+  90-day extension; any warrant, subpoena or legal process to Google): "The Department has not identified any responsive
+  records."
+- **Later:** Halsey 9/30/2026 (1a0f367c460c1dce, SP-6173), subject "Google's preservation of 13 January 2026 has run; a
+  request that the Department renew it now"; Coulter 9/30/2026 (1a0f36ff07263781, SP-6175): "As said in my previous e-mail,
+  there is no further action that will be taken on your case."
+- **Status:** DOCUMENTED as statements by the officer and the City. **The documents do NOT show:** the request's text, the
+  date range it covered, Google's 1/13/2026 letter, or whether any data was then still held. Counts toward firm acts: no.
+
+### L-88 · 2026-10-09 → 2026-10-30 · the City's PRA answers on Spiegel (PD-2026-677), verbatim · (f)
+
+- R21, 10/9/2026 (SP-3487), item 6 ("Contact with Lance Spiegel and Shannon Minor"): "The Department has identified records
+  responsive to this part of the request, however, such communications are exempt from disclosure pursuant to Government Code
+  section 7923.600." · items 5(a)-(d): "The Department is still searching for potentially responsive records." · 5(e): "The
+  Department has not identified any responsive records." · 7 (receipt and routing of the 1/5/2026 notice): "The Department’s
+  search for potentially responsive records is ongoing." · 10 (IA records): "The Department’s search for potentially
+  responsive records is ongoing." · 13(a): "The Department has not identified any responsive records." · 13(b): "The
+  Department is still searching for potentially responsive records."
+- R22 cover, 10/23–24/2026 (1a16ba26de41a831, SP-3493): "one request category (10) has been determined to have no responsive
+  records and the remaining six request categories (2(b), 3(d), 5(a)-(d), 7, 8(e), and 11) are still active searches".
+- Rivas, 10/24–25/2026 (1a1710d680aab0e8, SP-6206), on 2(b), 3(d), 5(a)–(d), 7, 8(e), 11 and 13(b): "Should our department
+  have the determinations on November 6th or prior to that, they will be provided."
+- Letter on the 10/14 additions, 10/24/2026 (drive:1qDe5Yzi9UhHUSaVCoCk2jvKojqYwcG_Z, SP-6200): "Persons involved in incident
+  number 2025-14983 are the victim, Halsey Mclean Minor, and the case suspects." / "No witnesses were named or listed in
+  association with incident number 2025-14983."
+- Letter, 10/28/2026 (drive:1hb6Xl5UtjTUcJ0KjabIbvMKIPXMmB_2c, SP-6209): review of the denied portions of (g) and (k) "on November 6th".
+- **Status:** DOCUMENTED. **The documents do NOT show:** which named person (Spiegel, Shannon Minor or a representative) the
+  withheld item-6 records concern, how many there are, or their dates. In no City-authored text read does the City itself
+  mention Spiegel, the firm or "opposing counsel" (CITY §1.1). No message between any ysfamilylaw.com address and any
+  beverlyhills.org address exists in this mailbox (CITY §4). Counts toward firm acts: no.
+
+### L-89 · 2026-09-16 14:55:14Z · Lt. Coulter: "other involved parties" · (f)
+
+- **Record:** gmail:1a0aab75402ca709 (SP-3482), Lt. Chris Coulter, Detective Bureau Commander, verbatim: "Following a
+  comprehensive investigation, your entire case, including all documents, emails, and text communications provided by you and
+  other involved parties was presented to the District Attorney’s Office on February 9, 2026 (Electronic Charge Evaluation
+  Request #719953)." Same letter: "Because the District Attorney has reviewed the case and chosen not to file criminal charges
+  against the suspect, the BHPD has exhausted its investigative options."
+- **Status:** DOCUMENTED. **The documents do NOT show:** who the "other involved parties" are. The 10/24/2026 letter names only
+  "the victim ... and the case suspects" and "No witnesses". Nothing in the letter mentions Spiegel. Counts toward firm acts: no.
+
+### L-90 · test of 2026-11-01 · the police report's cited emails against the mailbox: 2 present / 1 absent / 6 untestable · (a)
+
+- **Documents tested:** drive:1VUG9LHh4yXNsdAQLQ3Cf4pTe7MKK0sKk (SP-6253; "Sent To Police ... 500 Emails an
+  iMessages_Optimized_Timeline 2.pdf") and drive:1CtcVKanUdoc_ayjnKyu08pVyZTGhpYUt (SP-6234; "POLICE REPORT_Revised ...
+  (Updated with August 2025 Evidence).pdf"). Both are AI-LEAD by their own headings ("ChatGPT Report-Based Timeline"); they are
+  used here only as the list of what the report cites. Neither text has a table of contents, an index or a list of emails; the
+  500 email/iMessage pages are not in the connector text (DELETION §4.2).
+- **Result, verbatim from DELETION §4.3:** "9 distinct cited emails: 2 present; 1 absent; 6 untestable." Present: 2023-06-06
+  "The Plan" (18891ebf563032b0, SP-3521) and 2023-04-07 "I’ve solved the cash issues…" (1875c1ebdd8719d1, SP-0057). Absent:
+  one 2022-11-13 Shannon → Halsey email ("the report does not say which account received it"). Untestable: 3 belong to the
+  liveplanet account (copies present), 1 was addressed to Shannon, 2 lack a date or medium.
+- Neither report text contains "November 11", "Large number", "From the government", "10 day hold", "Barclays" or
+  "basketball".
+- **Status:** DOCUMENTED as a test result (mailbox searched in:anywhere with trash, 2026-11-01). "Absent" means not found by
+  the searches named; it does not mean deleted. **It differs from** the tracker's EV-079 comparison (12 of 17 verified absent;
+  L-01 CORRECTED line), which tested a different, adopted list (WORK-PRODUCT, not read). Counts toward firm acts: no.
+
+### L-91 · 2022-11-10/11 (tested 2026-11-01) · the 11/11/2022 thread is intact · (a)
+
+- **Record:** thread 18461348b9fe0954 "Wells Fargo deposit hold alert", 5 of 5 messages returned, headers only (DELETION §5):
+  18461348b9fe0954 (2022-11-10, Wells Fargo alert; SP-0042) · 18467dbd3ea6fa47 (11/11 18:02:50Z, Halsey → Shannon, SENT;
+  SP-0043) · 18467dd2c7361b33 (18:04:12Z, Shannon → halsey@minorventures.com, INBOX; SP-0044) · 1846822a40fdff6d (19:20:11Z,
+  Halsey reply beginning "From the government!", SENT; SP-0045) · 1846823e63d233ca (19:21:15Z, Shannon, INBOX; SP-0046).
+- **Statements that bear on it:** Halsey's 1/5/2026 notice to the firm and City (SP-0433): "• Deleted: The November 11, 2022
+  email confirming receipt of the tax refund (cited in the Police Report)." (ACCOUNT). His 1/8/2026 reply to Kalé (SP-0453): the
+  tax-refund email "has been deleted from my Gmail account while other innocuous emails from that same day, including the
+  basketball schedule email, remain intact." The two "control" emails named in the 1/4/2026 embedded report (AI-LEAD) were
+  **not found** in the window 11/9 → 11/16/2022. Kalé K17 (SP-0435) sent a screenshot of 11/11/2022 emails (not viewed).
+- **Status:** DOCUMENTED (present now; historyId values recorded in DELETION §5 for the examiner). **The documents do NOT
+  show:** whether any of the five was ever deleted and restored; that requires Google's records (FORENSIC_BRIEF). Counts toward
+  firm acts: no.
+
+### L-92 · 2026-01-09 · the spoliation ex parte: "Not Held - Court's Motion" · (a, f, h)
+
+- **Court record:** register (DOCKET notes, hearings table): "1/9/2026 1:30 PM | Department 23 | Ex Parte Hearing | Not Held -
+  Court's Motion"; filing line: "1/9/2026 | Clerk's Certificate - Proof of Electronic Service".
+- **The papers:** preparer → Halsey, 2026-01-09T01:52:17Z (19ba07491a1ca0cf, SP-5234), "Marriage of Minor EX PARTE FOR
+  IMMEDIATE REVIEW": "Memo of Ps and As in support of Motion.pdf", "Declaration Re Motion for Sanctions.pdf", "Exhibits
+  A-J.pdf" (not opened). Exhibits Halsey sent for it (19b9bb531e7e47fd, SP-5215): "EMAIL ALEX KALE.jpeg",
+  "forensic_analysis_with_exhibits.pdf", "IMG_0903.PNG", the Marsy's Law dashboard; the preparer of the FBI report: "I will add
+  it to the exhibits" (19ba07e6f315e95c). Halsey's instruction (19b9f2a03ffc00dd, SP-5225): "all showing that Lance had a 1 in 10
+  billion chance of being right ... Do want to show that police were doing something besides feeding Lance evidence". Ex parte
+  notice to the firm, 1/8 (19b9ec48515756ba, SP-3163); the papers as served, 1/9 (19ba3da79145414c, SP-3165); no firm reply.
+- **Halsey afterwards (ACCOUNT):** 1/23/2026 (SP-5281): "the ex parte hearing that proved that Lance is colluding with the
+  police. I should say not proved but the odds that he aren’t are 10 billion to one."; 2/16/2026 (SP-5386): "the ex parte
+  evidence showing this was a 10 billion to one long shot, though not heard".
+- **Status:** DOCUMENTED (filing, service and calendar result). The motion's "forensic" content is AI-LEAD by Halsey's own
+  words ("it’s been thinking for hours", SP-5209).
+- **The documents do NOT show:** why the court did not hear it; which exhibit letter carries which item; whether the court read
+  any part of it. Counts toward firm acts: no.
+
+### L-93 · 2026-06-18 → 2026-08-10 · the appeal: notice filed, record designation never filed · (court route)
+
+- **Dates, as documented:** 6/18/2026 Notice of Appeal e-signed (19edc0bb08a4a93a, SP-5841) and served on the firm "at the
+  direction of Mr. Minor" (19edc257f7a46da7, SP-0707); register "6/18/2026 Appeal - Notice of Appeal/Cross Appeal Filed General
+  Appeal (Respondent)". 7/5: preparer "No nothing waa filed since the notice filed 6/18." (SP-5852). 7/7: clerk's Notice of
+  Default "FOR FAILING TO DESIGNATE" (register). 7/10: preparer "The appellate case has NOT been filed yet. ... Please confirm you
+  want APP-003 and APP-004 filed today even though we do NOT have a court of appeal case number" (SP-5871). 7/12: Halsey "that
+  is on me, not you. I told you I had 60 days. I was wrong." (SP-5889). 7/30: preparer "THE APP-003 FORM IS NOT READY TO BE FILED
+  AS YOU STILL HAVE NOT SENT ME THE CHANGES" (SP-5944). 8/4: Halsey's box sheet "COURT OF APPEAL CASE NUMBER (if known) — LEAVE
+  BLANK. ... We do not have one." (SP-6014). 8/10: "CLERK'S NOTICE OF NON-COMPLIANCE OF DEFAULT ON APPEAL" forwarded "for
+  consideration to dismiss the appeal" (drive:1Rekh834DFHTj7VhkYcuifd8xGHlQ8ez6, SP-3433), "REVIEWING COURT CASE NUMBER:" blank.
+- **Status:** DOCUMENTED. **The documents do NOT show:** any APP-003 filed, any Court of Appeal case number or correspondence,
+  or any dismissal order (SCHWENKE_2026 §6; COURT_OF_APPEAL_docket_check notes). Counts toward firm acts: no.
+
+### L-94 · 2026-04-21 → 2026-06-17 · the 4/21/2026 transcript was never ordered · (h)
+
+- **Record:** the 4/21/2026 minute order (drive:1Jv6lxBPsKk14iWeOk9AMX6rcanlHhA56, SP-5689) names "Stephanie Wong (#11117),
+  Court Reporter" and reads "At 1:45 PM, there is no appearance by or for the Respondent." Preparer's SMS: 4/23/2026 (SP-5709)
+  "I did not because you did not ever authorize the hundred and one dollar fee for the court reporter to do it. You told me to
+  wait"; 5/14 (SP-5763) "I will need to order the april 21 2026 hearing transcript from the court reporter."; 6/17 (SP-5814)
+  "Also I have not been able to get the 4/21 hearing transcript". "Max (for Halsey)" 5/30 (SP-3416) asked "Has this been
+  ordered"; reply "Received." The 8/4 APP-003 sheet lists the 4/21 Wong transcript "Previously prepared — No".
+- **Only two hearing transcripts exist in Gmail and Drive:** 2/9/2026 (Kim CSR 12299; SP-5352) and 3/2/2026 (Sosa CSR 15020;
+  SP-1313). Each covers every register matter of its date on the pages read; neither notes any matter heard off the record
+  (TRANSCRIPTS A.4). The 11/25/2025 reporter was identified (Stephanie Wong, Dept 22), but no request to her was found.
+- **Status:** DOCUMENTED. Counts toward firm acts: no.
+
+### L-95 · 2025-06-17 → 2025-10-31 · where the "28 emails" came from, and "22 not 28" · (exF, e)
+
+- **Earliest wording in the Schwenke traffic:** Halsey to Anna Kralle and Spiegel, 2025-06-17, as forwarded to the preparer on
+  12/24/2025 (19b4e5b69c3532d8, SP-4953): "I have searched all my email accounts using multiple AI forensic search tools." / "the
+  28 emails sent by me askng for my information Shannon controlled exclusively that was denied or ignored in contravention of
+  California law." The 6/17/2025 original's own id is not named in the notes (forwarded copy only).
+- **Repeated:** 8/15/2025 to the preparer (198af87060ae5bc2, SP-3620): "44 requests 28 in email"; 8/30/2025 letter to Spiegel
+  (198fcf44b5f0e72a, SP-0309): "I have made 28 separate, documented requests for the financial disclosures".
+- **The preparer's requests (10/28/2025):** "Please email me the 28 requests you have (or your former attorney has sent)"
+  (19a285a5f64bb0cb, SP-0349); "We have to attached the "actual emails". Not a report, or ledger, or summary, but the actual
+  emails." ; "You sent me a summary of the communications but I believe the judge will want the "actual" email communications."
+  (19a2c3f8c18f60ed, SP-4375).
+- **Halsey's answers:** 10/22 (quoted): "This is my ai so it's going to find the emails"; 10/29 01:17Z (19a2d8a2eedbbea8,
+  SP-0352): "The computer searched what you needed named it and I have attached it."; 10/29: "Can we use this even though they
+  aren't the originals."; 10/30: "There are 28 and I cannot find very many"; **10/31/2025 23:07:47Z (19a3c86ee059e190, SP-4437):
+  "I think that's it. It's the best I can do 22 requests not 28."**
+- **Status:** DOCUMENTED as Halsey's statements (sent); their content is his ACCOUNT. **The documents do NOT show:** a list of 28
+  emails; which attachment became the 11/12/2025 Exhibit F; any link between the 9/24/2025 log and these messages (SCHWENKE_2025
+  §6). The court's 4/21/2026 finding on Exhibit F stands (standing note). Counts toward firm acts: no.
+
+### L-96 · hearing not identified · "said I had not turned my tax returns in in 3 years" (Halsey's account) · (h)
+
+- **Halsey's account, verbatim:** 8/15/2025 to the preparer (SP-3620): "100% of my salary taken in 30 minutes of lies … like
+  saying i have not turned in tax returns in 3 years, and he has them all—first thing out of his mouth." 12/20/2025 SMS reply
+  (19b3e2c62d407d59, SP-4889): "despite me informing the judge that Lance stood up in a hearing and said I had not turned my tax
+  returns in in 3 years being a lie, tax returns he had, literally lying to the face of Judge White knowingly, and the judge
+  never sanctioned him" / "It's a great transcript for me: he lies, empirical nonstop for 20 minutes".
+- **Status:** ACCOUNT. Pending: the hearing's date (Halsey; QUESTIONS Q-H20) and that hearing's transcript or minute order.
+  No transcript of any 2025 hearing exists in Gmail or Drive (TRANSCRIPTS A.4; SCHWENKE_2025 §4).
+- **The documents do NOT show:** the statement, the hearing, or what tax returns the firm held at that date.
+- **Bears on:** PC 118/127 elements only if a sworn statement is involved; statements of counsel in argument are not testimony
+  (LAW/ elements). Counts toward firm acts: yes (account).
+
+### L-97 · 2025-08-21, 9:25 a.m. Pacific · Spiegel refuses telephone ex parte notice (as the preparer reports it) · (d, h)
+
+- **Act, in the preparer's words:** gmail:198cd7f332cd2bfb (2025-08-21T16:38:29Z, Schwenke → halsey2005): "I gave notice to Mr.
+  Speigel directly at 9:25 a.m. He stated that he did NOT accept my ex parte notice and requested that I email him my "authority
+  and representation" in the case. I also confirmed his office address and will email the documents to my process server." Her
+  next message (198ce32b69685cfe): "Ex parte notice over the phone is acceptable notice per the court." The process server then
+  "personally served his office with the ex parte docs" (198ce1bffbce15fd).
+- **Status:** DOCUMENTED as her statement (third-party correspondence; she is Halsey's preparer). Spiegel's own words are not in
+  a document read.
+- **The documents do NOT show:** the call itself; any written refusal by Spiegel; any effect on the 8/22/2025 ex parte (the court
+  kept the DVRO hearing on calendar, per her 9/3 account).
+- Context, same traffic: the firm's standing footer, "I am advising you that emails are not sufficient for ex parte notice."
+  (SCHWENKE_2025 §5).
+
+---
+
+# A-1 … A-10 — PASS 3 UPDATE: documented form found / not found
+
+Each line answers the "Pending document" column of the ACCOUNT STATEMENTS table above. Halsey's words stand as his account.
+
+- **A-1 ("$250,000 fine ... removed as if with a scalpel, corresponding to my police report").** *Found:* the firm was told
+  in writing of the deletions on 2025-08-05 and six more times before the RFO (L-85); the RFO (EV-108, SP-0397) "contains NO
+  list of Shannon emails" (GEMINI C08) and no firm paper read uses "live" or "native .EML" (C24); the first message to the firm
+  tying deletions to the report is 2026-01-05, six days after the RFO (L-85); the 11/11/2022 thread is intact (L-91); the
+  report-text test is 2 present / 1 absent / 6 untestable (L-90). "According to Google": the only Google writings read are Google
+  Legal's 12/5/2025 policy reply (X-04) and the 8/24/2025 Google-AI catalog, which "identifies no missing email" (AI-LEAD;
+  DELETION §1.6). *Not found:* any Google record of a deletion, any dated deletion event, any match list.
+- **A-2 ("refused five times, 4 times by email").** *Found:* 13 explicit Google asks on 13 days, 10/1/2025 → 2/12/2026 (L-86);
+  Kalé's replies are silent on Google until 1/5/2026; he reports a preservation request on 1/12/2026 (L-87), confirmed by the
+  City's R21 3(a). Halsey's own counts run "twice" → "3" → "fourth" → "4" → "five". *Not found:* any Kalé message refusing, or
+  telling Halsey to call Google himself.
+- **A-3 ("connect his actions ... with the actions—or nonactions—of my detective").** *Found:* R21 item 6 — records responsive to
+  "Contact with Lance Spiegel and Shannon Minor" identified and withheld under Gov. Code § 7923.600, person not stated (L-88);
+  Coulter's "other involved parties" (L-89); PSU complaint PSU26-107 received 9/15/2026, "There is no disposition at this time
+  and the investigation is "On-going."" (CITY §1.3). *Not found:* any message between the firm and any beverlyhills.org address;
+  any mention of Spiegel in Kalé's own words (K1–K29) or in City-authored text.
+- **A-4 (the window: "none of Lance's staff was ever going to send me the documents to be served").** *Found (TRANSCRIPTS Part
+  B):* 23 firm emails to Halsey 10/1/2025 → 1/31/2026, 19 with 31 attachments, 12 stating hard copies were mailed; 11 POS dated
+  in the window. The documented exceptions: the 11/4/2025 DVRO request was never emailed (L-82); the 12/29/2025 motion to quash
+  had no POS, as Spiegel said on 3/2/2026 (L-83); the 11/24 stipulation that would have deemed service was never signed (L-84).
+  The preparer sent the firm 10 emails, 8 with papers; no firm reply in any. *Not found:* that staff sent nothing; the documents
+  show most papers were emailed.
+- **A-5 ("manufacturing of documents on my own computer").** *No documented form found in the seven notes.* Only Halsey's own
+  statements (e.g., 3/9/2026 "writing false emails from me used in court", SCHWENKE_2026 §3). Still pending the device
+  examination and the Drive audit log (FORENSIC_BRIEF Q-F2/Q-F4; Q-H2).
+- **A-6 ("the arithmetic ... The next day, he was very flustered ... a lot of money").** *Found:* the vehicle was the 1/9/2026
+  spoliation ex parte, "Not Held - Court's Motion" (L-92); the same "arithmetic" was stated to Spiegel himself on 1/5/2026
+  (SP-0433); the 3/27/2026 Declaration ¶9 (the officer "refused" to contact Google) and ¶10 "I have filed a criminal referral
+  regarding the conduct of Petitioner's counsel" (BRIEF_and_DECL; SCHWENKE_2026 §2). The 4/21/2026 order reserved §271 "to the
+  time of trial" (EV-003). *Not found:* "flustered" — no message in the Schwenke universe; one 4/12/2026 message to a third party,
+  outside it, not read (SCHWENKE_2026 §3). The words "a lot of money" are in no document read; the 4/21 transcript was never
+  ordered (L-94).
+- **A-7 ("the transcripts would somehow not include my motions being heard").** *Found:* only two transcripts exist (2/9 and
+  3/2/2026); each covers every register matter of its date on the pages read. Halsey's three 1/5/2026 RFOs were heard on
+  4/21/2026, not 3/2, and the 4/21 transcript was never ordered (L-94). On 2/9/2026 Halsey told the court he did not have "two
+  more transcripts" (T1 p7). *Not found:* any transcript that omits a matter heard that day.
+- **A-8 ("refused only one motion ... who owned the only asset left").** *Not identified* by the seven notes. Candidates as the
+  Schwenke traffic names them (her account): "MOTION 3 8-28-2025 Minute order states ex parte denied. No emergency." (the
+  Vanguard block/turnover ex parte), refiled as the RFO heard 11/4/2025 (register: "RFOMOD - Spousal Support — Denied"). The
+  minute orders were not opened.
+- **A-9 (Gemini "closed loop" documents).** *Found (GEMINI_LEADS §0):* 49 claims; 55 distinct primaries named, of which 36 exist,
+  3 do not, 2 are not held and 14 were not located; of the 36, 8 were already read and 28 not; 7 claims have no primary at all
+  (C02, C09, C25, C42, C44, C46, C49). **The "scalpel" date of 8/4/2025 is an AI artifact:** AI-05 places on 8/4/2025 Halsey's
+  report to Kalé (198773659236b416, SP-0288, "hacking 4 months ago"), not a deletion; only PS-01/02/03 and the 2/28/2026 complaint
+  state it as the deletion date, citing nothing (GEMINI §5). The "control" emails were not found (C05). C23 (the firm was not told
+  before the motion) is contradicted by L-85.
+- **A-10 (the chart).** The same title appears on an AI image in a CLOSED LOOP folder: AI-10, drive:1iDR5akJttD_1QvS-gIo-8avibQ_MEpip,
+  created 2026-03-24 (AI-LEAD). GEMINI C42 ("57%"): no primary. *Not found:* a sourced per-paper list behind any bar.
+
+---
+
+# CORRECTIONS 2026-11-01 (second block, PASS 3)
+
+Additive, as in the first block. Original wording is kept; where an entry is corrected, the correction is stated here and
+nowhere is text deleted.
+
+| # | Entry | What the ledger said | What the new notes show | Source |
+|---|---|---|---|---|
+| 1 | L-63; BEHAVIOR_g | L-63 quotes Schwenke's 8/18/2026 email (1a0159a192615118): "Lance had writs issued and levied your bank accounts." BEHAVIOR_g (notes) said the shorter text, known only from Halsey's 8/21 quotation, "is not in Gmail". | The sentence **"He got writs issued and levied your bank accounts."** is an SMS in Gmail: **19ffc68d3c651376**, 2026-08-13T18:35:55Z, kat → Halsey (SP-6085). It is the earlier of her two statements, and it is documented as her statement, not only as Halsey's quotation. L-63 stays ACCOUNT as to the levying party. | SCHWENKE_2026 §1 SMS thread 19ffb878a43e13ba; §7 row 2026-08-13; addenda "Correction to BEHAVIOR_g" |
+| 2 | X-04 (Exhibit C p. 14) | First block #8 already corrected the bullet that called p. 14 a Google "Delivery Status Notification (Failure)". | Confirmed, as GOOGLE_NOTICES §2 states it: p. 14 is the Gmail print of Google Legal Support's reply of "Fri, Dec 5, 2025 at 4:29 PM" (19af06ba182f7aa6, EV-053), printed under the subject line of its thread's first message, a mailer-daemon bounce of mayorandcitycouncil@beverlyhills.com ("returned Null MX"). No DSN reports a failure to any Google address. DELETION_PRIMARIES does not restate p. 14 and adds nothing contrary. No other ledger line repeats the superseded wording. | GOOGLE_NOTICES §2; DECL_2026-03-27_exhibits_A-C p. 14 |
+| 3 | L-52 | "The documents do NOT show: whether it was signed. The attachment ... was not opened." | The attachment was read in full (register SP-0986, pass 2; TRANSCRIPTS B.4): unsigned on every line; no signed version, DocuSign envelope or register entry found. Its title names the requests "FILED ON NOVEMBER 4, 2025, AND SEPTEMBER 17, 2025", and recital 3 says neither had been personally served. See L-84. | TRANSCRIPTS B.4; register SP-0986 |
+| 4 | L-01 heading and "Act" | "discovered 2025-07-28; dated 'August 4, 2025' by Halsey"; the 2/28/2026 complaint's "August 4, 2025: Scalpel deletion executed". | 8/4/2025 is the date of Halsey's own report to Kalé (198773659236b416), which says "hacking 4 months ago"; no document identifies 8/4/2025 as a deletion date, and only AI documents (PS-01/02/03) and the 2/28 complaint state it (A-9). Earlier deletion statements exist: to Snyder 2025-05-05 ("she erased that email", one email) and 2025-07-07 ("hacking of my email account", no period); 7/28/2025 remains the first report of the 2025 erasures. | DELETION §6, §7(i); GEMINI §5 |
+| 5 | L-01 "Absence test" | Only the EV-079 comparison (12 of 17 absent) is cited. | A second test, of the report texts themselves, gives 2 present / 1 absent / 6 untestable of 9 cited emails (L-90). The two tests use different lists and are not reconciled; neither is a provider record. | DELETION §4 |
+| 6 | STATUS OF THE COURT ROUTES, "BHPD / City" | "next update due 'by 6 Nov 2026' (tracker row 18 @6f5d8b0)" | The City's own words (1a1710d680aab0e8, 10/24–25/2026): "Should our department have the determinations on November 6th or prior to that, they will be provided." The items are 2(b), 3(d), 5(a)–(d), 7, 8(e), 11 and 13(b); the review of denied (g)/(k) is set for "November 6th" (letter 10/28). | CITY §3.3 |
+| 7 | OPEN_REQUESTS R-2 (not this file; recorded here because the ledger relies on it) | "The 3 BHPD addresses bounced, so BHPD did not receive this message" | G1 records DSNs only for cityatty@, citymgr@ and citycouncil@; no DSN for professionalstandards@, ddimond@, mstainbrook@ or bhpra@ (CITY §2, A-14). Whether BHPD received it is not shown either way. A correction line is appended to OPEN_REQUESTS. | CITY_BHPD §2 A-14 |
+| 8 | GEMINI C33 vs the ledger's "WHAT NO DOCUMENT SHOWS" (no ledger line affected) | — | Recorded for readers: the 1/4/2026 message (19b884bc4c8df35c) is titled "Marsy’s Law Update"; "CRITICAL SECURITY BREACH" is the header of the AI text embedded in the 1/5/2026 notice. | DELETION §3.2 |
+
+**Not resolved:** (a) the AI-04 Drive id is written "…NZIKJ…" in GEMINI_LEADS and "…NZlKJ…" in the register (SP-0899); same
+title, one file assumed. (b) Which version of the police report reached BHPD on 3/29/2025 (or later), and when: the two files
+have different sizes; no transmittal dated 3/24–3/31/2025 to BHPD exists in the mailbox (KALE §4). (c) Whether Halsey's 1/10/2026
+"Internal Affairs" complaint reached BHPD: it was addressed in its text to IA but emailed to the DA, with City addresses in Bcc and
+no professionalstandards@ recipient; PSU wrote that it "did not receive any complaint in January" (CITY §1.3).
+
+**Counts after PASS 3.** Entries L-01…L-97: 97. Firm or Spiegel acts: 81 + L-82, L-83, L-84, L-97 (DOCUMENTED) + L-96 (ACCOUNT)
+= 86 (67 DOCUMENTED, 19 ACCOUNT). Record entries (acts or records of others, or tests): L-85 to L-95 = 11.

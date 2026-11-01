@@ -215,3 +215,111 @@ Every 16-hex Gmail id and every 33- or 44-character Drive id in the nine new fil
 ## ORCHESTRATOR CORRECTIONS (2026-11-01, after pass 2)
 - SP-2776 (drive:1zNB5FyWD6EuWN3Ob6fnVEf0i_-xiZEFl): class WORK-PRODUCT → CORRESPONDENCE, type photo, tags c-service-dates, read full. It is Halsey's own photographs of the envelopes, emailed to Schwenke 2026-03-17; not work product and not about disclosure.
 - SP-3513 added: the Correos de México tracking record for LH265470088US (third-party provider record; pointer is a web URL because the schema has no better kind).
+
+---
+
+# PASS 3 (register maintenance, 2026-11-01, after the seven new READING_NOTES)
+
+Same rules as passes 1 and 2: INVENTORY/AGENT_RULES.md obeyed (read-only everywhere; only EVIDENCE_REGISTER.tsv and this
+file written for the register; no git; no Gmail or Drive call). The pass-1 schema, the class rules and the judgment calls of
+§5 and P2.5 are kept. `reg/build.py` was **not** re-run (it renumbers). Pass 3 is an append script in the session scratchpad
+`reg3/`: `scan.py` (id scan → `scan.json`), `ann3.py` (hand annotations), `pass3.py` (append/update and checks). The
+pass-2 register is backed up at `reg3/EVIDENCE_REGISTER.pass2.bak.tsv`. To reproduce: copy the backup over the register,
+then run `python3 -I reg3/pass3.py`.
+
+## P3.1 Sources
+
+The seven READING_NOTES files written after the ledger was finished: KALE_CHAIN_full, CITY_BHPD_management_spiegel,
+DELETION_PRIMARIES_2025, GEMINI_LEADS_closed_loop, TRANSCRIPTS_and_OCT2025_JAN2026_service, SCHWENKE_2025, SCHWENKE_2026.
+Read by this pass: GEMINI_LEADS, TRANSCRIPTS, DELETION_PRIMARIES, CITY_BHPD and KALE_CHAIN in full. SCHWENKE_2025: §§0, 2–8,
+11, 1A and 12 in full and the first half of §1 (August 2025) line by line; the rest of §1 (Sep–Dec), §9 (thread list) and §10
+(SMS) were scanned by script for identifiers and by keyword, **not** read line by line. SCHWENKE_2026: §§0, 2–7, Batch T–U,
+the 2/4/6 addenda and §8 in full; the Batch A–S per-thread logs were scanned for identifiers and keywords, **not** read line by
+line. Every 16-hex Gmail id and every 33/44-character Drive id in all seven files was scanned with the pass-1 regexes.
+
+## P3.2 Counts
+
+| | before | after |
+|---|---|---|
+| rows | 3,513 | **6,280** (new SP-3514 … SP-6280) |
+| CORRESPONDENCE | 1,392 | 4,090 |
+| WORK-PRODUCT | 836 | 839 |
+| COURT | 520 | 523 |
+| SWORN | 387 | 387 |
+| DUPLICATE | 184 | 193 |
+| AI-LEAD | 135 | 189 |
+| ACCOUNT | 59 | 59 |
+| read: metadata-only | 2,871 | 3,008 |
+| read: not-read | 305 | 257 |
+| read: full | 285 | 2,761 |
+| read: partial | 52 | 254 |
+
+- **Ids scanned:** 3,133 Gmail (451 already registered, 2,682 new) and 117 Drive (25 already registered, 85 new, 7 folders
+  excluded: the five "CLOSED LOOP OF CORRUPTION (BY) GOOGLE GEMINI AI" folders, 1_vuyupR… and 1tdfG--5…).
+- **New rows: 2,767.** By class: CORRESPONDENCE 2,698, AI-LEAD 53, DUPLICATE 9, WORK-PRODUCT 5, COURT 2. By read_status: full
+  2,168, metadata-only 371, partial 190, not-read 38. By type: email 1,786, other 919 (SMS, Square, AdobeSign, DSN, transcripts,
+  agency records), ai-analysis 47, photo 7, letter 5, court-order 1, court-filing 1, work-product 1. They are numbered in date
+  order among themselves; `unknown` dates last.
+- **Existing rows changed: 390.** SP-ids, EV-ids and pointer ids are unchanged (checked against the backup). read_status raised
+  339; tags merged 208; thread filled 25; class changed 2 (SP-1313 WORK-PRODUCT→COURT; SP-0899 WORK-PRODUCT→AI-LEAD); type 1;
+  date 1. Pass-3 text is prefixed `P3:` and the earlier note is kept after ` || ` (clip 480).
+- **Redactions in existing notes (rule: no telephone or account numbers in any file):** 4 notes carried telephone numbers
+  (SP-0204, SP-0205 and two others: Google Voice sender strings) → "[phone omitted]"; 6 notes carried account last-four digits
+  (SP-0776 and five Wells Fargo / MUFG rows) → "[account digits omitted]". New notes are generated through the same filter, which
+  also writes children's names as "[redacted]" and street addresses as "[address redacted]".
+- **Structural checks (re-run independently on the written file):** 6,281 lines; every row has 9 columns; the 6,280 SP-ids are
+  unique and run SP-0001…SP-6280 without gaps; all type, class, tag and read_status values are in the valid sets; new rows are in
+  date order; the only pointers carried by more than one row are the three shared pass-1 fallbacks (EVIDENCE_INDEX.md ×7, the
+  finthread Declaration ×4, 39e87acb-First_50_Pages.pdf ×2). No note contains a telephone-number or account-digit pattern.
+
+## P3.3 Named rows (hand-annotated)
+
+- **The two police-report versions** (both AI-LEAD by DELETION's rule: "both 'Analysis of Evidence' reports"; read partial):
+  SP-6253 drive:1VUG9LHh… ("Sent To Police … 500 Emails an iMessages_Optimized_Timeline 2.pdf", 24,470,497 B) and SP-6234
+  drive:1CtcVKan… ("POLICE REPORT_Revised … (Updated with August 2025 Evidence).pdf", 296,498 B). Same-size copies of the first
+  (1S4CNnBq…, 1b2w3x8o…) are DUPLICATE, not hash-verified; 1LBJ3AZf… was already registered. Dates are `unknown`: Drive
+  created times are metadata, and which version reached BHPD on which date is not established (DELETION §4.1).
+- **The two hearing transcripts:** SP-5352 drive:1fZEZenp… (2/9/2026, Kim CSR 12299; COURT, type other, full) with its scan
+  SP-5354 (DUPLICATE, partial) and two same-size copies (DUPLICATE); SP-1313 drive:1FGyOCzr… (3/2/2026, Sosa CSR 15020) corrected
+  from provisional WORK-PRODUCT to COURT, type other, date 2026-03-02, read partial (pp. 9–19 not read).
+- **The 4/21/2026 minute order** naming the reporter: SP-5689 drive:1Jv6lxBP… (COURT, court-order, full).
+- **The 1/9/2026 spoliation ex parte and its exhibits:** the papers exist only as email attachments, so they are described in the
+  notes of SP-5234 (19ba0749…, the packet "Memo of Ps and As…", "Declaration Re Motion for Sanctions.pdf", "Exhibits A-J.pdf"),
+  SP-5215 (19b9bb53…, exhibit list incl. "EMAIL ALEX KALE.jpeg", "forensic_analysis_with_exhibits.pdf"), SP-5225 (19b9f2a0…,
+  Halsey's exhibit instruction), 19ba07e6… (FBI report to be added), SP-3163 (19b9ec48…, ex parte notice to the firm, raised
+  to full) and SP-3165 (19ba3da7…, the papers as served on the firm). No attachment was opened by any reader.
+- **The NOA:** SP-5841 (19edc0bb…, AdobeSign, metadata-only) beside SP-0707 (service on the firm, already full); appeal-default
+  messages SP-5852, SP-5871, SP-5889, SP-5944, SP-6014.
+- **AI documents:** AI-01…AI-14, PS-05 and the not-opened Gemini files are AI-LEAD (type ai-analysis); PRIM-a (1G8diN74…) is a
+  screenshot of Halsey's own 2024 "HELP" emails and is CORRESPONDENCE (photo). AI-04's id is written by GEMINI_LEADS as
+  "…NZIKJ…" and by pass 1 (SP-0899) as "…NZlKJ…"; both notes give the same title, so SP-0899 was updated rather than a second
+  row added. The spelling is not resolved.
+- **Square invoices** (S25 §11, S26 Batch U): CORRESPONDENCE, type other, metadata-only, except #001356 (19dd072d…, SP-5710),
+  whose line item was read ("Hearing transcript and court orders" $500.00) and is full.
+- **The levy SMS** "He got writs issued and levied your bank accounts.": SP-6085 (19ffc68d3c651376, 2026-08-13T18:35:55Z).
+- **The "28 emails" pair:** SP-4953 (19b4e5b6…, the 12/24/2025 forward of Halsey's 6/17/2025 email, the earliest "28 emails"
+  wording in the Schwenke traffic) and SP-4437 (19a3c86e…, 10/31/2025 "22 requests not 28").
+- **City / BHPD records produced under PRA:** the redacted case report (1fuTnx3s…), the CAD log (1nU69LCv…), the 10/24, 10/28 and
+  10/29 letters, the 9/25 extension letter (partial) and the 3/25/2025 audio (not-read) are CORRESPONDENCE by the schema (agency
+  records; no better class exists).
+
+## P3.4 Judgment calls (mechanical rules; provisional)
+
+1. **read_status for the 2,682 new Gmail rows is set by section rule, not by hand:** KALE §7.1 rows → full; CITY inventory rows →
+   the row's own read-status cell; DELETION and TRANSCRIPTS → full unless the line says not read / snippet; GEMINI → metadata-only
+   (it read metadata only); SCHWENKE_2025 §1/§1A/§10 → full unless "[snippet" / "rest not read", §9 thread list → metadata-only,
+   §11 Square → metadata-only, §12 → not-read; SCHWENKE_2026 Batches → full unless snippet/MINIMAL/headers-only, §8b → metadata-only,
+   §8c → partial, §8d → not-read, §8e → metadata-only. Where an id appears in several notes the highest status wins. Because
+   S25 §1 (Sep–Dec) and S26 Batches A–S were scanned rather than read line by line by this pass, those statuses repeat the
+   readers' own statements and are marked "class provisional (mechanical rule)" in each note.
+2. **Class:** CORRESPONDENCE unless the message's own line shows it is AI output (Perplexity replies and agent messages, Sana
+   recaps, "Court & legal inbox monitor" mail, pasted AI output), which is AI-LEAD (53 rows). Halsey's messages that carry AI
+   attachments stay CORRESPONDENCE as sent; the attachment is named in the note.
+3. **Dates** of new Gmail rows are decoded from the id (pass-1 method, validated 211/211). Thread ids are filled where the notes
+   name the thread; otherwise `thread:unknown`.
+4. **Tags** are keyword-assigned over a ±160-character window of the citing line (leads only).
+5. **Not changed:** the register lags noted in the ledger's first CORRECTIONS block (SP-2835, SP-0144, SP-0379 marked
+   metadata-only although FIRST_CONVERSATIONS records full reads; SP-3513 classed ACCOUNT). None of the seven new notes reads
+   them, so this pass leaves them for the next maintenance pass.
+6. **Absent ≠ deleted.** Rows for report-cited emails tested by DELETION_PRIMARIES carry that note's words ("PRESENT", "ABSENT",
+   "UNTESTABLE"); "absent" means not found by the searches named there.
