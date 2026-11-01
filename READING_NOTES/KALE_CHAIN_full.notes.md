@@ -1022,3 +1022,101 @@ from other City senders (dleber, ccoulter, rgohlich, vrivas ×6) — not Halsey�
   nights … fighting the number #1 lawyer in LA using my own money against me pro se …").
 - Not to Kalé: 19b9f90d62b85db7 & 19bba5cc9a6a37ae (→ jswearingen), 19bb915c1e7bcd62 (jswearingen), 19c204746b65e991 (→
   kat.flds); DSNs 19baf9e5a04d63b5, 19bb57c5b4166cfb, 19bba04c0ab870f4, 19bbf480ec77e477 (.com / .gov).
+
+### T67 · thread 19b9f1a3fbe641ad "FINAL NOTICE: Forensic Proof of Leak & Destruction of Evidence" (12; Halsey↔Kalé 3 read; DA/FBI/DSN messages outside the universe)
+- H **19b9f2782a3567fa · 2026-01-08 19:48:44Z · halsey2005 → akale; cc stainbrook@beverlyhills.org [bounced],
+  mayorandcitycouncil@, info@da.lacounty.gov, Sharona@, Citymanager@, lances@ysfamilylaw.com, lwiener@, nhuntcoffey@; bcc
+  kat.flds** · att "FORENSIC EVIDENCE.pdf", "Beverly Hills PD - Marsy_s Law Dashboard.pdf", IMG_0903.PNG (not opened). Own
+  text read in full. Verbatim: "This level of precision requires a roadmap. That roadmap was the Police Report I submitted
+  to you." · **"Since you have *refused to contact Google to preserve the logs 3 separate times and 2 under Marsy's law,
+  …* I have forwarded this Forensic Audit to the *FBI Public Corruption Squad* and the *Los Angeles District Attorney*
+  (CC'd here). You have 24 hours to confirm you have issued a preservation order to Google, or this audit will stand as
+  evidence of willful negligence and obstruction."** [PRESERVATION ASK (A15); his count "3 separate times and 2 under
+  Marsy's law"; Spiegel (lances@) is cc'd]
+- DSNs 19b9f27b8414ae18 (nhuntcoffey@), 19b9f27b8cb0b0ec (stainbrook@ 554).
+- **K18 19b9f2badaeb5eeb · 2026-01-08 19:53:05Z · Kalé → minorventures** · own text as read in full in BEHAVIOR_f §3.3:
+  "Halsey, I emailed you on Monday asking you one question about those very same emails, and you did not respond. See below
+  email I sent you on 01/05/2026 at 11:57AM and please answer: +++…" (re-pastes K17). [Answers 19b9f2782a3567fa four
+  minutes after it; says nothing about Google.]
+- H 19c27f6dc533be58 · 2026-02-04 09:23:35Z · halsey2005 → akale; cc stainbrook@, mayorandcitycouncil@, info@da, Sharona@,
+  CITYMANAGER@, lances@ysfamilylaw.com, lwiener@, nhuntcoffey@, halsey2005; bcc kat.flds — see T69 note.
+- Outside the universe: DA info@ → minorventures 19c2b10b330b0ecb (2/4 23:50Z) and 19c2e62e339d6e4f (2/5 15:19Z); Halsey →
+  DA 19c2b9555f653f69, 19c2c0ad2a3cf672 (+ tips@fbi.gov, bounced 19c2c0b031e57d28); DSNs 19c27f70b5681543, 19c27f70df882bcc.
+
+### T68 · thread 19b9e2e602fb5f38 "URGENT: FINAL PRESERVATION DEMAND - Evidence Leak Confirmed" (4; all read)
+- H **19b9f2e529d79fbc · 2026-01-08 19:56:11Z · halsey2005 → akale, mstainbrook@, MayorandCityCouncil@, Sharona@, ddimond@,
+  lwiener@, shannonminor@gmail.com; bcc nhuntcoffey@, lances@ysfamilylaw.com, AnnaK@, VivianH@, kat.flds, akale, snazarian@,
+  shannonminor@** · full text: "*Detective Kale, Chief Stainbrook, the Mayor and City Council, and Chief Legal Counsel*
+  Because there was also an *illegal entry into the account in September and October 2022 locking me out*, directly related
+  to the case and explained but ignored by Officer Kales as the Marcies Law Tracker demonstrates, the suspect took control of
+  my account to delete evidence as well, **retrieving meta-data from that period would be essential** as *I was in a
+  hospital for five months in Turkey and could not possibly have interacted with the account from the United States much
+  less 619 Trenton Dr., Beverly Hills, CA 90210 from a “mac computer”* *Dates: August 29 through November 30, 2023*"
+  [PRESERVATION ASK (A16) — subject "FINAL PRESERVATION DEMAND"; account metadata for 8/29–11/30/2023; sent To Shannon Minor
+  and bcc Spiegel's firm]
+- DSN 19b9f2e81199fcdd (nhuntcoffey@).
+- **K19 19b9f303920a4a1a · 2026-01-08 19:58:10Z · Kalé → minorventures, cc halsey2005** · own text, full (verified in the
+  quote inside 19b9f646568c79a0): "Halsey, Can you please just answer the question that I emailed you about on Monday?...
+  Thanks, Alex" [two minutes after the FINAL PRESERVATION DEMAND; says nothing about Google or metadata]
+- H 19b9f646568c79a0 · 2026-01-08 20:55:14Z · halsey2005 → akale · own text, full: "Detective Kale, You are referring to the
+  same set of emails. I am specifically talking about the November 11, 2022 email confirming receipt of the tax refund that
+  I provided to you in my evidentiary packet, which has been deleted from my Gmail account while other innocuous emails
+  from that same day, including the basketball schedule email, remain intact. If the screenshot you attached shows your
+  copy of those November 11 messages, then yes, those are exactly the emails I am talking about. The problem, as the
+  Forensic Audit explains, is that the critical tax-refund email was surgically removed from my account after I gave it to
+  you, not that it never existed."
+
+### T69 · thread 19ba02a9c00c3b61 (2; both read) — K20 and the 1/8 and 1/10 Halsey messages (minorventures) that exist only as quotes
+- **K20 19ba02a9c00c3b61 · 2026-01-09 00:31:37Z (= 1/8 16:31 PT) · Kalé → halsey@minorventures.com** · own text, full:
+  "Halsey, I’m sorry you think I destroyed evidence, but I assure you I did not. I would not risk my career over something
+  as silly as that. **Like I said – we have the 567-page document you sent us…**I am not sure how that turned into you
+  thinking the police destroyed evidence. **For your knowledge, I did interview Joyce Flaherty yesterday.** That is a case
+  update for you. Thanks, Alex"
+  Quoted beneath (ONLY COPY): **H "Thursday, January 8, 2026 4:25 PM" · halsey@minorventures.com → Kalé, snazarian@,
+  ddimond@, CITYMANAGER@ · "Your email"** — read in full: "… What police officer is informed that the data shared became a
+  roadmap for hacking and deletion, and yet they refuse three times to make a 45-minute phone call? **That's between you
+  and internal affairs**, but given Lance's 10 billion to 1 bet that relied on non-recovery, I wouldn't be feeling very
+  bold right now. …"
+- (DA → Halsey; outside universe) 19bb307ee4795b75 · 2026-01-12 16:26:27Z · info@da.lacounty.gov → minorventures: "Your
+  email has been received. Please explain in greater detail …" Quoted beneath it (ONLY COPY): **H "Saturday, January 10,
+  2026 1:22 PM" · halsey@minorventures.com → Alex Kale; cc info@da.lacounty.gov · "[External]Re: Your email"** — read in
+  full. Verbatim: "… Glad to hear 10 months later, you interviewed Joyce …" · item 6: "**You interviewed her and were
+  absolutely brutal on the speakerphone call with another witness.**" · item 10: "Turkish phone offered … You: no
+  interest." · **item 11: "4 times telling you my computer was hacked, based explicitly to delete the information given to
+  you, the template, 4 times refused."** · "When Lance was boldly seeking $250,000 from me, claiming a real email was fake!,
+  …" · "Beverly Hills Management was aware of your inaction and permitted Shannon's attorney to obtain information that
+  should not have been accessible during a criminal investigation." [his account; no document named]
+
+### T70 · thread 19ba5c6a7d242d18 "Preservation and Recovery of Evidence – Fourth Formal Request" (3; all read)
+- H **19ba60583051da79 · 2026-01-10 03:48:57Z (= 1/9 19:48 PT) · halsey2005 → akale, snazarian@, ddimond@, Sharona@,
+  MayorandCityCouncil@, Citymanager@, lwiener@, nhuntcoffey@, ealbanese@, ccoulter@, Chief@bhpd.gov [bounced]** · att
+  "Untitled 2.png" ×2. Own text read in full (quotes K20). **PRESERVATION ASK (A17), verbatim:** "*This is now the fourth time
+  I am formally requesting that you contact Google to preserve and recover emails that constitute material evidence in an
+  active investigation involving grand theft and attempted murder, provided only to you.*" · "You were explicitly notified
+  that the information provided to you became a functional template for a hacking incident, and that this same information
+  later appeared—nearly verbatim—in a strategic motion filed by the primary suspect’s attorney in family court." · "The
+  *fact that you have refused—four times*—to spend approximately 45 minutes contacting Google, even though you know that I,
+  as a private citizen, am legally unable to do so despite repeated attempts, *is extraordinary.*" · **"*This matter has now
+  escalated to Internal Affairs. *Your continued refusal—even after notification of that fact—to take the most basic
+  investigative step only compounds the seriousness of the situation given 24 hours, 48 hours ago. You did not act or
+  notify."** · **"*I am asking again, and for the final time, that you immediately contact Google to:1. Stop any further
+  destruction of emails, and 2. Recover as much of the compromised material as possible.*"** · "*In other words, the 8 pages
+  that I gave you that solved this 10 months ago, became the EXACT template for the hacking, …*" · **"This is why *you are
+  being referred to internal affair*s: Lance's motion was a 10-to-1 long shot unless he knew two pieces of information. 1.
+  That particular email had been hacked, and I couldn’t produce it from my computer. 2. That the police officer never
+  recovered the email. … the AI began providing me with a list of agencies to contact, including internal affairs. All of
+  them have been contacted."** · "*Lance sold you out without knowing that I could do. *"
+- DSNs 19ba605b3bc127be (nhuntcoffey@), 19ba605b5960e636 (Chief@bhpd.gov — domain not found). No Kalé reply in thread.
+  [The tracker index labels this "IA complaint"; the message names no IA address — none of the recipients is an IA/
+  Professional Standards address.]
+
+### T71 · thread 19c0bff0386a7be2 "Turkey Incident" (4 per header; 3 returned; all read)
+- **K24 19c0bff0386a7be2 · 2026-01-29 23:03:02Z · Kalé → halsey2005, cc minorventures** · att image001–005.png. Own text,
+  full: "Good Afternoon Halsey, Do you have any reports/documentation as it relates to the incident in Turkey? For example,
+  any of the following: * Traffic Accident Reports * Local Police Reports * Medical Reports * Doctor Notes/Injury
+  Reports/etc. * Any other relevant documents or information related to the incident that occurred in Turkey Thanks, Alex"
+- H 19c0c0f85ad87364 · 2026-01-29 23:20:57Z · halsey@minorventures.com → akale, cc halsey2005 · own text, full: "I have been
+  advised to lock down all evidence so I will not be able to provide additional information. Sincerely, Halsey Minor"
+- **K25 19c24e9f23054879 · 2026-02-03 19:10:32Z · Kalé → halsey2005, cc minorventures** · own text, full: "Good Morning
+  Halsey, I see you sent me a couple of emails over the past few days, but were you able to answer my one question
+  regarding Turkish documentation below? Thanks, Alex"
