@@ -55,7 +55,7 @@ Conventions: text inside “ ” is verbatim from this file (line wraps collapse
 | D19 | Uploads Docs 1, 2, 4, 5 (L17–21); Drive `1hUri1DiIBpecVmzitBGbS5zypo5gpBsZ` (L186) | (see §1) | AI/work product |
 | D20 | Census captures: “24a_CENSUS_BATCH1 ll. 20109, 35138” (L94–95); “24a_ ll. 26393/34009” (L302); “24a_ l.7541” (L346–347) | text captures of Docs 2 and 5 and of appeal material | AI/work product |
 
-Other pointers in the file that do not bear on Spiegel (listed only): EV-042 ¶9 / register #25 (L135–136); EV-045/EV-054 (L158); EV-056 / 15_ (L196, L285–287); Officer_Kale_Report_Footnoted_v2 (L193); 8792128e dashboard upload (L212); 63G row 5 (L209); 14_STRAW_MAN l.174 (L310).
+Other pointers in the file that do not bear on Spiegel (listed only): EV-042 ¶9 / register #25 (L135–136); EV-045/EV-054 (L158); EV-056 / 15_ (L196, L285–287); Officer_Kale_Report_Footnoted_v2 (L192); 8792128e dashboard upload (L212); 63G row 5 (L209); 14_STRAW_MAN l.174 (L310).
 
 ---
 
@@ -117,7 +117,14 @@ Category roll-up for this file:
 16. Body statements superseded by the controlling addendum: “(1) **October 31, 2025** as the date of the declaration containing "Exhibit 2"” (L159–160); “Halsey files declaration containing "Exhibit 2" (the 28-request log with "Janine") — the artifact the fabrication claim targets” (L377); “Doc 2 supplies **10/31/2025** as the declaration that contained Exhibit 2” (L397–398).
 17. The controlling addendum in full (verbatim):
 
-@@VERBATIM 431 436@@
+```text
+L431: ## ADDENDUM 2026-09-03 (QA) — corrections from v3_parts/qa_Q09_Q14_Q16_lookups.md; body above NOT edited, this note controls
+L432: - §3 "NEW vs baseline (1)" and §6 row 2025-10-31: **10/31/2025 is the LDA's DRAFT date, not a filing** — "See attached for Motion 5 for your review and approval" [Gmail 19a3c147879af74a]; signed 11/2 [19a46f5cb3cf5acf]; **FILED 11/12/2025** per the court's 4/21/2026 minute order ("Respondent submitted an RFO to the Court on 11/12/25… Attached hereto as Exhibit 'F' is the log"; transmittal 19db2dc31208f02d); mailed 11/15 [19a89ddcc887bba2]. Grade for the Doc 2 "declaration dated October 31, 2025" → **D**. The same-day anchor with Halsey's 10/31 warning to Kale [19a3c510e55270e0] holds for the DRAFT date only.
+L433: - **Exhibit label:** the court's label is **"Exhibit F"**; "Exhibit 2" is Doc 2's label (and Halsey's own 2/18/2026 filename) — U whether any court paper ever used "Exhibit 2". Read every "Exhibit 2" above as the Exhibit-F log.
+L434: - §6 row 2025-10-31 "the 28-request log": "28" is the REQUEST count in that log [19a285a5f64bb0cb; 19a2d8a2eedbbea8] — never a subpoena-target count. The 10/31/2024 subpoena sweep is **SIXTEEN** distinct targets in one email [192e4eb48f4671cf; ShareFile size-bounce resend of the same sixteen 192e4f2f43647e39]; never "28", never "16 + 12".
+L435: - The 10/14/2025 "demand to Spiegel for the original email" (spine E3-076) is **WITHDRAWN**: absent from the mailbox (searched in:anywhere 2026-09-03); its only source is an AI-generated "Financial Disclosure Requests – Index" PDF (24a:33550). Do not cite.
+L436: - The "11/12/2025 Spiegel declaration" is Halsey's own RFO date; Spiegel's sworn "did not in fact occur" declaration is **≥12/29/2025** [19b6cc55639bdc93 / 19b70bba0694f1d9].
+```
 
 ---
 

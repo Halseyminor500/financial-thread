@@ -11,7 +11,8 @@ Reading notes by a full-reading analyst subagent, 2026-11-01. Evidence-only.
   from certified LASC docket, case 24STFL00432, retrieved 6/1/2026)" / "Saved 6/8/2026. Source: "Family Law Case
   Access" docket PDF in this folder."
 - **Read in full: YES** — the read_file_content text read entirely (no comments returned). A plain-text export was
-  also fetched: it begins and ends with the same text, and all seven section headings appear in it.
+  also fetched (same start, same end, all seven section headings present), and a PDF export (3 pages) was text-extracted;
+  every quote below was machine-checked against that text. The document contains no occurrence of "Spiegel" or "Lance".
 
 ## WHAT IT IS
 
