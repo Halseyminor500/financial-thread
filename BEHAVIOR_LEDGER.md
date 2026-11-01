@@ -452,3 +452,514 @@ Context records. These are acts by others and are not counted.
   - L-07: the emails are addressed to Spiegel.
   - L-08: the records are third-party productions.
 - **Bears on:** PC 502 el. 2, 3, 5, but only if a source inside his accounts is shown.
+
+## (c) Papers claimed as served on dates other than sent
+
+**Common facts for this section.**
+
+- **The firm's proof-of-service template** (BEHAVIOR_c §2.0, verbatim) contains these two paragraphs:
+  - "A. BY MAIL - I caused each such envelope, with first-class postage thereon fully prepaid, to be deposited in a
+    recognized place of deposit of the U.S. Mail for collection and mailing to the office/residence of the addressee(s) on
+    the date shown below following ordinary business practices."
+  - "D. BY ELECTRONIC COMMUNICATION - I caused a true copy thereof to be transmitted on the date shown from [SENDER EMAIL]
+    to the email address for the addressee(s)."
+  - The four email addresses served are "halsey2005@gmail.com / halsey@minorventures.com / halsey@vividlabs.com /
+    halsey@liveplanet.net".
+  - BEHAVIOR_c: "No POS states a tracking number, certified-mail number, postage-meter date, or post-office location." The
+    declarant's title is not stated on any POS.
+- **The 22 proofs of service for papers served 11/14/2025 to 3/4/2026** (POS P1–P22) were all executed "at Beverly Hills,
+  California" by Matthew Sirriyeh or Anna Kralle Vanmali. Every one except the 11/20/2025 SUBP-025 is marked "A/D" (mail
+  plus email).
+- **The register** has 22 service entries "Filed by Petitioner". By the words in the docket text: "Email" 1, "Electronic" 1,
+  "Mail" 6, and no method word 14. Per the DOCKET notes, "the register does not link any POS to any paper". It has no
+  Petitioner proof-of-service entry between 11/17/2025 and 1/27/2026.
+- **Envelope labels legible in Exhibit A** of the 3/27/2026 declaration (DECL exhibits notes). These are USPS "Retail" labels.
+  No meter strip, postmark cancellation, Correos de México mark or tracking barcode could be read.
+  - #1 (p. 5): "JAN 05, 202[?]", "$3.15", "FCMI".
+  - #2 (p. 5): "DEC 30, 2025" (best reading; "30" and the final "5" are not certain), "$13.00", "FCMI".
+  - #7 (p. 6, orange/kraft): "JAN 30, 202[?]", "$29.70".
+  - #3: the date line is illegible. #4 and #5 were not examined.
+- **"Gap"** = the days from the declared service date to the delivery of the bundle on 2/24/2026 (BEHAVIOR_c §4).
+- **Bears on, for every POS entry below:** PC 118 el. 2–5, CCP 1013b, and, for the email leg, CCP 1010.6 el. 4 and CRC 2.251
+  el. 4. This applies only if a declared date or method is shown to be untrue. No document read shows that for any POS.
+  What no document shows, for any paper in the window, is which envelope it travelled in.
+
+### L-10 · 2024-01-25 20:28:35Z · petition packet and FL-117 sent by email · (c, d)
+
+- **Actor (as shown):** Anna Kralle, cc lances@.
+- **Act:** gmail:18d424f91222fab9: "Please see the attached correspondence along with the corelating documents."
+  - Attachments include "2024-01-25 Ltr.LSS.Halsey.pdf", the petition papers ("2024-01-12 Petition.pdf") and the FL-117
+    Notice and Acknowledgment of Receipt (85_V3 B-01).
+  - Kralle "had twice followed up for the signed Notice and Acknowledgment of Receipt (1/25, 1/31)" (85_V3).
+- **Status:** DOCUMENTED (CORRESPONDENCE).
+- **The documents do NOT show:** a signed acknowledgment returned by Halsey.
+- **Bears on:** CCP 415.30 el. 5.
+
+### L-11 · 2024-02-13 · "Case Inititation Documents" sent by email · (c, e)
+
+- **Actor (as shown):** the firm.
+- **Act:** gmail:18da4c2fe5eb3cd1. Attachments: UCCJEA, cover sheet, Petition, Summons, "[C] Order.Share.Financial.Info.pdf",
+  blank fl120, blank fl105, FL-117 NAR. 85_V3: "No FL-140, FL-141, FL-142, FL-150 or FL-160 in the attachment list."
+- **Status:** DOCUMENTED (CORRESPONDENCE; attachment list).
+- **The documents do NOT show:** any disclosure form or any POS.
+- **Halsey's account:** gmail:190e4dfe9a2c2743, 2024-07-24: "You didn't properly serve in the first place. I have your blank
+  form in an email claiming you are serving me. Absolutely blank." / "You attached the blank not the filled in form by
+  mistake."
+- **Bears on:** CCP 415.30 el. 5; FAM 2104 el. 4.
+
+### L-12 · 2024-03-08 · acknowledgment of receipt filed · (c)
+
+- **Act:** register: "Notice - Acknowledgment of Receipt of Summons & Petition" (Petitioner).
+- **Status:** DOCUMENTED (COURT, register line).
+- **The documents do NOT show:** the form image, or who signed the acknowledgment and when.
+- **Bears on:** CCP 415.30 el. 5.
+
+### L-13 · 2024-03-20 · proof of service of summons "via Email" · (c, d)
+
+- **Act:** register, clerk's entry: "Proof of Service of Summons via Email; NO service dated listed; NOAR filed 03/08/2024"
+  (Petitioner). Six days earlier the court had entered: "Notice - Status Conference Review: Proof of Service Noticed by
+  LASC."
+- **Status:** DOCUMENTED (COURT, register).
+- **The documents do NOT show:** the POS image — the declarant, the address used, or any date of service.
+- **Bears on:** CCP 415.30 el. 5; CCP 1010.6 el. 4.
+
+### L-14 · 2024-08-15 20:28:38Z · RFO papers "sent to you via mail", with a courtesy email · (c)
+
+- **Actor (as shown):** Anna Kralle, cc lances@.
+- **Act:** gmail:19157ba8e41220f7 (checked at source): "The attached documents have been sent to you via mail. We are
+  sending an email as a courtesy copy to you as well."
+  - Attachments include "2024-08-14 [P] POS.pdf".
+  - Register for 8/15/2024: "Proof of Service Proof of Service (Comment)" (Petitioner).
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** the POS contents (the attachment was not opened), a postmark or a receipt.
+
+### L-15 · 2024-10-31 · Notices to Consumer; POS by mail to Bristol, TN · (c, g, h)
+
+- **Actor (as shown):** Matthew Sirriyeh. The email went cc to Lance Spiegel, Katherine Aldin and Anna Kralle.
+- **Act:**
+  - SUBP-025 POS (SVL C1; 15 Drive files listed there, for example drive:1zJmKPJ7IzI_ggIPCdFaMWv7jFQixxs_Q): "b. X Mail. I
+    deposited the Notice to Consumer or Employee and Objection in the United States mail, in a sealed envelope with
+    postage fully prepaid. … (1) Name of person served: HALSEY MINOR (2) Address: 210 Woodland Circle Bristol, TN 37620
+    (3) Date of mailing: October 31, 2024 (4) Place of mailing (city and state): Beverly Hills, CA".
+  - Email gmail:192e4eb48f4671cf, 23:30:57Z (checked at source): "Hard copies have also been sent to you by mail."
+  - The targets include "Ally Bank; Ally Financial; Ally Servicing" (SVL C1). 85_V3 counts sixteen targets.
+- **Status:** DOCUMENTED (SWORN POS + CORRESPONDENCE). SVL: "No facial defect." The address matches Halsey's own FL-150
+  e-filed 7/1/2024.
+- **The documents do NOT show:** receipt.
+  - The minorventures copy bounced (gmail:192e4f2f43647e39: "552 5.2.3 message size exceeds fixed maximum message size");
+    "the gmail copy did not bounce".
+  - No Vanguard entity is a target: "Vanguard: zero" (85_V3).
+  - Nothing read links the Ally subpoenas to the 2026 restriction.
+
+### L-16 · 2025-01-08 22:57:25Z · conformed RFO papers; "A physical copy … is being mailed" · (c)
+
+- **Actor (as shown):** Anna Kralle, signing as "Anna Kralle Vanmali", cc lances@ and aliciat@.
+- **Act:** gmail:194482330a95baa0 (checked at source): "Please see the attached conformed RFO documents and blank
+  Responsive Declaration. A physical copy of these documents is being mailed to you as well."
+  - Attachments include "2025-01-08 [P] Dec.Address.Ver.pdf".
+  - Register: 1/8/2025 "Proof of Service" and "Declaration re Address Verification"; 1/14/2025 "Proof of Service".
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** the POS images (SVL C4: "No POS appears in the corpus copy's text layer"), or what address
+  the verification declaration states.
+
+### L-17 · 2025-01-31 · four SUBP-025 notices with blank POS · (c)
+
+- **Act:** Notices for JPMorgan Chase, Discover Bank, American Express and Wells Fargo (SVL C2, for example
+  drive:1lHce5DZHkqtdt5Hh6JIUEKYF3pgBXSCI). The POS block is "entirely blank — no method checked, no name, no address, no
+  mailing date, no declarant, no signature."
+- **Status:** DOCUMENTED (the forms as produced). SVL: "Compliance not shown — not 'defect shown.'"
+- **The documents do NOT show:** whether executed versions exist.
+
+### L-18 · 2025-02-21 · SUBP-025 for U.S. Bank with blank POS · (c)
+
+- **Act:** SVL C3 (drive:13FY3-IQJoRt9kV8v0axllN91MRQdVPLh): the POS block is "entirely blank (same as C2)".
+- **Status:** DOCUMENTED. SVL: "Compliance not shown."
+- **The documents do NOT show:** whether an executed version exists.
+
+### L-19 · 2025-02-24 · Petitioner's FL-142 and its POS on Provinziano's office · (c, e)
+
+- **Actor (as shown):** Shannon Minor signed the FL-142 ("Date: FEBRUARY 24, 2025", DocuSigned). Matthew Sirriyeh signed
+  the POS.
+- **Act:** EV-037 (preserved_2026-08-19/EV-037_P_FL-142_SAD_2025-02-24.pdf).
+  - Item 16: "VANGUARD 529 PLAN ACCOUNT X0245-01 FTBO GRACE C. MINOR" 197,701; "-02 FTBO JAMES E. MINOR" 197,862; "-03
+    FTBO WILLIAM H. MINOR" 197,862; "-04 FTBO CHARLOTTE E. MINOR" 197,862.
+  - Also listed: WF checking x0890 35,551; WF x1074, x1530, x4249, x4215, x5631; four term-life policies; "FIDELITY ROTH
+    IRA X3347" 6,768.
+  - Item 11 (stocks/bonds) reads "NONE". Total assets is blank.
+  - POS on p. 97 (image): "On February 24, 2025, I served the within document(s) described as: PETITIONER'S SCHEDULE OF
+    ASSETS AND DEBTS … Alphonse F. Provinziano, Provinziano & Associates … al@provinziano.com service@provinziano.com … D …
+    BY ELECTRONIC COMMUNICATION … from mvs@ysfamilylaw.com … Executed on February 24, 2025 … MATTHEW SIRRIYEH".
+- **Status:** DOCUMENTED (SWORN). Halsey was represented at the time: the register shows substitutions by Respondent on
+  10/18/2024, 10/28/2024 and 1/21/2025, and the withdrawal was "Granted" on 6/5/2025.
+- **The documents do NOT show:** a register entry dated 2/24/2025 (there is none), or any Vanguard account other than the
+  four 529s.
+- **Bears on:** CCP 1010.6 el. 3.
+
+### L-20 · 2025-06-25 · register "Proof of Service - Mail" after the DVRO request · (c)
+
+- **Act:** register for 6/25/2025: "Proof of Service - Mail Proof of Service - Mail (Proof of Service)" (Petitioner). It
+  follows the 6/24/2025 DVRO request, Forms 109 and 110, and the "Declaration - Ex Parte Notice".
+- **Status:** DOCUMENTED (COURT, register).
+- **The documents do NOT show:** the paper, address, declarant, date of service or tracking.
+  - Halsey's complaint dates "1. June 19, 2025: TRO via email (Hague violation #1)". The register has no Petitioner entry on
+    6/19/2025. This is stated, not reconciled.
+- **Related records:** the register shows Restraining Order Hearings "Held - Continued, TRO Reissued" on 7/16, 8/6 and
+  8/27/2025, and "Denied - Without Prejudice" ×2 on 2/11/2026. It does not say whose request each row concerns. Spiegel's
+  sworn statement about these continuances is under L-74.
+
+### L-21 · 2025-08-05 → 08-07 · exhibit sets by ShareFile; register POS · (c)
+
+- **Act:**
+  - gmail:19877f1fad1c4529: Exhibit List and Exhibits 1–26 "(ShareFile)".
+  - AnnaK@, 8/6/2025, "Minor - Service of Documents": gmail:19881ad39b42a700 and 19881b493805982e.
+  - 8/7/2025, "Halsey - Trial Setting Conference Documents": gmail:198858d3a85cd7ea.
+  - Register: POS on 8/6/2025; POS and "Proof of Service - Mail" ×2 on 8/7/2025 (Petitioner).
+- **Status:** DOCUMENTED (register and transmittal ids; attachments not opened).
+- **Halsey's account:** his 8/4/2025 email "Improper Service and Outstanding Disclosure Obligations"
+  (drive:1v9hIXn1M0Fob82xmdt4E8nZatHBmywi7; not read).
+- **The documents do NOT show:** the POS contents, a postmark or a receipt.
+
+### L-22 · 2025-08-29 17:48:40Z · RFP Set 1 "served by mail to your residence in Mexico today" · (c)
+
+- **Act:** mvs@, gmail:198f6f253f2a7e0a (checked at source): "Attached is a courtesy copy of Petitioner's Request for
+  Production of Documents, Set 1, which will be served by mail to your residence in Mexico today."
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** a POS, a postmark or a receipt.
+
+### L-23 · 2025-10-14 · responsive declaration sent by email · (c)
+
+- **Act:** threads gmail:199e40b0c7a5927e, 199e45bc07381dc6 and 199e45d488541702 (85_V3, V).
+  - Halsey: "Are you missing a page or a document?"
+  - Kralle: "No, that was the complete document."
+  - Register for 10/14/2025: "Responsive Declaration" (Petitioner).
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** a POS.
+
+### L-24 · 2025-10-28 · Petitioner's ex parte · (c, d)
+
+- **Act:**
+  - Register for 10/28/2025: "Declaration - Ex Parte Notice (Notice Given)" and "Proposed Ex Parte RFO Emergency Orders for
+    Support" (Petitioner).
+  - Register for 10/29/2025: "Ex Parte Hearing — Not Held - Court's Motion".
+  - Transmittal: thread gmail:19a2ba87ce5e12d9 (85_V3 grade R; not opened).
+- **Status:** DOCUMENTED (register).
+- **The documents do NOT show:** the method or time of notice, or a POS.
+
+### L-25 · 2025-11-14 · Declaration re Non-Service (POS P1) · (c)
+
+- **Declared service:** "PETITIONER'S DECLARATION RE NON-SERVICE", "November 14, 2025", A/D.
+  - Addressed to "Halsey Minor / Laguna 1 Riva PH 1 / Avenida Puerto Cancun / Puerto Juarez, Zona Hotelera / 77500 Cancun,
+    QRO, Mexico", plus the four emails.
+  - Sent from annak@; declarant ANNA KRALLE VANMALI (D10 p8).
+- **Transmittal:** gmail:19a84d3d95de6534, 2025-11-15T00:04Z, the same day in Pacific time.
+- **Register:** 11/14/2025 "Declaration Declaration (Declarations)"; 11/17/2025 "Proof of Service Proof of Service (Comment)"
+  (Petitioner). The register does not link them.
+- **Label:** none matches; no November label is legible.
+- **Gap:** 102 days.
+- **The documents do NOT show:** whether any envelope in the bundle carried this paper or was addressed to "Laguna 1 Riva PH
+  1", or any label on it later than 11/14/2025.
+
+### L-26 · 2025-11-20 (notice dated 11/17) · subpoena to Family Law Document Services (POS P2a, P2b) · (c, h)
+
+- **The notice:** SUBP-025 p. 1, "Date: November 17, 2025", signed "LANCE S SPIEGEL", production date "January 9, 2026".
+  SUBP-010: "Date issued: November 17, 2025" (D12; the Drive title says "2025-12-17").
+- **Declared service:**
+  - P2a/P2b (images): "b. [X] Mail. I deposited the Notice to Consumer or Employee and Objection in the United States mail,
+    in a sealed envelope with postage fully prepaid. … (3) Date of mailing: 11/20/2025 (4) Place of mailing (city and
+    state): Beverly Hills, CA".
+  - Two copies, one to "Laguna 1 Riva, PH 1, …" and one to "602 Punta Del Mar, Kukulcan Boulevard, …".
+  - Signed MATTHEW SIRRIYEH, "Date: November 20, 2025".
+  - This subpoena is addressed to Halsey's own document preparer.
+- **Transmittal:** none in the window.
+- **Gap:** 96 days.
+- **Later ruling:** 4/21/2026, "Order After Hearing on Respondent's Motion to Quash Petitioner's Subpoena to Family Law
+  Document Services and Request for Sanctions". The motion was denied. Halsey's report states: "This item is adverse to me
+  and is stated as such: on this subpoena the court disagreed with my position." (85_V3)
+- **The documents do NOT show:** which envelope carried it, or its label.
+
+### L-27 · 2025-12-26 · Objections to the Notice of Deposition (POS P3) · (c, d)
+
+- **Declared service:** POS P3, "December 26, 2025", A/D, sent from mvs@, declarant MATTHEW SIRRIYEH, DocuSign envelope
+  3EB20153-… (D5 p3; also inside drive:1LTNP2xmnf3hwfd3NKvWJL1Dy7ldrT9pr, checked at source).
+- **Transmittal:** gmail:19b5cbba04495f7b, 2025-12-26T22:15Z (checked at source): "Please see attached Petitioner's
+  Objections to Respondent's Notice of Deposition. Per the attached, the deposition will not be proceeding as neither the
+  deponent or her counsel are available." The body says nothing about mail. Same day.
+- **Label:** none matches; the only legible December label is "DEC 30, 2025".
+- **Gap:** 60 days.
+- **SVL Main 4:**
+  - The POS lists halsey@minorventures.com "14 months after the same declarant (Sirriyeh) documented in writing that this
+    address bounced".
+  - "no international/trackable method is recited".
+  - The log's own limit: "this predates the 4/21/2026 trackable-mail order, so this row is pattern evidence, not standalone
+    proof of non-delivery."
+- **The documents do NOT show:** which envelope carried it, or a postmark.
+
+### L-28 · 2025-12-29 · Petitioner's Responsive Declaration (POS P4) · (c)
+
+- **Declared service:** drive:1bUF2pkzxfWI1Bmj27e2I8xejSDWDTH_R p. 53 (SPIEGEL_DECLARATIONS §3.5): "On December 29, 2025, I
+  served the within document(s) described as: PETITIONER'S RESPONSIVE DECLARATION … A / D … Executed on December 29, 2025,
+  at Beverly Hills, California. [handwritten signature] MATTHEW SIRRIYEH".
+- **Transmittal:** gmail:19b6cc55639bdc93, 2025-12-30T01:00:06Z, which is 12/29 in Pacific time (checked at source): "Hard
+  copies of all of the above have also been served by U.S. Mail."
+- **Label:** envelope #2 reads "DEC 30, 2025", "$13.00", "FCMI". That is one day after the declared date. No inference is
+  drawn from it.
+- **Gap:** 57 days.
+- **The documents do NOT show:** whether envelope #2 carried this paper. Its addressee and return blocks were not examined.
+
+### L-29 · 2025-12-29 (filed 2:30 PM) · Motion for Protective Orders, with no POS in hand · (c)
+
+- **Act:**
+  - FL-300: "Electronically FILED … 12/29/2025 2:30 PM … By V. Cabrera … Hearing Information: 3/2/2026 8:30 AM"
+    (drive:1LTNP2xmnf3hwfd3NKvWJL1Dy7ldrT9pr, checked at source).
+  - It was sent in the same transmittal as L-28, with the same sentence: "Hard copies of all of the above have also been
+    served by U.S. Mail."
+- **Status:** DOCUMENTED (COURT + CORRESPONDENCE).
+- **Ruling:**
+  - 3/2/2026 minute order (EV-005; drive:1qWjh1R2_NVHh00A2KGn6rDjIa59p9xH5): "The Court finds that service of the
+    above-captioned matter has not been effectuated. Accordingly, the RFO/MTN - Quash filed by on December 29, 2025 is
+    dismissed."
+  - Register: "3/2/2026 8:30 AM … RFO - Quash — Held - Order Made".
+- **The documents do NOT show:** any POS for the motion itself; none is in the Drive copy.
+
+### L-30 · 2025-12-30 · the §271 sanctions RFO package, with no POS in hand · (c, h)
+
+- **Transmittal:** gmail:19b70bba0694f1d9, 2025-12-30T19:28:12Z, mvs@ (cc kat.flds@, VivianH@, AnnaK@, lances@; checked at
+  source): "Petitioner's RFO for Family Code §271 Sanctions filed 12/30/2025; Petitioner's Income and Expense Declaration
+  filed 10/22/2025; … Hard copies of all of the above have also been served by U.S. Mail."
+- **No POS in the RFO file.** SPIEGEL_DECLARATIONS §4.8: "Files B and C contain no proof of service".
+  - Spiegel's MPA of 2/24/2026 (D24 pp. 5–6, Resp.Decl.Obj.Def.Serv) later cites two: "(Exhibit A, Proof of Electronic
+    Service dated December 30, 2025)" and "As demonstrated by the Proof of Service By Mail for Petitioner's RFO re Section
+    271 Sanctions dated December 30, 2025, all papers were mailed to Respondent at his address in Mexico. (Exhibit B, Proof
+    of Service By Mail dated December 30, 2025)."
+  - BEHAVIOR_c: "Exhibits A and B are not in the 7-page transmitted copy (D24)."
+- **Ruling:**
+  - 3/2/2026 (D3): "The Court notes that the above-captioned matter may not move forward this date because California Rules
+    of Court require that international service be effectuated 16 court days plus 20 calendar days prior to the hearing."
+    The matter was "continued to April 21, 2026 at 1:30 PM".
+  - 4/21/2026: register "RFO - Sanctions — Denied" ×2. EV-003: "The issue of 271 sanctions is reserved to the time of
+    trial."
+- **Date comparison, no inference:** Halsey's complaint dates this paper "5. December 29, 2025: "Code Red" CCP 271 sanctions
+  motion ($250,000) - U.S. mail (prohibited)". D3 records it as "filed by Petitioner on December 30, 2025".
+- **Gap:** 56 days.
+- **The documents do NOT show:** the two POS dated 12/30/2025 (they are in the court file), or which envelope carried the
+  package.
+
+### L-31 · 2026-01-05 · PJ RFO Case Management Statement and Response to RFP Set Two (POS P5, P6) · (c)
+
+- **Declared service:** P5, "PETITIONER'S POST-JUDGMENT REQUEST FOR ORDER CASE MANAGEMENT STATEMENT" (D9 p3), and P6,
+  "PETITIONER'S RESPONSE TO REQUEST FOR PRODUCTION OF DOCUMENTS, SET TWO" (D8 p49). Both "January 5, 2026", A/D, sent from
+  annak@, declarant ANNA KRALLE VANMALI.
+- **Transmittals:** gmail:19b8fc6fabdac16f (2026-01-05T20:08Z) and gmail:19b90daa5f6a5300 (2026-01-06T01:10Z, which is 1/5
+  in Pacific time).
+- **Label:** envelope #1 matches the date.
+  - Label: "JAN 05, 202[?]" (day "05" confirmed; last digit 6 or 8), "$3.15", "FCMI".
+  - Printed return address: "Young, Spiegel & Hosp, LLP. / 301 N. Canon Dr., Suite 300 / Beverly Hills, CA 90210".
+  - Handwritten addressee: "Halsey Minor / 602 Punta Del Mar / Kukulcan Boulevard / Zona Hotelera / 77500 Cancún, QRO,
+    Mexico".
+  - The label date is the same day as the declared date.
+- **Gap:** 50 days.
+- **Spiegel's later sworn statement** (2/24/2026, D4 ¶13): "...Petitioner timely served her Response to Respondent's Request
+  for Production of Documents, Set Two on January 5, 2025 [sic]."
+- **The documents do NOT show:** which of the two papers, if either, envelope #1 carried.
+
+### L-32 · 2026-01-08 · Objections and Request to Strike, and [Proposed] Rulings (POS P7, P8) · (c)
+
+- **Declared service:** P7 (D13 p21) and P8 (D14 p3), "January 8, 2026", A/D, annak@, ANNA KRALLE VANMALI.
+- **Transmittal:** gmail:19b9ed5b3f686f69, 2026-01-08T18:19Z. Same day.
+- **Register:** 1/8/2026 "Objection Objection and Request to Strike (Objections)" (Petitioner).
+- **Label:** none legible matches. **Gap:** 47 days.
+- **The documents do NOT show:** which envelope carried these papers.
+
+### L-33 · 2026-01-21 · Notice of Taking the DVRO Hearing Off-Calendar (POS P9) · (c)
+
+- **Declared service:** P9 (D15 p2, image), "January 21, 2026", A/D, mvs@, MATTHEW SIRRIYEH.
+- **Transmittal:** gmail:19be2c2fa4b8f5b3, 2026-01-21T22:53Z. Same day.
+- **Register:** 1/21/2026 "Notice Notice of Taking Hearing Off-Calendar" (Petitioner).
+- **Halsey's account:** gmail:19be3bbd3fa862b8, 1/22/2026: "You cannot serve me by email or by mail…" (85_V3: U; header
+  pull owed).
+- **Label:** none legible matches. **Gap:** 34 days.
+- **The documents do NOT show:** which envelope carried this paper.
+
+### L-34 · 2026-01-27 · Income and Expense Declaration (POS P10) and Responsive Declaration (POS not read) · (c)
+
+- **Declared service:** P10, "PETITIONER'S INCOME AND EXPENSE DECLARATION" (D16 p5, image), "January 27, 2026", A/D, mvs@,
+  MATTHEW SIRRIYEH, DocuSigned.
+- **Transmittals:**
+  - gmail:19c036b7d786e9b7 (2026-01-28T07:04Z, which is 1/27 at 23:04 PST): "will follow by U.S. Mail".
+  - gmail:19c0338466026974 (2026-01-28T06:08Z), for the Responsive Declaration: "will follow by U.S. Mail". Its POS
+    (drive:181IlSVc8O7P8dZB61r7QHKz5_qKAJa_4) was not read.
+- **Register:** 1/27/2026 "Proof of Service Proof of Service (Comment)" and "Proof of Service - Mail" (Petitioner).
+- **Label:** "JAN 30, 202[?]" (envelope #7) is three days after this declared date and three days before the 2/2 declared date
+  (L-35). Which paper it carried is not shown.
+- **Gap:** 28 days.
+
+### L-35 · 2026-02-02 · two ex parte Responsive Declarations, with the vexatious-litigant FL-300 as Exhibit 1 (POS P11, P12) · (c)
+
+- **Declared service:** P11 (D17 p25) and P12 (D18 p25), "February 2, 2026", A/D, annak@, ANNA KRALLE VANMALI.
+  - Exhibit 1 is the vexatious-litigant FL-300 dated 1/30/2026. No POS for the FL-300 itself was located.
+- **Transmittal:** gmail:19c20c6b957e80c5, 2026-02-02T23:53Z: "Hard copies have been mailed". Same day.
+- **Register:** 2/2/2026 "Proposed Order - Vexatious Litigant - Motion/RFO/Other", "RFO/MTN - Family Law" and "Responsive
+  Declaration" ×2 (Petitioner).
+- **Label:** envelope #7 (orange/kraft, "$29.70"), "JAN 30, 202[?]". That is three days before the declared service date.
+  The FL-300 itself is dated 1/30/2026.
+- **Gap:** 22 days.
+- **Ruling:** the 4/21/2026 order "MO 4-21-2026 Pet RFO filed 2-2-2026 denied" (drive:1jPi5RYwRBhJBWUWgflimv-FNN6KvVutR,
+  not read).
+- **The documents do NOT show:** what envelope #7 contained, or whether it is the same envelope as #5 on p. 5.
+
+### L-36 · 2026-02-23 · Spiegel's Reply Declaration, an I&E, and two PJ CMS (POS P13–P16) · (c, h)
+
+- **Declared service:** all "February 23, 2026", A/D, annak@, ANNA KRALLE VANMALI.
+  - P13 "REPLY DECLARATION OF LANCE S. SPIEGEL" (D22 p3).
+  - P14 the I&E (D19 p5).
+  - P15 and P16, the PJ RFO CMS re Protective Order and re Sanctions (D20 p3, D21 p3).
+- **Transmittals:**
+  - gmail:19c8c7743a00925a, 21:45:49Z (checked at source): "Please see the attached Reply Declaration of Lance Spiegel. A
+    hard copy is being sent to you as well." Signed "Anna Kralle Vanmali, Paralegal". Attachment "2026-02-23[P]
+    Reply.Decl.LSS.Sanctions.pdf". The footer cites "California Rules of Court 2.231(b)".
+  - gmail:19c8ca6230be2d9a, 22:37:00Z: "Please see the attached document." Attachment "2026-02-23 [P] I&E.pdf".
+  - gmail:19c8ce40d7913f4b, 23:44Z.
+- **Register:** 2/23/2026 "Declaration - Income and Expense", two "Post-Judgment Request for Order Case Mgmt Statement FAM
+  119", and "Reply Reply (Comment)" (Petitioner).
+- **Ruling:** EV-003: "On 2/23/26, Petitioner withdrew her request for $250,000…".
+- **Gap:** 1 day. Every legible label is dated at least 24 days earlier.
+- **The documents do NOT show:** whether any 2/23 paper was in the bundle delivered the next day.
+
+### L-37 · 2026-02-24 · three Responsive Declarations (POS P17–P19) · (c)
+
+- **Declared service:** all "February 24, 2026", A/D, annak@, ANNA KRALLE VANMALI.
+  - P17 (D4 p85), re the Motion to Compel the PDD/FDD.
+  - P18 (D23 p16), re the Motion to Quash, Protective Order and Sanctions.
+  - P19 (D24 p7), re the Objection to Defective Service.
+- **Transmittal:** gmail:19c90cf4d4c1f5ae, 2026-02-24T18:00Z. Same day.
+- **Register:** 2/24/2026 "Responsive Declaration - MTC.FDD", "- MTQ" and "- Obj.Def.Serv" (Petitioner).
+- **The firm's statements in these papers:**
+  - D24 MPA: "Petitioner has likewise complied with the requirements of C.C.P. section 1013(a) in effectuating service on
+    Respondent by mail. As a courtesy, Petitioner also serves documents via email to Respondent…"
+  - D23 p. 6: "As stated in the proof of service, the Notice of Consumer which attached the Subpoena was mailed to
+    Respondent at his address in Mexico."
+- **Ruling:** 4/21/2026 (EV-002): "The RFO/MTN - Family Law Other: Objection to Defective Service and Request for Continuance
+  or to Take Matter Off Calendar filed by Respondent on January 5, 2026 is denied."
+- **Gap:** 0 days, the same day as the delivery.
+
+### L-38 · emailed 2026-03-02; declared served 2026-03-04 · three PJ CMS (POS P20–P22) · (c)
+
+- **Declared service:** each paper is "Dated: March 2, 2026". The POS declare service on "March 4, 2026", executed "March 4,
+  2026, at Beverly Hills, California". A/D, annak@, ANNA KRALLE VANMALI (D25–D27 p3).
+- **Transmittal:** gmail:19cb05b6a5ac0151, 2026-03-02T21:01Z. That is two days **before** the declared service date.
+- **Register:** 3/2/2026, three "Post-Judgment Request for Order Case Mgmt Statement FAM 119" entries (Petitioner).
+- **Gap:** −8 days. These papers were declared served after the bundle was delivered, so they were not in it.
+- **The documents do NOT show:** why the declared date differs from the date of the email, or any mailing record.
+- **Bears on:** PC 118 el. 3. The declared date is the statement.
+
+### L-39 · 2026-02-24 · ten envelopes delivered together in Cancún · (c)
+
+- **Actor (as shown):** "Petitioner's counsel" (Decl. ¶4). Envelopes #1 and #7 carry the printed return address "Young,
+  Spiegel & Hosp, LLP. / 301 N. Canon Dr., Suite 300 / Beverly Hills, CA 90210". Ex. B: "The sender listed on these
+  packages was Lance Spiegel / opposing counsel's law firm in the United States."
+- **Halsey's sworn account,** Decl. 3/27/2026 ¶4: "On February 24, 2026, multiple separate mailings from Petitioner's counsel
+  were delivered together to my building/front desk in Cancún, rather than arriving separately in the ordinary course.
+  The papers in that bundled delivery corresponded to documents that had previously been claimed as served on different
+  dates."
+- **Exhibit A** (DECL exhibits notes):
+  - **Labels:** #1 "JAN 05, 202[?]" ($3.15); #2 "DEC 30, 2025" ($13.00, best reading); #7 "JAN 30, 202[6 or 8 —
+    unresolved]" ($29.70). The year is recorded as 2026 by context, not resolved on the image. No December-2023 postmark is
+    legible on any item.
+  - **Handwritten receipt,** verbatim: "Yo Francisco Javier Franco morales recibi el correo. / del Señor Halsey Minor el día
+    24 de Febrero sin / Ricibir ninguna Nota solo el correo Por Parte del Personal / de correoS de Mexico". No year is
+    written.
+  - **Stamp:** "PUNTA DEL MAR CANCUN / S.A DE C.V. / PMC160822IT5 / ENTREGADO". It carries no date.
+- **Exhibit B** (two declarations, both executed 17 March 2026 at Cancún):
+  - **María Fernanda Sánchez Pérez.** The printed title is "Building Manager (Gerente del Edificio)"; written by hand under it
+    is "Asistente Administrativo".
+    - ¶2: "On February 24, 2024, our front desk received a single, unusual delivery of mail from the Mexican Postal Service
+      directed to the resident, Halsey Minor."
+    - ¶3: "exactly ten (10) different envelopes/packages all at the exact same time."
+    - ¶4: "The postal worker did not ask my staff to sign for them".
+    - ¶5: "My staff and I observed that the postmarks on these packages were from much earlier dates, including early
+      December 2023, despite them all arriving in a single batch on February 24, 2024."
+  - **Julia Mironova.**
+    - ¶2: "On February 24, 2024, the front desk staff of our apartment building called our unit".
+    - ¶3: "exactly 10 separate packages/envelopes … bore return addresses from Lance Spiegel or his law firm".
+    - ¶4: "left without asking anyone to sign for them".
+- **Status:** ACCOUNT. The delivery itself is shown by sworn declarations and photographs. That any paper in it was mailed on
+  a date other than its declared service date is not shown. Three things are still missing:
+  1. the original, physical envelopes and the outer package, with the label tracking and USPS acceptance scans (held by
+     Halsey; USPS);
+  2. a match of envelope to paper against each POS — the contents of each envelope beside the POS images in the court file
+     (held by Halsey; LASC; and the firm's mail and postage records, through the civil process, D-66);
+  3. re-executed declarations giving the correct year (the declarants; Halsey decides).
+- **The documents do NOT show:**
+  - any POS, any mailing date, the contents of any envelope, or a building log;
+  - a count of ten that can be checked from the photographs;
+  - the typed year "2024" in both declarations, and "early December 2023", set against the 2026 delivery. These are
+    recorded as typed.
+- **Rulings:** 4/21/2026 (EV-002):
+  - "Going forward, all service of pleadings for which mail service is authorized (except for those required to be served
+    by personal service), including RFOs, shall be conducted by trackable method via the mail, and any proof of service
+    shall include tracking details. As a backstop, all service shall also be effectuated by electronic means."
+  - "The Court finds that the Respondent has been provided with notice of these proceedings."
+- **Bears on:** PC 118 el. 3–5 and PC 134 el. 2–3, but only if a declared date in L-25 to L-37 is shown to be earlier than
+  its mailing. As set out above, no document shows that.
+
+### L-40 · 2026-04-20 · register POS and POS-Mail · (c)
+
+- **Act:** register for 4/20/2026: "Proof of Service Proof of Service (Comment)" and "Proof of Service - Mail" (Petitioner).
+  - These follow the AnnaK@ transmittals of 4/8, 4/14 and 4/15/2026 (gmail:19d6ded69e5461e2, 19d8d4651b42e71a,
+    19d92ff93fc8b4f0).
+  - Each of those emails carries the footer "I am advising you that emails are not sufficient for ex parte notice."
+- **Status:** DOCUMENTED (register). SVL C5: "Pre-dates the 4/21/2026 order by one day … Content unknown."
+- **The documents do NOT show:** the paper, address, declarant, date or tracking.
+
+### L-41 · 2026-04-21 · notice of the 1:30 PM hearing · (c, d)
+
+- **Halsey's account:**
+  - 85_V3 B-38: "hearing held on ~90 minutes' email notice — U".
+  - His email of 4/22/2026 (gmail:19db7634412cf151): "the one hour ambush over janine".
+- **The court's records:**
+  - 3/2/2026 (D3): the matter was "continued to April 21, 2026 at 1:30 PM", and "Notice of this Minute Order is given to
+    Respondent and Petitioner's Counsel via eService."
+  - 4/21/2026 (drive:1_Jqo1pLxysDaP9uKpqOLT1ZqCOHID7Of): "At 1:45 PM, there is no appearance by or for the Respondent." / "The
+    Court finds that the Respondent has been provided with notice of these proceedings." / "The Court notes that prior to
+    the Court calling the matter, the Court's tentative ruling was emailed to both Petitioner and Respondent."
+- **Status:** ACCOUNT as to the timing of notice. Pending: the notice and tentative-ruling emails with their headers
+  (gmail:19db2dc31208f02d and 19db16a2e288c3e7 per 85_V3), and the firm's notice record.
+- **The documents do NOT show:** a separate notice from the firm. Halsey's 4/20/2026 notice to the DA gave the date as
+  "April 24, 2026" (gmail:19dab983ae3aa08a).
+
+### L-42 · 2026-05-07 20:16:27Z · the six 4/21/2026 orders, with USPS tracking · (c)
+
+- **Act:** gmail:19e0415c7756eb39 (checked at source): "Hard copies of the above will follow by U.S. Mail w/ USPS Tracking
+  Number: EH045932903US." Six "2026-04-21 [C] MO…" PDFs are attached.
+- **Status:** DOCUMENTED. This is the first firm transmittal after EV-002 that recites a tracking number.
+- **The documents do NOT show:** a filed POS, or the USPS scan history.
+
+### L-43 · 2026-05-12 · register POS Electronic and POS-Mail · (c)
+
+- **Act:** register for 5/12/2026: "Proof of Service Proof of Electronic Service (Comment)" and "Proof of Service - Mail
+  Proof of Service - Mail (Proof of Service)" (Petitioner).
+- **Status:** DOCUMENTED (register). SVL C6: "Whether the 5/12/2026 POS-Mail recites tracking details cannot be determined
+  from the docket line".
+- **The documents do NOT show:** tracking details, or which paper was served.
+
+### L-44 · 2026-07-07 16:48:02Z · Responsive Declaration, with USPS tracking · (c)
+
+- **Act:** gmail:19f3d7ad12f99c51: "Please see attached Petitioner's Responsive Declaration." / "A hard copy of the above will
+  follow by U.S. Mail w/ USPS Tracking Number: RF414716216US." Register for 7/7/2026: "Responsive Declaration"
+  (Petitioner).
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** a filed POS. The register has no Petitioner POS entry from 5/12/2026 through 7/13/2026.
+
+### L-45 · 2026-07-14 19:31:48Z · Case Management Statement, with USPS tracking · (c)
+
+- **Act:** gmail:19f621d4a50fd4af: "Please see attached Petitioner's Case Management Statement." / "A hard copy of the above
+  will follow by U.S. Mail w/ USPS Tracking Number: RF414716220US."
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** a filed POS, or the scan history.
+
+### L-46 · 2026-07-21 23:38:50Z · the 7/21/2026 minute order, with USPS tracking · (c)
+
+- **Act:** gmail:19f870bf19d5f34f (checked at source), cc lances@ and RoryeJ@: "Please see attached the Court's Minute Order
+  dated 07/21/2026." / "A hard copy of the above will follow by U.S. Mail w/ USPS Tracking Number: RF414694440US."
+- **Status:** DOCUMENTED.
+- **The documents do NOT show:** the scan history.
