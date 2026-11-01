@@ -1550,6 +1550,7 @@ Two of the 23 are attachments of messages in the universe; both read in full:
 ---
 
 ## 2. THE PRESERVATION ASKS — documented count
+(§2.5, the "template"/match statements, was appended after §6 and sits just before §7.)
 
 Rules used (stated so the count can be re-done): a message counts only if it is in the universe (Kalé a To/cc
 recipient unless marked bcc) and its own text (not quoted text) contains the ask. "Google named" = the sentence asks
@@ -1841,3 +1842,268 @@ request "30 minute call on Monday, February 9 (America/Cancun time)" (3:30, 4:00
 19d39f76b80650dd (3/29): "one phone call to Turkey" · 19dd5365ddb1b408 (4/28): "call me at 415-351-8020".
 Recordings held by BHPD: the Drive export "(Extraction_1.2)_03.25.2025_25.14983.wav.m4a" (T87; produced 2026-10-24; not
 opened). No recording of a Halsey–Kalé call is in the mailbox or Drive search results.
+
+### 2.5 "Template" / match statements — first dates
+- **First statement to Kalé that the deleted emails are the ones he holds: 198773659236b416 · 2025-08-04 22:31:46Z ·
+  halsey2005 → akale:** "Found out defending myself for the DVRO, hundreds of emails are gone after hacking 4 months ago. The
+  PDFs you have, originals erased. … Your PDFs and mine are all there are now."
+- 198d2090543546b3 · 2025-08-22 13:47:40Z (→ jlsnyderlaw, akale): "Report sent you; schematically, surgically hacked to
+  delegitimize report to BHPD."
+- 1998c027ef83cc88 · 2025-09-27 16:29Z (→ akale): "The hacker, extremely sophisticated, surgically targeted and deleted …" ·
+  "… confirms that the messages erased in this recent cyberattack 4 months ago PRECISELY …" · "used as a blueprint for
+  obstruction and destruction".
+- 1999df6b5ce0fbce · 2025-10-01 04:10:03Z (9/30 PT): "… the hack perfectly aligned with the report I handed you, email for
+  deleted email."
+- **First use of the word "template" in Halsey's own text to Kalé: 19ae68bf08204bd5 · 2025-12-03 23:28:41Z · halsey2005 →
+  minorventures; cc akale + 12:** "this would permanently erase the record of evidence I provided to the BHPD, which I trusted
+  would not become a perfect template". Check: Gmail `template (to/cc/bcc akale) before:2025/12/04` returned 6 threads; the
+  earlier hits are 199b2333cb005030 (10/5, re-fetched: "Two short templates you can send today" — CPRA/Marsy's letter
+  templates, not a match statement); 198d2090543546b3 (8/22; own text is the two sentences quoted above, no "template"),
+  1998744386ce8d3a (9/26) and 199a442bb459fce9 (10/2) (both re-fetched; own text has no "template") — these three carry
+  attachments, and the attached OpenAI 003 report (read, T87) reads "a template for web applications"; and 199d5188b73782a3
+  (10/11; not re-fetched for this check; it was NOT returned by the narrower query `template AROUND 12 (hack OR hacked OR
+  hacking OR deleted OR deletion OR deletions OR erased)`, which returned only 19ae6d07ce395118 (12/4, quoting 19ae68bf08204bd5)
+  plus the three attachment-bearing messages above).
+- Later "template": 19b9fc157f5152c8 (1/8/2026, to himself) · 19ba60583051da79 (1/10: "became a functional template for a
+  hacking incident" / "became the EXACT template for the hacking") · quoted 1/10 1:22 PM ("the template, 4 times refused") ·
+  19bb44ffb3cfb52d (1/12: "the report became a template for someone to hack my computer") · 19bba22940d44fba (1/14: "a
+  perfect template for hacking") · 19c5b1d99b66ff47 (2/14: "the actual template for the hacking").
+
+---
+
+## 7. THE DOCUMENTED TIMELINE
+
+### 7.1 Every message in the universe (162 rows: 128 native Halsey messages, 4 Halsey messages that survive only as quotes,
+29 Kalé messages, 1 Perplexity-agent message). Direction "H→K" = Kalé is a To recipient; "(cc)"/"(bcc)" marked where he is
+not. Topic = the message's subject line, or for Kalé messages a gist of his own text. Tags: A#/H# = §2 asks; IA = mentions
+Internal Affairs. DSNs, auto-replies and messages without a Kalé address are excluded (listed per thread in §1).
+| # | UTC date | time | direction | id | topic (subject or Kalé gist) | tags |
+|---|---|---|---|---|---|---|
+| 1 | 2025-04-01 | 23:01 | K→H | 195f3970ee2df184 | K1 assigned; docs "received via my chain of command" |  |
+| 2 | 2025-04-03 | 02:37 | H→K (quoted only, in K2 195fe9941e06c382) | — | "Wed, Apr 2, 2025 at 7:37 PM" [PT] — package contents; ChatGPT analysis |  |
+| 3 | 2025-04-03 | 16:00 | H→K, cc Provinziano (quoted only, in K2) | — | "Thursday, April 3, 2025 9:00 AM" [PT] — iMessage deletions; video of call |  |
+| 4 | 2025-04-04 | 02:18 | K→H | 195fe9941e06c382 | K2 "Where are you currently located?"; phone chat offered |  |
+| 5 | 2025-04-07 | 19:05 | H→K | 19611a4fb9705cd5 | Re: BHPD Case 2025-14983 |  |
+| 6 | 2025-04-07 | 19:13 | K→H | 19611abc648f91a8 | K3 calling; voicemail; blocked cell |  |
+| 7 | 2025-04-07 | 19:32 | K→H | 19611bdcfde5c78f | K4 two numbers; voicemail full |  |
+| 8 | 2025-04-08 | 02:19 | H→K | 1961331a4947d8af | Evidence and Possibly We Are Missing The Point. |  |
+| 9 | 2025-04-08 | 15:31 | H→K | 196160705301b3b2 | 600 emails |  |
+| 10 | 2025-04-08 | 16:31 | H→K | 196163dfa0ba2be6 | Fwd: Minor - letter with settlement agreement |  |
+| 11 | 2025-04-08 | 21:22 | H→K | 19617485624cc8c9 | The Document You Need |  |
+| 12 | 2025-04-08 | 22:11 | H→K | 196177538fd2b919 | The 3 REAL Crimes |  |
+| 13 | 2025-04-09 | 19:49 | K→H | 1961c199f4ac4f2e | K5 "5 emails and multiple calls"; emailed your lawyers twice |  |
+| 14 | 2025-04-09 | 21:24 | H→K | 1961c7098623df1b | A $2.8 million crime vs a $5.6 million crime plus a violent offense. |  |
+| 15 | 2025-04-09 | 22:31 | H→K | 1961cae0b0195882 | Re: The 3 REAL Crimes |  |
+| 16 | 2025-04-12 | 09:37 | H→K | 196295ceea0252a0 | I DEEPLY APLOGIZE |  |
+| 17 | 2025-04-14 | 20:30 | H→K | 1963600b5df18de7 | case number: 2025-14983; Having An Actual Discussion About The Crimes |  |
+| 18 | 2025-04-14 | 22:26 | K→H | 1963669c3c320218 | K6 ex-wife to be deposed; "stop calling/emailing me" (cited) |  |
+| 19 | 2025-04-15 | 13:46 | H→K | 19639b38a7a7f6d4 | Re: … |  |
+| 20 | 2025-04-15 | 16:56 | H→K | 1963a619c64d0c10 | Thank you for taking this seriously |  |
+| 21 | 2025-06-25 | 16:23 | H→K | 197a7e73a0d129fe | $2.1 mm in Grand Theft and a Suicide Attempt And Now So Much More. |  |
+| 22 | 2025-06-25 | 21:30 | H→K | 197a8ffc2514451b | Reaching Me |  |
+| 23 | 2025-06-27 | 01:48 | K→H | 197af12cfdb0b744 | K7 spoke with Jennifer; bank statements needed |  |
+| 24 | 2025-06-28 | 17:32 | H→K | 197b7991fc54c02b | Thank You |  |
+| 25 | 2025-07-05 | 23:19 | H→K | 197dce382c471b77 | Conflict Between Case: 2025-14983 And My Upcoming EqualJustice.ai |  |
+| 26 | 2025-07-25 | 20:51 | H→K | 198435ae3ae64538 | Re: Reaching Me |  |
+| 27 | 2025-08-04 | 22:31 | H→K | 198773659236b416 | Computer Hacked 100’s of Shannons Email PROVABLY removed. | first match statement |
+| 28 | 2025-08-12 | 08:02 | H→K | 1989d4dc17b3d21e | Help!  2025-14983 |  |
+| 29 | 2025-08-22 | 13:47 | H→K | 198d2090543546b3 | Files |  |
+| 30 | 2025-08-24 | 23:20 | H→K | 198de625a75f975d | Googles AI Ethics Appear to Trump BHPD In Bizarre Report. |  |
+| 31 | 2025-09-26 | 18:10 | H→K | 19987385c9c12a2d | Actions To Be Taken Resulting on Attempted Murder & Grand Theft Cases Ignored |  |
+| 32 | 2025-09-26 | 18:23 | H→K | 1998744386ce8d3a | Fwd: Actions To Be Taken … (resend, cc Perplexity) |  |
+| 33 | 2025-09-26 | 21:19 | K→H | 19987e5e496c5b78 | K8 via Ms. Snyder; awaiting case summary |  |
+| 34 | 2025-09-27 | 15:20 | H→K | 1998bc27c992361b | Actions To Be Taken Resulting on Attempted Murder & Grand Theft Cases Ignored |  |
+| 35 | 2025-09-27 | 16:29 | H→K | 1998c027ef83cc88 | ITS FAR WORSE THAN OTHERS BESIDES YOU KNOW | "PRECISELY match" |
+| 36 | 2025-09-29 | 23:17 | K→H | 19997c42bd4b9c64 | K9 summary rec’d 9/28; report 03/24/2025; re-assign? |  |
+| 37 | 2025-09-30 | 02:52 | H→K | 19998896f6344245 | ITS FAR WORSE THAN OTHERS BESIDES YOU KNOW |  |
+| 38 | 2025-09-30 | 18:43 | H→K | 1999bef7daca278d | Virus Back: TRYING TO FILE MOTION TO GET MY MONEY TO FIND MY MONEY |  |
+| 39 | 2025-10-01 | 04:10 | H→K | 1999df6b5ce0fbce | Hacking of Computer Matching Report to BHPD | A1 |
+| 40 | 2025-10-01 | 21:19 | K→H | 199a1a4b84c2ff99 | K10 refrain contacting city staff; Shannon interview next week |  |
+| 41 | 2025-10-02 | 09:30 | H→K | 199a442bb459fce9 | What Is Going To Happen Now |  |
+| 42 | 2025-10-05 | 02:28 | H→K | 199b2333cb005030 | Immediate Action Required | IA (Plan B) |
+| 43 | 2025-10-06 | 07:07 | H→K | 199b8588e3937459 | Additional theft. A reminder. | A2 |
+| 44 | 2025-10-06 | 14:25 | H→K | 199b9e97116c88ec | Definitive Murder Proof in Shannon Minor Case |  |
+| 45 | 2025-10-08 | 14:38 | H→K | 199c4423834776cb | We Have Way Crossed Over The One Year of Doing Nothing about the Most Serious Crime Reported | "perfectly recorded" |
+| 46 | 2025-10-08 | 21:47 | K→H | 199c5cbc967a9010 | K11 report made to Officer Carrott 03/25/2025 |  |
+| 47 | 2025-10-11 | 21:06 | H→K | 199d5188b73782a3 | I JUST REALIZED YOU ARE ACTUALLY PART OF GOD’S PLAN. YOU’LL AGREE |  |
+| 48 | 2025-10-13 | 02:55 | H→K | 199db7e78dd8b1de | MY COMPUTER HACKED. EMAIL EVIDENCE SPOILAGE. CALL GOOGLE!  YES OR NO | A3 |
+| 49 | 2025-10-13 | 20:16 | H→K | 199df37b1f0fce49 | YOUR PROBLEMS HAVE PROBLEMS: AND THEY ARE GOING TO GROW VERY FAST | A4 |
+| 50 | 2025-10-18 | 17:25 | H→K | 199f85bf0d2a35ef | Delivery of Restraining Order Protecting Halsey Minor, Mackenzie Bezos Scott (sealed) and Julia |  |
+| 51 | 2025-10-20 | 22:39 | H→K | 19a03c77d431eaee | Restraining Order Requirement including Documentation in Beverly Hills |  |
+| 52 | 2025-10-21 | 15:46 | H→K | 19a0772e1aa2bf0f | Delivery of Restraining Order Protecting Halsey Minor, Mackenzie Bezos Scott (sealed) and Julia | A5 |
+| 53 | 2025-10-21 | 19:08 | K→H | 19a082c54ba9f984 | K12 TRO service = Sheriff |  |
+| 54 | 2025-10-21 | 20:01 | H→K | 19a085d3185284d7 | Delivery of Restraining Order Protecting Halsey Minor, Mackenzie Bezos Scott (sealed) and Julia |  |
+| 55 | 2025-10-22 | 03:05 | H→K | 19a09e0df9a7edb4 | URGENT — Marsy’s Law Rights Assertion and Demand for Case Status (Case No. 2025-14983) | H1 |
+| 56 | 2025-10-22 | 03:13 | H→K | 19a09e899cab9e7c | Preservation Notice — BHPD Case No. 2025-14983 | H2 |
+| 57 | 2025-10-24 | 01:52 | K→H | 19a13eb82bb6d8fd | K13 Marsy’s pamphlet; "Open – under active investigation" |  |
+| 58 | 2025-10-24 | 03:14 | H→K | 19a1435ec3c7d130 | URGENT — Marsy’s Law Rights Assertion and Demand for Case Status (Case No. 2025-14983) |  |
+| 59 | 2025-10-26 | 17:08 | H→K | 19a217dfced5c801 | PLEASE READ SO YOU KNOW WHAT YOU'RE NOT DOING; HACKING |  |
+| 60 | 2025-10-30 | 23:54 | H→K | 19a378ba32f9a582 | YOU JUST VIOLATED MARSYS LAW.  YOU CANT EVEN MEET THAT MINIMUM BURDEN |  |
+| 61 | 2025-10-31 | 22:08 | H→K | 19a3c510e55270e0 | IMPORTANT: CRITICAL STEPS NEEDED NOW … CASE NOW OFFICIALLY VIOLATED MARSYS’S LAW. |  |
+| 62 | 2025-11-04 | 00:35 | H→K | 19a4c4ac3440b98d | AI Innovation I’ll Create: Truth and Equal Justice: Friend | call; "do it myself" |
+| 63 | 2025-11-04 | 01:32 | H→K | 19a4c7e1bd8d2065 | INTRODUCTION MISSING |  |
+| 64 | 2025-11-04 | 02:27 | H→K | 19a4cb0a7fd791b2 | Prevention of Destruction of Evidence Provided BHPF | A6 |
+| 65 | 2025-11-04 | 21:01 | H→K | 19a50acd8ad10bc6 | FORK IN THE ROAD: TALK AND FIX, OR FIGHT. KNOW WHO YOU’RE FIGHTING |  |
+| 66 | 2025-11-04 | 22:46 | K→H | 19a510cd2ba95adc | K14 "I called you and left a voicemail" |  |
+| 67 | 2025-11-05 | 12:29 | H→K | 19a53fea7063415c | DISTURBING;  please pass to Police Chief Stainbrook | call 11/4 |
+| 68 | 2025-11-05 | 22:26 | K→H | 19a5620d5a054560 | K15 "phone call last night"; phone for forensic processing |  |
+| 69 | 2025-11-07 | 03:10 | H→K | 19a5c4b2c7dd8163 | (no subject) | call (speakerphone) |
+| 70 | 2025-11-08 | 06:52 | H→K (cc) | 19a623d40d23bf10 | Mind Experiment | call (his account) |
+| 71 | 2025-11-09 | 17:17 | H→K | 19a699f0628a3746 | Dear Chief Stainwick, … | A7 |
+| 72 | 2025-11-09 | 17:17 | H→K | 19a699f22f1d5e9b | Economic and Social Value |  |
+| 73 | 2025-11-15 | 04:24 | H→K | 19a85c21be6aaa3d | Hacking: TRO For Mackenzie Bezos Scott, Me, Woman Who Saved My Life |  |
+| 74 | 2025-11-19 | 16:02 | H→K | 19a9cdcc7373aaa2 | Failure to Investigate Wealthy Beverly Hills Resident … |  |
+| 75 | 2025-11-21 | 00:14 | H→K | 19aa3c300bdaecd9 | MARCY'S COMPLIANCE TRACKING ADDED |  |
+| 76 | 2025-11-26 | 15:22 | H→K (cc) | 19ac0c32d6d50aec | Please Help 🙏 | call |
+| 77 | 2025-11-30 | 13:14 | H→K | 19ad4e64bcac9192 | Request for meeting. | A8; meeting request |
+| 78 | 2025-12-01 | 21:39 | H→K (cc) | 19adbdb89c49fa89 | WILL PROVIDE SIGNIFICANT SUPPORT TO THOSE WILLING TO FIX BEVERLY HILLS EQUAL JUSTICE PROBLEM, L |  |
+| 79 | 2025-12-02 | 03:28 | H→K (cc) | 19add1a8a86c41bc | SORRY FOR NOT INCLUDING MARCY'S VIOLATIONS URL NOW BELOW. … | IA ("internal investigation") |
+| 80 | 2025-12-02 | 18:03 | H→K (cc) | 19ae03c05f72e377 | Formal Complaint: Marsy’s Law Violations and Mishandling of Attempted Murder/Grand Theft Case | A9 |
+| 81 | 2025-12-03 | 23:28 | H→K (cc) | 19ae68bf08204bd5 | Formal Complaint: Marsy’s Law Violations and Mishandling of Attempted Murder/Grand Theft Case | A10; first "template" |
+| 82 | 2025-12-04 | 00:43 | H→K (cc) | 19ae6d07ce395118 | Formal Complaint: Marsy’s Law Violations and Mishandling of Attempted Murder/Grand Theft Case |  |
+| 83 | 2025-12-04 | 22:48 | H→K | 19aeb8d557da367f | [5-5346000040263] | A11 |
+| 84 | 2025-12-06 | 02:05 | H→K | 19af167fed51179c | (no subject) | A12 |
+| 85 | 2025-12-11 | 18:31 | K→H | 19b0eaf3f049d381 | K16 bank search warrant served; Shannon interview report |  |
+| 86 | 2025-12-11 | 23:09 | H→K | 19b0faccd9581779 | Case Update |  |
+| 87 | 2025-12-13 | 21:05 | H→K | 19b1988a62999608 | Request for investigative input on upcoming civil deposition Shannon Minor — BHPD Case #2025-14 | phone numbers |
+| 88 | 2025-12-23 | 20:49 | H→K | 19b4cf97bdf4e2a1 | Re: Case Update 2025-14983 |  |
+| 89 | 2025-12-23 | 21:27 | H→K | 19b4d1c1ad9cb7c9 | Re: Case Update 2025-14983 |  |
+| 90 | 2025-12-26 | 20:07 | H→K | 19b5c4603465e149 | Shannon‘s deposition on December 29th. |  |
+| 91 | 2025-12-27 | 02:22 | H→K | 19b5d9d769d3fea9 | Shannon‘s deposition on December 29th. |  |
+| 92 | 2025-12-30 | 05:26 | H→K | 19b6db8c3b86c95b | Shannon‘s deposition on December 29th. |  |
+| 93 | 2025-12-30 | 09:12 | H→K | 19b6e87cafa1aad0 | Shannon‘s deposition on December 29th. |  |
+| 94 | 2025-12-30 | 15:00 | H→K | 19b6fc619f4bafef | Minor - Response to RFO / Motion for Protective Order |  |
+| 95 | 2025-12-30 | 15:29 | H→K | 19b6fe09ab03783c | Minor - Response to RFO / Motion for Protective Order |  |
+| 96 | 2025-12-30 | 18:00 | H→K | 19b706b54cc9240a | REQUEST: ACCUTE NEED FOR LEGAL SERVICES FOR THE INDIGENT; TRO NOT HEARD … |  |
+| 97 | 2026-01-04 | 09:17 | H→K | 19b884bc4c8df35c | Marsy’s Law Update | A13 |
+| 98 | 2026-01-05 | 17:03 | H→K (cc) | 19b8f1dd4d7a670c | Spiegel, The Beverly Hills Police Department, and City Administration: FORMAL NOTICE: Criminal  | H3; IA (embedded) |
+| 99 | 2026-01-05 | 19:56 | K→H | 19b8fbc478f4e54b | K17 "Google/Email situation" — which emails? (cited) |  |
+| 100 | 2026-01-08 | 19:48 | H→K | 19b9f2782a3567fa | FINAL NOTICE: Forensic Proof of Leak & Destruction of Evidence | A15 |
+| 101 | 2026-01-08 | 19:53 | K→H | 19b9f2badaeb5eeb | K18 re-pastes K17 question (cited) |  |
+| 102 | 2026-01-08 | 19:56 | H→K | 19b9f2e529d79fbc | URGENT: FINAL PRESERVATION DEMAND - Evidence Leak Confirmed | A16 |
+| 103 | 2026-01-08 | 19:58 | K→H | 19b9f303920a4a1a | K19 "please just answer the question" |  |
+| 104 | 2026-01-08 | 20:54 | H→K (bcc) | 19b9f636a1ef17f8 | (no subject) |  |
+| 105 | 2026-01-08 | 20:55 | H→K | 19b9f646568c79a0 | URGENT: FINAL PRESERVATION DEMAND - Evidence Leak Confirmed | answers K17 |
+| 106 | 2026-01-09 | 00:25 | H→K + City (quoted only, in K20 19ba02a9c00c3b61) | — | "Thursday, January 8, 2026 4:25 PM" — "Your email" |  |
+| 107 | 2026-01-09 | 00:31 | K→H | 19ba02a9c00c3b61 | K20 did not destroy evidence; 567-page doc; Flaherty interviewed |  |
+| 108 | 2026-01-09 | 00:41 | H→K (bcc) | 19ba0331e15a53ff | (no subject) | FBI preservation ask |
+| 109 | 2026-01-10 | 03:48 | H→K | 19ba60583051da79 | Preservation and Recovery of Evidence – Fourth Formal Request | A17; IA |
+| 110 | 2026-01-10 | 21:22 | H→K, cc DA (quoted only, in DA 19bb307ee4795b75) | — | "Saturday, January 10, 2026 1:22 PM" (zone not stated) — "[External]Re: Your email" |  |
+| 111 | 2026-01-12 | 18:51 | K→H | 19bb38cf19aec75b | K21 preservation request to Google, two accounts (cited) |  |
+| 112 | 2026-01-12 | 22:24 | H→K | 19bb44ffb3cfb52d | Fwd: |  |
+| 113 | 2026-01-12 | 23:17 | K→H | 19bb480c18e327b1 | K22 "preservation letter to Google"; proceed to DA? |  |
+| 114 | 2026-01-14 | 01:32 | H→K | 19bba22940d44fba | Fwd: | IA |
+| 115 | 2026-01-14 | 02:08 | K→H | 19bba42b48bd3355 | K23 will continue; will say when submitted to DA (cited) |  |
+| 116 | 2026-01-14 | 02:17 | H→K | 19bba4c06df0c280 | Fwd: |  |
+| 117 | 2026-01-14 | 02:30 | H→K | 19bba578b4c270ff | Fwd: |  |
+| 118 | 2026-01-14 | 03:36 | H→K | 19bba93dce5fc987 | (no subject) |  |
+| 119 | 2026-01-29 | 23:03 | K→H | 19c0bff0386a7be2 | K24 Turkey documentation? |  |
+| 120 | 2026-01-29 | 23:20 | H→K | 19c0c0f85ad87364 | Turkey Incident |  |
+| 121 | 2026-02-03 | 19:10 | K→H | 19c24e9f23054879 | K25 Turkey question again |  |
+| 122 | 2026-02-04 | 09:23 | H→K | 19c27f6dc533be58 | FINAL NOTICE: Forensic Proof of Leak & Destruction of Evidence | answers K17 (2nd version) |
+| 123 | 2026-02-06 | 07:02 | H→K | 19c31c2994519631 | (no subject) | IA; call |
+| 124 | 2026-02-09 | 02:42 | H→K | 19c40473d0746dfb | Gospel of Matthew 5:25–26: | call request |
+| 125 | 2026-02-09 | 02:42 | Perplexity→K | 19c4047c890d846e | Gospel of Matthew 5:25–26: | call request (AI agent) |
+| 126 | 2026-02-09 | 15:16 | K→H | 19c42f9b2125d60a | K26 Turkey question "twice now" |  |
+| 127 | 2026-02-09 | 23:07 | H→K | 19c44a974984b57c | Gospel of Matthew 5:25–26: | IA |
+| 128 | 2026-02-09 | 23:42 | K→H | 19c44c96ea1f98c9 | K27 "I did preserve the Google records"; will file with DA |  |
+| 129 | 2026-02-11 | 06:31 | H→K | 19c4b65af30b1c18 | Gospel of Matthew 5:25–26: |  |
+| 130 | 2026-02-11 | 06:45 | H→K | 19c4b72d86fb9742 | Gospel of Matthew 5:25–26: |  |
+| 131 | 2026-02-11 | 17:00 | H→K | 19c4da655a9c436a | Gospel of Matthew 5:25–26: |  |
+| 132 | 2026-02-12 | 02:59 | H→K | 19c4fc9c3a9d05d1 | (no subject) |  |
+| 133 | 2026-02-12 | 23:34 | H→K | 19c5435095e084b7 | (no subject) | A18; firm hold; IA |
+| 134 | 2026-02-13 | 01:07 | K→H | 19c548a31edc8c3d | K28 "submitted to the LA DA’s office" (cited) |  |
+| 135 | 2026-02-13 | 06:20 | H→K | 19c55a8607a774c5 | (no subject) |  |
+| 136 | 2026-02-13 | 06:51 | H→K | 19c55c4a64f0391e | (no subject) |  |
+| 137 | 2026-02-14 | 07:46 | H→K | 19c5b1d99b66ff47 | $1.3 MM QUESTION—WHO LIVES HERE? |  |
+| 138 | 2026-02-25 | 01:20 | H→K | 19c9262bb219c577 | (no subject) |  |
+| 139 | 2026-03-11 | 18:02 | H→K | 19cde109aee9e0d8 | DA’s Office |  |
+| 140 | 2026-03-11 | 20:12 | K→H | 19cde873a732271b | K29 "I already told you I submitted your case to the DA" |  |
+| 141 | 2026-03-20 | 18:12 | H→K (bcc) | 19d0c7395378e35b | GOOGLES GEMINI PRETTY MUCH SUMS IT ALL UP FOR ME … |  |
+| 142 | 2026-03-20 | 22:27 | H→K (bcc) | 19d0d5c67d21908c | GOOGLES GEMINI PRETTY MUCH SUMS IT ALL UP FOR ME … |  |
+| 143 | 2026-03-29 | 14:20 | H→K | 19d39f76b80650dd | Marsy's Law: Right to Confer with Prosecutor — Case 2025-14983 | Turkey call |
+| 144 | 2026-04-06 | 19:23 | H→DA/DOJ/FBI + K | 19d643ff9dda21bd | ONGOING CYBER-SABOTAGE AND OBSTRUCTION OF JUSTICE |  |
+| 145 | 2026-04-06 | 19:26 | H→DA/AG/DOJ/FBI + K | 19d6442dba0dabce | FOLLOW-UP: Marsy's Law Demands Overdue |  |
+| 146 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d64460e1f3627d | CPRA Request 1 of 7 (access logs, 567-page report) |  |
+| 147 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d6446135a29cbf | CPRA Request 2 of 7 (communications with Spiegel / firm) |  |
+| 148 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d644617bfe6b54 | CPRA Request 3 of 7 (communications with suspects) |  |
+| 149 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d64461bf70b38c | CPRA Request 4 of 7 (communications with DA) |  |
+| 150 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d64461e969f50a | CPRA Request 5 of 7 (case file and reports) |  |
+| 151 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d644623909bce2 | CPRA Request 6 of 7 (Google preservation request records) |  |
+| 152 | 2026-04-06 | 19:30 | H→K + Chief, City Atty, City Mgr | 19d644625d8898c1 | CPRA Request 7 of 7 (internal communications, incl. IA) | IA |
+| 153 | 2026-04-06 | 20:27 | H→K + Chief, City Atty, City Mgr | 19d647a2e87198bf | Supplemental CPRA — case file classification |  |
+| 154 | 2026-04-06 | 20:27 | H→DA + K + City | 19d647a32c6b3cad | Supplemental CPRA — Kale-DA communications |  |
+| 155 | 2026-04-06 | 20:27 | H→K + Chief, City Atty, City Mgr | 19d647a36a1efabe | Supplemental CPRA — IA complaint status | IA |
+| 156 | 2026-04-06 | 20:50 | H→K + Chief, City Atty, City Mgr | 19d648fe31bcc35b | Supplemental CPRA — IA case number and scope | IA |
+| 157 | 2026-04-06 | 20:55 | H→DA/AG/FBI + K + City | 19d64940b1e9d860 | FOLLOW-UP: Criminal Complaint Against Lance Spiegel — 37 Days | IA |
+| 158 | 2026-04-06 | 20:55 | H→City + K + DA | 19d64940cdcfe614 | DEMAND FOR RESPONSE: … Spiegel & Detective Kale IA | IA |
+| 159 | 2026-04-27 | 15:16 | H→K (cc) | 19dcf83a0d732a05 | California Public Records Act Request - BHPD Case No. 2025-14983 | IA; "five" count |
+| 160 | 2026-04-28 | 17:50 | H→K | 19dd5365ddb1b408 | OpenAI Withholding Evidence Relevant to BHPD Case #2025-14983 — Preservation Subpoena Recommend | OpenAI preservation |
+| 161 | 2026-05-04 | 22:33 | H→K | 19df5203cd252ce7 | FINAL NOTICE -- Overdue CPRA Responses and Impending Federal Litigation | IA |
+| 162 | 2026-05-17 | 01:13 | H→K | 19e337ec437aa737 | Formal Notice of CPRA Violation and Intent to Seek Judicial Enforcement | City records preservation |
+
+
+### 7.2 Asks vs replies
+| Ask | Date (UTC) | Asked (short) | Kalé's next message | Its words on the ask |
+|---|---|---|---|---|
+| A1 1999df6b5ce0fbce | 2025-10-01 | contact Google; subpoena/court order | K10 199a1a4b84c2ff99 (same day) | none on Google — "refrain from contacting other city employees" |
+| A2 199b8588e3937459 | 2025-10-06 | contact Google before 6-month deletion | K11 199c5cbc967a9010 (10/8) | none on Google |
+| A3 199db7e78dd8b1de | 2025-10-13 | "call Google" | K12 19a082c54ba9f984 (10/21) | none on Google |
+| A4 199df37b1f0fce49 | 2025-10-13 | plan to stop evidence destruction | K12 (10/21) | none |
+| A5 19a0772e1aa2bf0f | 2025-10-21 | "Have you asked Google to freeze …" | K12 (same day, quotes A5) | none on Google — Sheriff serves TROs |
+| H1 19a09e0df9a7edb4 | 2025-10-22 | confirm litigation hold (BHPD records); DA referral status | K13 19a13eb82bb6d8fd (10/24) | "Attached is a Marsy’s Law Pamphlet for you. Case Status: Open – under active investigation" |
+| H2 19a09e899cab9e7c | 2025-10-22 | confirm legal hold in writing | K13 (10/24) | none on a hold |
+| A6 19a4cb0a7fd791b2 | 2025-11-04 | "inform Google" | K14 19a510cd2ba95adc (11/4) / K15 19a5620d5a054560 (11/5) | none on Google; K15 offers forensic processing of his phone |
+| A7 19a699f0628a3746 | 2025-11-09 | "my letter may not suffice. Yours will" | K16 19b0eaf3f049d381 (12/11) | none on Google |
+| A8 19ad4e64bcac9192 | 2025-11-30 | meeting; "have you contacted Google" | K16 (12/11) | none on Google or a meeting |
+| A9 19ae03c05f72e377 (cc) | 2025-12-02 | request Google's assistance | K16 (12/11) | none |
+| A10 19ae68bf08204bd5 (cc) | 2025-12-03 | "whether you intend to contact Google" — Yes or No | K16 (12/11) | none |
+| A11 19aeb8d557da367f | 2025-12-04 | "let me know when you have made contact with them" | K16 (12/11) | none |
+| A12 19af167fed51179c | 2025-12-06 | Google Legal's reply forwarded, "Action: Make Record" | K16 (12/11) | none |
+| A13 19b884bc4c8df35c | 2026-01-04 | "did you ever contact Google … data hold" | K17 19b8fbc478f4e54b (1/5) | "Regarding the Google/Email situation, are you talking about these emails below?" |
+| H3 19b8f1dd4d7a670c (cc) | 2026-01-05 | City: impound access logs; counsel: preserve | K17 (1/5, same thread) | as above; nothing on access logs |
+| A15 19b9f2782a3567fa | 2026-01-08 | confirm preservation order to Google within 24 hours | K18 19b9f2badaeb5eeb (5 min later) | re-pastes K17 question |
+| A16 19b9f2e529d79fbc | 2026-01-08 | account metadata Aug 29–Nov 30, 2023 | K19 19b9f303920a4a1a (2 min later) | "Can you please just answer the question that I emailed you about on Monday?..." |
+| (quoted) 1/8 4:25 PM | 2026-01-09 | "refuse three times to make a 45-minute phone call" | K20 19ba02a9c00c3b61 (1/9 00:31Z) | "I’m sorry you think I destroyed evidence, but I assure you I did not. … we have the 567-page document you sent us" |
+| A17 19ba60583051da79 | 2026-01-10 | "contact Google to: 1. Stop … 2. Recover …" | K21 19bb38cf19aec75b (1/12) | "I have submitted a preservation request to Google for those emails (assuming they are still preservable). The request was made for two accounts: Halsey2005@gmail.com and Shannonminor@gmail.com." · K22 (1/12): "preservation letter to Google" · K27 (2/9): "I did preserve the Google records you spoke of" |
+| A18 19c5435095e084b7 | 2026-02-12 | TRO record; firm hold; Google preservation; written confirmation | K28 19c548a31edc8c3d (2/13) | "Your case has been submitted to the LA DA’s office for review." — none on the four items |
+| 19dd5365ddb1b408 | 2026-04-28 | OpenAI preservation subpoena | none (no Kalé message after 3/11/2026) | — |
+| R1–R7, supplements, notices | 2026-04-06 → 05-17 | CPRA records incl. Google request (R6), IA status (R14, R19) | none | — |
+
+---
+
+## 8. READ-STATUS DISCLOSURES (rule 7) AND LIMITS
+- **Read in full by me:** the own text of every native message listed in §7.1 (162 rows), except as stated here; the four
+  quoted-only Halsey messages (as quoted); the two Drive exports in T87.
+- **Cited, not re-fetched (per the brief):** K6 1963669c3c320218, K17 19b8fbc478f4e54b, K18 19b9f2badaeb5eeb (own text), K21
+  19bb38cf19aec75b, K23 19bba42b48bd3355, K28 19c548a31edc8c3d, 196204851f0234f1 (Kalé → Provinziano, 4/7/2025), and
+  19c5435095e084b7 (whose full text I read as quoted inside 19c55a8607a774c5 and 19c55c4a64f0391e).
+- **Read only in part / by keyword:** 19a9cdcc7373aaa2 (11/19/2025 letter; the embedded analysis read only in part);
+  19a699f22f1d5e9b (11/9/2025; body is a forwarded AI text — keyword-scanned only; AI-LEAD). 199d5188b73782a3 was read in
+  full earlier (T29) but not re-fetched for the §2.5 word check.
+- **Seen by snippet only (outside the universe):** Snyder 19b8f6fcd6f82d0b ("… preservation of evidence for investigative
+  purposes requires more than a phone call. It requires an authorized letter from the …"); the kat.flds / third-party
+  messages listed per thread.
+- **Not listed:** attachment names of 19ae03c05f72e377 (text read as quoted in 19ae68bf08204bd5 / 19ae6d07ce395118).
+- **Not opened:** every inline image (incl. K21 image001–003, K27 image001 — the screenshot under "I did preserve the Google
+  records", K15, K17), every attachment of every message (names recorded), and the BHPD audio file
+  "(Extraction_1.2)_03.25.2025_25.14983.wav.m4a". No Drive export exists for any Kalé inline image.
+- **Messages the API did not return** (header count vs returned): T17 1989ccc0e436bdce 3/2 · T19 198de202834b56b4 2/1 · T34
+  19a09c3bf6888af7 5/3 · T37 19a375327a3006cb 2/1 · T38 19a3c510e55270e0 2/1 · T40 19a4a98e349a9e2f 13/12 · T43 19a4f4519aff8ccb
+  6/5 · T49 19a9cdcc7373aaa2 2/1 · T51 19ac0c32d6d50aec 2/1 · T58 19b0eaf3f049d381 23/21 · T59 19b5c18c5c6b9437 5/4 · T63
+  19b705f195bdb8f3 4/2 · T65 19b8f1dd4d7a670c 18/10 · T66 19b9f7b82104dd6f 18/17 · T71 19c0bff0386a7be2 4/3 · T72 19c40473d0746dfb
+  11/8 · T78 19c59a367a2e5a11 7/5. The missing messages were not identified; none of the 29 Kalé ids is among them (all 29 were
+  returned).
+- **Mailbox scope:** the view URLs are authuser=Halsey@realitylab.com; it holds halsey2005 mail and only some
+  halsey@minorventures.com mail. Several minorventures sends survive only as quotes (§2.2, §4). Messages sent only from
+  minorventures and never quoted would not be visible here.
+- **Outside the universe, cited from other READING_NOTES (not re-read):** the IA/PSU chain (CITY_BHPD_management_spiegel),
+  the BHPD PRA determinations R21/R22, the redacted case report and CAD log, the DA declination (HALSEY_REFERRALS_2026), the
+  Provinziano letter (BEHAVIOR_f R1), the Google notices (GOOGLE_NOTICES_and_KALE_denial).
+- **AI-LEAD items referenced (never treated as evidence):** the Perplexity message 19c4047c890d846e; the OpenAI 003 report;
+  every attachment titled "AI Analysis", "Executive Summary_AI_Analysis…", "Forensic Audit", "FORENSIC EVIDENCE", Gemini
+  outputs and "Google Busts Lance/Google Realization" images; the pasted "[google +2]" text in 19aeb8d557da367f; the embedded
+  "Forensic Data Analysis Unit" text in 19b8f1dd4d7a670c.
+- No git command was run. Apart from this file, the only writes were six temporary helper files in the session scratchpad
+  (/tmp/claude-0/…/scratchpad/kale) used to build the §7.1 table from this file's own headers; they were deleted after use.
+  No message was sent, labelled, moved or modified; no Drive file was changed.
