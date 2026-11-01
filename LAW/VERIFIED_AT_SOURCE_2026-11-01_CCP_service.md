@@ -188,6 +188,7 @@ Two active versions exist in the official data and on the official site's own se
 - **Effective-date field:** 2024-07-18
 - **Official location:** Code of Civil Procedure PART 2. OF CIVIL ACTIONS [307. - 1062.34.] > TITLE 14. OF MISCELLANEOUS PROVISIONS [989. - 1062.34.] > CHAPTER 5. Notices, and Filing and Service of Papers [1010. - 1020.]
 - **Record identifiers:** LAW_SECTION_VERSION_ID `id_ef16a6cb-45de-11ef-b598-a368f6618c34`; SHA-256 of the XML record `f25fe39e7861ccbf1e15bd10a12b57fdb0924e6ed9257ee1330330adfb7e50b2`
+- **Live-page cross-check:** Exa fetch of the live leginfo URL for this section (2026-11-01, approx. 02:10Z-02:14Z; the tool returns no timestamp) returned text matching the record for subdivisions (a) through (e)(4)(C) on visual comparison (the tool output was cut off after about 9,000 characters; the remainder was not compared).
 
 ### (2) Operative text (verbatim)
 
