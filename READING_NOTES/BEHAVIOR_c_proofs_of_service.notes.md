@@ -42,7 +42,7 @@ Conventions. Quotes are verbatim from the PDF text layer (pdftotext) or, where a
 
 Not downloaded:
 - drive:181IlSVc8O7P8dZB61r7QHKz5_qKAJa_4 "2026-01-28__ysfamilylaw.com__2026-01-27 [P] Resp.RFO.Mod.CS.SS.pdf" (9,203,130 bytes). The download call closed the Drive connector (message too large). A `read_file_content` text rendition (124,308 characters) was saved and searched. It begins with FL-320 and ends inside an exhibit ("Case No.: 24SFTL00432 Page 7 of 10"). It contains no "PROOF OF SERVICE" text. **The POS of this paper was NOT read.**
-- drive:14A5aD1gYO7lUpWQkr1ppGO5uVPpLz2nO "2025-12-31__gmail.com__Minor - RFO for Family Code §271 Sanctions.pdf" (88,487 bytes): READ IN FULL as text. It is a print of Gmail message 19b70bba0694f1d9 ("Matt V. Sirriyeh <mvs@ysfamilylaw.com> Tue, Dec 30, 2025 at 2:28 PM"), with the same body as in section 5.
+- drive:14A5aD1gYO7lUpWQkr1ppGO5uVPpLz2nO "2025-12-31__gmail.com__Minor - RFO for Family Code §271 Sanctions.pdf" (88,487 bytes): READ IN FULL as text. It is a print of Gmail message 19b70bba0694f1d9 ("Matt V. Sirriyeh <mvs@ysfamilylaw.com> Tue, Dec 30, 2025 at 2:28 PM"), with the same body as in section 3.
 - drive:1nGkXnqWAB5ITP07tvQlYonmfkR5YPLjkvlTkaHCFtK4 "MINOR CASE — 26 EXHIBIT A LOCATED PLUS RFO STATUS NOTE (2026-07-30)": **AI-LEAD**. READ IN FULL, used only as a pointer to message 19f870bf19d5f34f, which was then read at source.
 
 PDF metadata (pdfinfo) recorded for timing comparison. All times UTC. CreationDate / ModDate:
@@ -176,7 +176,7 @@ Pointer only, not read by this agent: /home/user/spiegel-thread/READING_NOTES/DO
 - `title contains '2025-12'` returned 805 rows; `'2026-01'` 649; `'2026-02'` 675. All complete, with no next page.
 - `title contains 'Proof of Service' or title contains 'POS'` returned 600 rows, complete.
 - `fullText contains 'PROOF OF SERVICE' and fullText contains '24STFL00432'` returned 1000 rows with a next page. **Incomplete, not followed.**
-- In-range firm papers were identified by the firm's "YYYY-MM-DD [P]" naming and the `__ysfamilylaw.com__` attachment prefix (list in section 7).
+- In-range firm papers were identified by the firm's "YYYY-MM-DD [P]" naming and the `__ysfamilylaw.com__` attachment prefix (list in section 4).
 
 ### 2.6 Blank POS block (D8 p48), verbatim printed text
 The block is not filled in, and none of its boxes is checked:
@@ -184,7 +184,7 @@ The block is not filled in, and none of its boxes is checked:
 
 ---
 
-## 5. Gmail: every message from ysfamilylaw.com, 2025-11-01 to 2026-03-15
+## 3. Gmail: every message from ysfamilylaw.com, 2025-11-01 to 2026-03-15
 
 Query: `from:ysfamilylaw.com after:2025/11/01 before:2026/03/16`, includeTrash=true. Result: resultCountEstimate 21, 21 threads, no next page.
 
@@ -228,7 +228,7 @@ Mexico sentences quoted inside 19ab8474aa899682, from Halsey's message "From: Ha
 
 No message in the window states a tracking number.
 
-### 5.1 Other items named in the brief (read in full)
+### 3.1 Other items named in the brief (read in full)
 
 | Id | Date UTC | Sender → To | Subject | Attachments | Service/mail sentences, verbatim |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@ No message in the window states a tracking number.
 
 ---
 
-## 7. Comparison table (paper · declared service · transmittal · delivery evidence · gaps)
+## 4. Comparison table (paper · declared service · transmittal · delivery evidence · gaps)
 
 Gap columns:
 - "Tx−POS": transmittal date (Pacific) minus declared POS date.
@@ -277,7 +277,7 @@ The 4/21/2026 order: every POS read is dated 11/14/2025 to 3/4/2026, so all pred
 
 ---
 
-## 8. What is still missing to tie each paper to an envelope
+## 5. What is still missing to tie each paper to an envelope
 
 Missing for all rows: envelope-by-envelope contents of the ten envelopes (which paper is in which envelope); the date, postmark, meter or label on each envelope; whether the "JAN 30, 2026 · $29.70 · Retail" label is on one envelope or on an outer package; the label's tracking or acceptance-scan record; the address printed on each envelope (Laguna 1 Riva PH 1 or 602 Punta Del Mar); the firm's mail log and postage records for 11/2025 to 2/2026.
 
@@ -295,7 +295,7 @@ Paper-specific:
 
 ---
 
-## 9. Side check (e)/(d): is halsey@minorventures.com mail in this mailbox?
+## 6. Side check (e)/(d): is halsey@minorventures.com mail in this mailbox?
 
 The mailbox account is Halsey@realitylab.com (Gmail viewUrl authuser). Metadata only; no bodies read.
 
@@ -316,12 +316,12 @@ The mailbox account is Halsey@realitylab.com (Gmail viewUrl authuser). Metadata 
 
 ---
 
-## 10. Not done / limits
+## 7. Not done / limits
 
 - The POS of the 1/27/2026 Responsive Declaration (Mod CS/SS, 9.2 MB) was not read: the download exceeded the connector, and the text rendition is incomplete.
 - No firm-executed 12/30/2025 POS-050/FL-335 (D24 Exhibits A/B) and no POS for the 2/2/2026 vexatious-litigant RFO was located on Drive.
 - The full-text Drive queries in 2.4 and 2.5 were not paged to completion.
 - The 11/17/2025 and 1/27/2026 Petitioner register entries are known only from another agent's notes. They were not read here.
-- Gmail attachments cannot be downloaded with the allowed tools. Attachment contents were compared through the Drive copies whose titles carry the `YYYY-MM-DD__ysfamilylaw.com__` prefix; that prefix date matches the email UTC date in each case checked.
+- Gmail attachments cannot be downloaded with the allowed tools. Attachment contents were compared through the Drive copies whose titles carry the `YYYY-MM-DD__ysfamilylaw.com__` prefix; that prefix date equals the email's date in UTC−5 in each case checked (e.g., 2025-11-15T00:04Z appears as "2025-11-14"; 2026-01-28T06:08Z appears as "2026-01-28"; 2026-02-12T01:55Z appears as "2026-02-11").
 - The 2026-05-07 and 2026-05-18 ysfamilylaw.com emails carrying "2025-12-17 [P] Doc.Subp.FLDS.pdf" were not opened.
 - Partially read files are marked PARTIAL in section 1.

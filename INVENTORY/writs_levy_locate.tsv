@@ -124,11 +124,11 @@ gmail:msg:19ff860511d3ef30 thread:19ff860511d3ef30	n/a	You received a new invoic
 gmail:msg:1a0218f0eba1dca9 thread:1a0218f0eba1dca9	n/a	You received a new invoice (#001404)	messenger@messaging.squareup.com	from:messaging.squareup.com after:2026/08/01
 gmail:msg:1a02a2069e4b3e3f thread:1a02a2069e4b3e3f	n/a	You have an invoice waiting (#001406)	messenger@messaging.squareup.com	"001406" | from:messaging.squareup.com after:2026/08/01
 drive:1L4iUiep20i-u6eezrIaOJ89vbieaUllKu_tdcBnbIuM	2026-09-21	MINOR CASE — MONITOR RUN LOG 2026-09-21 (13:03 UTC) — NOTHING NEW SINCE THE 05:04 UTC RUN; WRIT ATTACHMENT FILENAMES READ (NOT NEW MAIL)	n/a	title contains 'writ'
-drive:14mMsDMr22oLb5c2vJbeNiGIYlDjmi3EP	2026-09-03	2010-01-11__minorventures.com__writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:14mMsDMr22oLb5c2vJbeNiGIYlDjmi3EP	2026-09-03	2010-01-11__minorventures.com__writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
 drive:1gbGIXGKnlOvU0ArE2g0v5yX-QeIU2eZU	2026-09-03	2010-01-11__minorventures.com__aff & req for writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
-drive:1q6ovdQcAys-Z76ViDVdqTmnA3fJB8vgr	2026-09-03	2010-01-06__minorventures.com__writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1q6ovdQcAys-Z76ViDVdqTmnA3fJB8vgr	2026-09-03	2010-01-06__minorventures.com__writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
 drive:1tlEuqLMbkwG6jXWLlLBqh2_UpeROtn90	2026-09-03	2010-01-06__minorventures.com__aff & req for writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
-drive:1QXWEVuqIMzjSZ_NxSmNI3iulPA7wgM08	2026-09-03	2010-01-06__bwgfirm.com__writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1QXWEVuqIMzjSZ_NxSmNI3iulPA7wgM08	2026-09-03	2010-01-06__bwgfirm.com__writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
 drive:180WGbLnxOy5gnSsELbBw6rVOEmhrVGlp	2026-09-03	2010-01-06__bwgfirm.com__aff & req for writ of execution.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
 drive:1gkS7T6LMpnmbjpi3x9OkTYVPakrj6mrG	2026-09-02	2010-05-13__bwgfirm.com__Sotheby_s_ Writ of Execution (JPMorgan Chase Bank) (2).PDF	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
 drive:1C_U_U-IOiLqOM-_iRDB2sfgL8jFoNu-9	2026-09-02	2010-05-13__bwgfirm.com__Sotheby_s_ Writ of Execution (HSBC) (2).PDF	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
@@ -143,9 +143,9 @@ drive:1SObHJFS9MKJYUCIY9Ta21TdYmZWd6H3X	2026-09-02	2010-05-18__bwgfirm.com__Soth
 drive:1yV7WSKx2e467yCTkD_9aGXhn0GXaTqoF	2026-09-02	2010-05-18__bwgfirm.com__Sotheby_s_ Writ of Execution (DLAPiper) (2).PDF	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
 drive:1T67G7c_lom5DlR3XskOpI6HOYjFHk16e	2026-09-02	2010-05-18__bwgfirm.com__Sotheby_s_ Writ of Execution (Barclays Capital) (2).PDF	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
 drive:1Wk80sUHsi3kOiqDGbInPJI4TlhTR2fwHhORX07A5UI0	2026-08-25	MINOR CASE — REVIEW 2026-08-25: Respondent's Brief + Declaration (3/27/2026), defects and the writ gap	n/a	title contains 'writ'
-drive:1epfUvZ9OJoJFlQeUeArJXrQLaqtiZNjF	2026-08-24	2026-08-24__gmail.com__Writ issued 4-28-2026-3.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
-drive:1QD2SBrs5H1iCiANuaHsXYd3eVBl0g-NY	2026-08-24	2026-08-24__gmail.com__Writ issued 4-28-2026-2.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
-drive:1Pr59CjO_0us4hlAWzIOPXJJ6b21p_IV3	2026-08-24	2026-08-24__gmail.com__Writ issued 4-28-2026.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1epfUvZ9OJoJFlQeUeArJXrQLaqtiZNjF	2026-08-24	2026-08-24__gmail.com__Writ issued 4-28-2026-3.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
+drive:1QD2SBrs5H1iCiANuaHsXYd3eVBl0g-NY	2026-08-24	2026-08-24__gmail.com__Writ issued 4-28-2026-2.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
+drive:1Pr59CjO_0us4hlAWzIOPXJJ6b21p_IV3	2026-08-24	2026-08-24__gmail.com__Writ issued 4-28-2026.pdf	n/a	title contains 'writ' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
 drive:1LAVSzSDqNLv3_X7UYYmhNROEGD8Ss9_w_9qhjJ-G7q0	2026-08-24	MINOR CASE — ACTION LOG 2026-08-24 (writ copies requested; invoice watch armed)	n/a	title contains 'writ'
 drive:1rrKF-MESHmhvnsEH7L8MlT3Bk8fASVsYO1hqaNYNr4g	2026-08-24	MINOR CASE — INBOX LOG 2026-08-24 (Schwenke cancels writ-copy invoice)	n/a	title contains 'writ'
 drive:1Y95SaGSQqDYBDJoGZzyrv0kgxhCw6QLI	2026-08-22	2026-05-12__gmail.com__Writ Petition Minor v Minor DRAFT.docx	n/a	title contains 'writ'
@@ -166,7 +166,7 @@ drive:1vrhuY1AqWyw2XWpF9pcdJEy-8DB5Njed	2026-08-30	2012-02-02__jgmlaw.com__Actio
 drive:1fa-dfHwZw8s5pURV9J2gMV8hcMCnPjUv	2026-08-26	2015-11-09__gclawventures.com__Action by Written Consent Initial Actions (6-8-15).pdf	n/a	title contains 'writ'
 drive:1qkkmhFXj66yjxyYGvdz6zS17CUmqWXm8	2026-08-26	2016-05-31__gmail.com__Voxelus Election of Officers by Action of Written of Consent 7.20.15.pdf	n/a	title contains 'writ'
 drive:1LY4H5wFzYY_gg0ymRSMfaHHByan4KnvD	2026-08-26	2016-01-07__gmail.com__Voxelus Election of Officers by Action of Written of Consent 7.20.15.pdf	n/a	title contains 'writ'
-drive:1eTYGsYD8Z5K6tYGw0peJIrrmZZ6SimEm_398lNE-USU	2026-08-25	MINOR CASE — WRITS READ 2026-08-25 (three EJ-130s + Clerk's Notice of Non-Compliance on Appeal)	n/a	title contains 'writ' | title contains 'EJ-' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1eTYGsYD8Z5K6tYGw0peJIrrmZZ6SimEm_398lNE-USU	2026-08-25	MINOR CASE — WRITS READ 2026-08-25 (three EJ-130s + Clerk's Notice of Non-Compliance on Appeal)	n/a	title contains 'writ' | title contains 'EJ-' | fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z' | fullText contains 'Notice of Levy'
 drive:1sOXytsp5ylKVzBCg8bqrAo0iNY43KALwKMcUvWGoL2k	2026-08-24	MINOR CASE — DOCKET ALERT 2026-08-24 (WRITS RECEIVED)	n/a	title contains 'writ'
 drive:1R4bGGWADpbI1gsTeBskVpi6ICq-DfbvM	2026-08-23	2025-05-26__gisteo.com__9 Ways To Write Your Story.pdf	n/a	title contains 'writ'
 drive:1bM_Bc-wQbxuSWHO0T9heiLHLJ-_YQGI1Jafks4_6ay0	2026-07-25	RECONCILED — Google-preservation count: FOUR written + one verbal = five; NOT Lance's 5 service lies — 2026-07-25	n/a	title contains 'writ'
@@ -183,20 +183,20 @@ drive:1lR6zew9m4QmKnryGTJR-QRfdPCMKwA9T	2026-01-26	writer.h	n/a	title contains '
 drive:1wGJkwN2TjVNlJQqho2MR8vq_RpVwfjBD	2026-01-26	writer.h	n/a	title contains 'writ'
 drive:11aprQNiFSf2ksn3iH5F6JP5tgoozYPlR	2026-01-26	Writing Research - World War One - The Life and Mind of Ghost.pdf	n/a	title contains 'writ'
 drive:1jw2cVVQcauI4qBdQ-eZ7Xy8Hwi1CqMzL	2026-01-26	Richard Rubin (writer) - Wikipedia[.pdf	n/a	title contains 'writ'
-drive:11dNGcfSHwT3hLUOx_t-ivBX5NHOXNqEo	2026-10-29	2026-10-29__realitylab.com__LASD_Levy_File_Records_Request_2026-10-29.pdf	n/a	title contains 'levy'
-drive:122uE3Ycj64mR3dgQGJ9hq1FvDUK0Y_ve	2026-09-03	2010-01-06__ntelos.net__Fox Ridge Notice of Levy.pdf	n/a	title contains 'levy'
-drive:1Rxhzy7avAtoPmWH7zuPKlW9MpSRe_1yn	2026-09-01	2011-01-17__minorventures.com__IRS Levy Letters.pdf	n/a	title contains 'levy'
-drive:1-TjUZfLEkkMWMvJ4VgcPMpgDbd1JM7yy	2026-09-01	2011-01-17__minorventures.com__MMS IRS and FTB Levy Notices.pdf	n/a	title contains 'levy'
+drive:11dNGcfSHwT3hLUOx_t-ivBX5NHOXNqEo	2026-10-29	2026-10-29__realitylab.com__LASD_Levy_File_Records_Request_2026-10-29.pdf	n/a	title contains 'levy' | fullText contains 'Notice of Levy'
+drive:122uE3Ycj64mR3dgQGJ9hq1FvDUK0Y_ve	2026-09-03	2010-01-06__ntelos.net__Fox Ridge Notice of Levy.pdf	n/a	title contains 'levy' | fullText contains 'Notice of Levy'
+drive:1Rxhzy7avAtoPmWH7zuPKlW9MpSRe_1yn	2026-09-01	2011-01-17__minorventures.com__IRS Levy Letters.pdf	n/a	title contains 'levy' | fullText contains 'Notice of Levy'
+drive:1-TjUZfLEkkMWMvJ4VgcPMpgDbd1JM7yy	2026-09-01	2011-01-17__minorventures.com__MMS IRS and FTB Levy Notices.pdf	n/a	title contains 'levy' | fullText contains 'Notice of Levy'
 drive:1uLrnZi_a8s1AcRBxAY95159ZijmPviC2	2026-09-01	2011-01-28__minorventures.com__Plane Taxes - Levy.pdf	n/a	title contains 'levy'
-drive:1YP6w1VirnwQUnnDLSfdISFwuqW3L8obp	2026-09-01	2011-01-28__dlapiper.com__IRS Levy MMS.pdf	n/a	title contains 'levy'
-drive:1njiM4z1ziJAqeZzozxpnn92EbLW_r967	2026-09-01	2011-01-28__minorventures.com__IRS Levy MMS.pdf	n/a	title contains 'levy'
+drive:1YP6w1VirnwQUnnDLSfdISFwuqW3L8obp	2026-09-01	2011-01-28__dlapiper.com__IRS Levy MMS.pdf	n/a	title contains 'levy' | fullText contains 'Notice of Levy'
+drive:1njiM4z1ziJAqeZzozxpnn92EbLW_r967	2026-09-01	2011-01-28__minorventures.com__IRS Levy MMS.pdf	n/a	title contains 'levy' | fullText contains 'Notice of Levy'
 drive:1x9VoanxUM4P8j1PKTxUyMmNlJ_XTDK6P	2026-08-27	2014-08-27__minorventures.com__Summary of Withholding Forms.pdf	n/a	title contains 'withholding'
 drive:1VExWlwsNR6VYoDKTWjKhmfucNDNQSJyR	2026-08-27	2014-08-26__minorventures.com__Summary of Withholding Forms.pdf	n/a	title contains 'withholding'
 drive:129X33n0K6LTDElkOdjB4gwF7HtsAT0Mr	2026-08-27	2014-08-26__accel.com__Summary of Withholding Forms.pdf	n/a	title contains 'withholding'
 drive:1H-XhXW97OJ65trTmI4Tmxk15TxKo15yO	2026-08-22	2026-03-25__jdhrsolutions.com__PA Dept of Revenue - Employer Withholding Tax Notice - 03-02-2026).pdf	n/a	title contains 'withholding'
 drive:1k2YTcHZ_ILuf7bg5hYwjPgiiqjac1RIT	2026-09-04	2026-09-04__ally.com__SecureMessageAtt.html	n/a	title contains 'Ally'
-drive:1IZFMiVDCoIwMlratDV4XxoQdwRMeqPrC	2026-10-29	2026-10-29__gmail.com__Ally_Regulatory_Complaint_Package_2026-10-29.pdf	n/a	title contains 'Ally' | fullText contains '64504079'
-drive:1JBgyIgR4WDbiMUcGHShFRIqmnG6dvJ4q	2026-10-29	Ally_Regulatory_Complaint_Package_2026-10-29.pdf	n/a	title contains 'Ally' | fullText contains '64504079'
+drive:1IZFMiVDCoIwMlratDV4XxoQdwRMeqPrC	2026-10-29	2026-10-29__gmail.com__Ally_Regulatory_Complaint_Package_2026-10-29.pdf	n/a	title contains 'Ally' | fullText contains '64504079' | fullText contains 'Notice of Levy'
+drive:1JBgyIgR4WDbiMUcGHShFRIqmnG6dvJ4q	2026-10-29	Ally_Regulatory_Complaint_Package_2026-10-29.pdf	n/a	title contains 'Ally' | fullText contains '64504079' | fullText contains 'Notice of Levy'
 drive:1sNq-bTo8Rs8-QbG-rl08s08tmaMz2w1o	2026-09-02	Ally Bank Statement.pdf	n/a	title contains 'Ally'
 drive:1KQdIxOSdWg3_8cossmXFJHCnmpbDfcSn	2026-09-02	Ally Bank Statement.pdf	n/a	title contains 'Ally'
 drive:1u7FeFP4eCpKmCMJ8MytJoHojReaU1-VB	2026-09-01	ALLY @ Up	n/a	title contains 'Ally'
@@ -300,3 +300,227 @@ drive:1GOLWi_W2yQ_5vrF1CNfqs1y79YAhDUg2	2026-02-10	Ally Bank Statement.pdf	n/a	t
 drive:1_pF-WOVazZYe6hKpXWQRf2PNe3uiauk6	2026-02-07	Ally Bank Statement.pdf	n/a	title contains 'Ally'
 drive:1zePA4TWgAkmPLjKEYJzIzQtDA8wx1cWa	2026-01-26	Ally Bank Statement.pdf	n/a	title contains 'Ally'
 drive:0B8p8DAKg7zgqRVYyRDA5SkJFTFU	2014-10-24	Ally_Bank_--_Nothing_Hidden_15.mp4	n/a	title contains 'Ally'
+gmail:msg:19eb8b21a4aeb840 thread:19e995305f3224c7	n/a	No readership market for those who stop the wars, only for those who create the slaughter.	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e242d0c78c10d2 thread:19e242d0c78c10d2	n/a	contacting	stevenl@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:1a025c10b324cb23 thread:1a0254a0465d65fc	n/a	Court & legal inbox monitor — Minor v. Minor / 24STFL00432 — routine completed	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e27b3dce286baf thread:19e27b3dce286baf	n/a	Here We Go. It Starts With The Question I Asked. It Can't Read Minds So I Was Right About It Missing Part Of The Answer	halsey@realitylab.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e990265b74a5a6 thread:19e8ae972d7e4220	n/a	No market for those who stop the wars, only for those who create the slaughter.	stevenl@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e79bb11b05dcf5 thread:19e79bb11b05dcf5	n/a	New event: Steven Levy and Halsey@minorventures.com @ Mon Jun 1, 2026 3:15pm - 4pm (EST) (halsey@minorventures.com)	halsey@minorventures.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e79bb1a67f9893 thread:19e79bb1a67f9893	n/a	New Event: Steven Levy - 01:15pm Mon, Jun 1, 2026 - 45 Minute Meeting	notifications@calendly.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e846de87bdb2e5 thread:19e846de87bdb2e5	n/a	Accepted: Steven Levy and Halsey@minorventures.com @ Wed Jun 3, 2026 12:15pm - 1pm (EST) (halsey@minorventures.com)	steven@wired.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e79fb0f2207909 thread:19e79fb0f2207909	n/a	Accepted: Steven Levy and Halsey@minorventures.com @ Mon Jun 1, 2026 3:15pm - 4pm (EST) (halsey@minorventures.com)	steven@wired.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e8465ced37785c thread:19e8465ced37785c	n/a	New Event: Steven Levy - 10:15am Wed, Jun 3, 2026 - 45 Minute Meeting	notifications@calendly.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e846e7fdff51a6 thread:19e846e7fdff51a6	n/a	Declined: Canceled: Steven Levy and Halsey@minorventures.com @ Mon Jun 1, 2026 3:15pm - 4pm (EST) (halsey@minorventures.com)	steven@wired.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e84734f5963ec7 thread:19e79827e9a6a9c5	n/a	45 Minute Meeting - Halsey@minorventures.com	stevenl@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e846eb75ed06ef thread:19e846eb75ed06ef	n/a	Canceled: 45 Minute Meeting with Steven Levy on June 1, 2026	notifications@calendly.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e792fcb42a8efb thread:19e792c3e87dce51	n/a	Ending email-induced confusion to save our time!	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:1a01fd7e7c732e5e thread:1a01fd0112d03e71	n/a	URGENT — SERVE ALL FOUR THIS WEEK — 26STCV25125 — addresses, service order, fee waiver, records order	halsey@realitylab.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a14a46ab63dc560 thread:1a14a46ab63dc560	n/a	'Who else are you supposed to call?' Sheriff accused of ignoring warnings before murder-suicide	newsletters@sfchronicle.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e8465b33c89b6c thread:19e8465b33c89b6c	n/a	New event: Steven Levy and Halsey@minorventures.com @ Wed Jun 3, 2026 12:15pm - 1pm (EST) (halsey@minorventures.com)	halsey@minorventures.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e8b90184ae6afa thread:19e8b90184ae6afa	n/a	Proposed new time: Steven Levy and Halsey@minorventures.com @ Wed Jun 3, 2026 12:15pm - 1pm (EST) (halsey@minorventures.com)	steven@wired.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19deb71b949eb025 thread:19deb71b949eb025	n/a	Norm Levy is in your phone contacts	notification@service.tiktok.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e76e76ce8563fc thread:19e76e32ac55c3cc	n/a	I would like my argument I would have made in 1998...	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:1a022b63621b5dcd thread:1a022b63621b5dcd	n/a	Court & legal inbox monitor — Minor v. Minor / 24STFL00432 — routine completed	no-reply-claude@mail.anthropic.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e75b677dc9852f thread:19e75b3ea1914f69	n/a	Let's pick a day and date.	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e8d9296d445ad8 thread:19e8d9296d445ad8	n/a	Updated: Steven Levy - 10:15am Fri, Jun 5, 2026 - 45 Minute Meeting	notifications@calendly.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e8d9210a23df4f thread:19e8d91cfd75b341	n/a	Updated invitation: Steven Levy and Halsey@minorventures.com @ Fri Jun 5, 2026 12:15pm - 1pm (EST) (halsey@minorventures.com)	halsey@minorventures.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e845f272f71716 thread:19e845d56fcaf466	n/a	I want you to score the chances of the companies c...	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19e76eb62632d810 thread:19e76e937bba8d51	n/a	Patent vs Prior Art and Web Impact. Phase 1 analysis. Non practical and distinctions ignored.	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19db6a17c238b06a thread:19db6a17c238b06a	n/a	Norm Levy posted: I've been breaking down the idea behind a story I wr...	notification@service.tiktok.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:19dd706f140313ad thread:19dd706f140313ad	n/a	Norm Levy posted: There was a real plan to send Lady Gaga to orbit and...	notification@service.tiktok.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:1a01fcb067325e9b thread:1a01fc775016ae06	n/a	Since Lance froze my funds, I get the sheriff to serve them for free, and I get to mail them. I am having forms filled out and addresses retrieved so you have a complete packet, and Lance kindly spared ...	halsey2005@gmail.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a081d833549efc3 thread:1a081d833549efc3	n/a	Automatic reply: Subject: URGENT: Case 2025-14983 — the detective says it went to the DA; the DA says it is not there. One deadline this week.	piupiu@doj.ca.gov	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19f10b1226528299 thread:19f10b1226528299	n/a	Norm Levy is in your phone contacts	newsletter@service.tiktok.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:1a081e80134bbc1c thread:1a081e80134bbc1c	n/a	Automatic reply: URGENT: Case 2025-14983 — the detective says it went to the DA; the DA says it is not there. One deadline this week. Time is running out with no action taken	piupiu@doj.ca.gov	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e79b61cb372912 thread:19e79b61cb372912	n/a	45 Minute Meeting	halsey@realitylab.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20
+gmail:msg:1a1933902d9258d9 thread:1a0dbce495976e56	n/a	PIU #1564601 — the dates, and what was done with the time: BHPD case 2025-14983, DA Case No. 46855335	halsey@realitylab.com	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a0b1871607e62c7 thread:1a0b18714af0897f	n/a	Reply from CA Attorney General; PIU #1564601	noreplypiu@doj.ca.gov	(sheriff OR "notice of levy" OR "writ of execution" OR levy OR garnish OR "memorandum of garnishee") after:2026/04/20 | from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e2bbb467fcc27a thread:19e2bbb467fcc27a	n/a	SF economist sounds Prop. D alarm	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a0da33eeb10a068 thread:1a0da33eeb10a068	n/a	A Hard Sell	heathercoxrichardson@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19f6b06b9b8cf388 thread:19f6b06b9b8cf388	n/a	The City's bold housing bet	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a0fcb82d798295e thread:1a0fcb82d798295e	n/a	Manny Yekutiel's campaign collapsed, but the reckoning isn't over.	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a168dced8f9b154 thread:1a168dced8f9b154	n/a	The school board race	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a01f7eb4fdcfa36 thread:1a01f7eb4fdcfa36	n/a	Here's what every city worker gets paid	newsletters@sfchronicle.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e5a141a9dce9ad thread:19e5a141a9dce9ad	n/a	The case for Becerra	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a0d7db30142c461 thread:1a0d7db30142c461	n/a	September 24, 2026	heathercoxrichardson@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e0d5e0424c22b2 thread:19e0d5e0424c22b2	n/a	Yankees Announce Aaron Judge Decision After Giancarlo Stanton News	newsletter@newsbreakpost.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e34cb4291e09d8 thread:19e34cb4291e09d8	n/a	May 16, 2026	heathercoxrichardson@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a17d4caac51ee27 thread:1a17d4c8688e243d	n/a	The Agentic Commerce Protocol Split	kenhuangus@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a130355d85b7d03 thread:1a130355d85b7d03	n/a	Survivors waited. Now, police promise change	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a010edff86e0f54 thread:1a010edff86e0f54	n/a	FOR IMMEDIATE RELEASE: OWASP Publishes Agentic Skills Top 10 v1.0	kenhuangus@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19eea4514d2e5d2c thread:19eea4514d2e5d2c	n/a	20,000 acres of protected wilderness	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19eee98862e1e90a thread:19eee98862e1e90a	n/a	SignalPulse Weekly Alert:	thetechbuzz@mail.beehiiv.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19dba50ccd30805e thread:19dba50ccd30805e	n/a	WCSO TN make fentanyl arrest	newsletter@newsbreakpost.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a1070128683d8a4 thread:1a1070128683d8a4	n/a	The View from Room 200: The art of Agnos	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a086ea9ed053755 thread:1a086ea9ed053755	n/a	Apple folds, at last!	futuretools@mail.beehiiv.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19ffb367d04749e3 thread:19ffb367d04749e3	n/a	An unlikely alliance takes aim at $120M housing measure	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e3b0a13c13f1fd thread:19e3b0a13c13f1fd	n/a	Cardwell Mountain Named State Archaeological Park	newsletter@newsbreakpost.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a06152a4013bc9d thread:1a06152a4013bc9d	n/a	Today's Headlines: Incumbent DAs in Suffolk and Middlesex counties declare victory; seven-person race in Norfolk not yet decided	newsletters@email.bostonglobe.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a06676a10f19ffc thread:1a06676a10f19ffc	n/a	Today's Headlines: Ed Markey did more than defend his Senate seat: What his primary win says about progressive Democrats' path forward	newsletters@email.bostonglobe.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e2c4b1955dd1b3 thread:19e2c4b1955dd1b3	n/a	The School Rebuilding Education for an AI World. Plus…	bariweiss@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a10da6892f5a2ca thread:1a10da6892f5a2ca	n/a	ChatGPT Can Now Help You Virtually Try On Clothes	mail@joinhorizon.ai	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e1c4a9c5c96833 thread:19e1c4a9c5c96833	n/a	The billionaire-candidate takeover	newsletters@sfexaminer.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19f40eb748cc8109 thread:19f40eb748cc8109	n/a	Today's Headlines: In the woods of Maine, searching for an answer to a ticking climate bomb	newsletters@email.bostonglobe.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e6f81291a3894e thread:19e6f81291a3894e	n/a	Woman gets ludicrous ticket for texting while driving even though she only has one hand	newsletter@newsbreakpost.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e5240230d4abf0 thread:19e5240230d4abf0	n/a	The Blackburn Report: Honoring the Men and Women Who Gave Their Lives for Our Nation	enewsletters@blackburn.senate.gov	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e73c4456198885 thread:19e73c4456198885	n/a	Crash closed Highway 11-E in Washington Co., left some without power	newsletter@newsbreakpost.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a07707b48ed001c thread:1a07707b48ed001c	n/a	Google's Flash Flood, OpenAI Adds Astra, and Claude's Newest Fable	thesignal@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a03d42c325da317 thread:1a03d42c325da317	n/a	Today's Headlines: Researchers seek answers about alpha-gal syndrome on Martha's Vineyard	newsletters@email.bostonglobe.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e50c4c3f26e4b4 thread:19e50c4c3f26e4b4	n/a	What is the policy to hire Xooglers at Google?	english-quora-digest@quora.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:19e0368bb1b494f9 thread:19e0368bb1b494f9	n/a	Stealth Startup Spy #337	stealthstartupspy@substack.com	from:lasd.org OR sheriff after:2026/04/20
+gmail:msg:1a015ef09efeb917 thread:1a015ea54d67aa43	n/a	IMPORTANT: ALLY BANKS ENORMOUS LEGAL EXPOSURE.	halsey2005@gmail.com	ally after:2026/04/20
+gmail:msg:19ff9b1d9e1db0fa thread:19ff9ae37151550f	n/a	VERY IMPORTANT	halsey2005@gmail.com	ally after:2026/04/20
+gmail:msg:19dd53381fe5ba15 thread:19db6054686d9103	n/a	International Wire Ally Bank	halsey2005@gmail.com	ally after:2026/04/20
+gmail:msg:1a020f587ce5495b thread:1a01688110d2c4b3	n/a	Do you have any idea	halsey@minorventures.com	ally after:2026/04/20
+gmail:msg:1a025b5aeb05ffb8 thread:19ff201e22b4e346	n/a	Minor Civil Case	halsey@minorventures.com	ally after:2026/04/20
+gmail:msg:1a1353beee8da448 thread:1a1353beee8da448	n/a	Action needed: Fix your Ally Bank account	hello@email.rocketmoney.com	ally after:2026/04/20
+gmail:msg:19dab402940432be thread:19dab402940432be	n/a	We got your wire transfer request	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19dac9bbeda3e831 thread:19dac9bbeda3e831	n/a	Action required: Call us to verify your wire.	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e182f86cfc96b3 thread:19e1731d79e4e60e	n/a	Action required: Call us to verify your wire.	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19db15b3936669ad thread:19db15b3936669ad	n/a	We completed your wire transfer.	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19db0bd583dcdf38 thread:19db0bd583dcdf38	n/a	Action required: Call us to verify your wire.	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e1891901cf381c thread:19e1891901cf381c	n/a	We completed your wire transfer.	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:1a12aef33f0bdcc0 thread:1a12aef33f0bdcc0	n/a	Ally Bank account disconnected	hello@email.rocketmoney.com	ally after:2026/04/20
+gmail:msg:19e0a408c1982368 thread:19e0a408c1982368	n/a	We got your wire transfer request	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19db13862797d4ff thread:19db13862797d4ff	n/a	We're processing your wire transfer	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e189169a9747c5 thread:19e189169a9747c5	n/a	We're processing your wire transfer	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:1a17ed45d9e4638e thread:1a17ed2796c9d5eb	n/a	Hardship accommodation request — Account 399530065	halsey2005@gmail.com	ally after:2026/04/20
+gmail:msg:1a016b0b544067eb thread:1a012676d947f92f	n/a	Court & legal inbox monitor — Minor v. Minor / 24STFL00432 — routine completed	no-reply-claude@mail.anthropic.com	ally after:2026/04/20
+gmail:msg:1a17ea2c28396456 thread:1a17ea2c28396456	n/a	URGENT: Formal hardship accommodation request — frozen bank funds — Account 399530065	halsey@realitylab.com	ally after:2026/04/20
+gmail:msg:19ddf99500aa2af9 thread:19ddf99500aa2af9	n/a	Important Information Regarding Your Ally Bank Card	fraudservicecenter@alerts.allybank.com	ally after:2026/04/20
+gmail:msg:19df908097ea69bb thread:19df908097ea69bb	n/a	Stay on top of the latest scams	email@alerts.ally.com	ally after:2026/04/20
+gmail:msg:19db138d7f4b4c8b thread:19db138d7f4b4c8b	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19db9d2992c7a08c thread:19db9d2992c7a08c	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e296ef0a2d2a2f thread:19e296ef0a2d2a2f	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e20b84c11c1471 thread:19e20b84c11c1471	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e18917e5aadc90 thread:19e18917e5aadc90	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19e46d607b14f823 thread:19e46c47d9facfb2	n/a	We declined your transaction.	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19dd71cc56fcf007 thread:19dd71cc56fcf007	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19ddfcba5c771acd thread:19ddfcba5c771acd	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19de388ded571784 thread:19de388ded571784	n/a	A recent debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:1a18153af5f0efb5 thread:1a18153af5f0efb5	n/a	October 27, 2026	heathercoxrichardson@substack.com	ally after:2026/04/20
+gmail:msg:1a17f05371796f7d thread:1a17f05371796f7d	n/a	Upgrade Inc	complaint@upgrade.com	ally after:2026/04/20
+gmail:msg:1a0e11e1cabdbfe3 thread:1a0e0fdb56617122	n/a	Buddy, If you have time tomorrow, I'd also love to talk about what you're doing. I have the $50k, civil lawsuit ($2.5 mm x3 plus $ up to infinity) for what the family did to me and it could be enormous, given ...	halsey2005@gmail.com	ally after:2026/04/20
+gmail:msg:19e1ced1eeb15c8d thread:19e1ced1eeb15c8d	n/a	A pending debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19db6446793af016 thread:19db6446793af016	n/a	A pending debit is above the transaction amount you set	email@alert.ally.com	ally after:2026/04/20
+gmail:msg:19ed78d4b43e914a thread:19ed78d4b43e914a	n/a	My Ally Update: Halsey, get your latest account snapshot inside	email@email.ally.com	ally after:2026/04/20
+gmail:msg:1a03e4d7848af094 thread:1a03e4d7848af094	n/a	Halsey, ready for three months of fee-waived personal guidance?	email@email.ally-invest.com	ally after:2026/04/20
+gmail:msg:19ec16f4df290ade thread:198c4b42810e3944	n/a	Fwd: NIMPORTANT NEW MOTION 3 -- NEEDED TO RENAME EXHIBITS, SKIPPED A LETTER	halsey2005@gmail.com	"EJ-150" OR "EJ-130" OR "WG-" after:2026/04/20
+drive:1gLw_16kXvW9-LZz-kAsROuBJ6YnAU0hz	2026-10-02	chart-h-sheriff-license-audit.png	n/a	title contains 'sheriff'
+drive:1F3QRygtkNl8n3SMsQL7uLN13ldyDD0wH	2026-10-02	chart-e-sheriff-force-costs.png	n/a	title contains 'sheriff'
+drive:13gVinHd3yOwGIiWxgiu4HaF5_-NtOoyR	2026-10-02	chart-e-sheriff-force-costs.png	n/a	title contains 'sheriff'
+drive:1xKJ0v03IN-lqy3QScwPnITzITs23lLCb	2026-10-02	chart-i-sheriff-license-recipients.png	n/a	title contains 'sheriff'
+drive:1JA8ZWYisUC5UCHsFslgGrfSLqopp6ZNY	2026-10-02	chart-i-sheriff-license-recipients.png	n/a	title contains 'sheriff'
+drive:1kLYacGlpsILgs8BMlVn5BeaoRHl0wDJS	2026-10-02	chart-h-sheriff-license-audit.html	n/a	title contains 'sheriff'
+drive:1h2GXwvfIFcoiGdEm5IinuQ5LkO-g_mVQ	2026-10-02	chart-h-sheriff-license-audit.html	n/a	title contains 'sheriff'
+drive:1H3FWawdpfd-Xz9kwIHTlaB87rnhy4Rnd	2026-10-02	chart-h-sheriff-license-audit.snippet.html	n/a	title contains 'sheriff'
+drive:1Z8n7xG6eh6DVMAP3ClbycuPRYzuqaZdG	2026-10-02	chart-e-sheriff-force-costs.html	n/a	title contains 'sheriff'
+drive:1PKon75HAXA_uMiRLQEJY3DFr4FyQee7n	2026-10-02	chart-h-sheriff-license-audit.snippet.html	n/a	title contains 'sheriff'
+drive:1O5SUCBWzo5UmgOhdMEqnysYh1ATnfyVT	2026-10-02	chart-e-sheriff-force-costs.snippet.html	n/a	title contains 'sheriff'
+drive:1s9JZZUvXo_PsW_x2VamoWqyxSoFXjOVv	2026-10-02	chart-e-sheriff-force-costs.html	n/a	title contains 'sheriff'
+drive:1ZijErIb1syK1P7T-Gygt2_cgx7w-Hhob	2026-10-02	chart-e-sheriff-force-costs.snippet.html	n/a	title contains 'sheriff'
+drive:1mJ8u_0mXFul8NmQvm6RHcIBd-AfCvnzB	2026-10-02	chart-i-sheriff-license-recipients.html	n/a	title contains 'sheriff'
+drive:1Dfr9dOlM7UwMZHUE_alecgDNYN6sFJ9q	2026-10-02	chart-i-sheriff-license-recipients.snippet.html	n/a	title contains 'sheriff'
+drive:1-nLYIUvJtTGbiqNMYxExBpnDtocW9lBu	2026-10-02	chart-h-sheriff-license-audit.svg	n/a	title contains 'sheriff'
+drive:1uaQ3Ij_G4z7Ef5Ls6x9GuIboeRXIi1E5	2026-10-02	chart-e-sheriff-force-costs.svg	n/a	title contains 'sheriff'
+drive:1GFE88oZwSd-vlVja6s9GK3A0nr15Mq6f	2026-10-02	chart-i-sheriff-license-recipients.svg	n/a	title contains 'sheriff'
+drive:130oCLRIgtVKJHm1a9mqCw5c1SBpKW2gc	2026-10-02	chart-i-sheriff-license-recipients.svg	n/a	title contains 'sheriff'
+drive:1KyS5rggXLR7s8u5_19-EM8Up9mu8SUWZ	2026-09-02	2010-05-18__bwgfirm.com__Sotheby_s_ Sheriff_Marshal in City of NY - Execution (2).PDF	n/a	title contains 'sheriff'
+drive:1T0L6S18PeSrQKxhlAtniz-M2x4LV36FbLqI2UEP4C-E	2026-08-21	MINOR CASE — DOCKET ALERT 2026-08-21 (17:05 UTC run) — SCHWENKE'S SHERIFF/FEE-WAIVER ANSWER CONFLICTS WITH LASD'S OWN PUBLISHED FAQ	n/a	title contains 'sheriff'
+drive:1CDskwQnf5XhO-XL7yG6F4H-8CrtnB7DE	2026-01-26	Cxt4Ej4yoD.icon	n/a	title contains 'EJ-'
+drive:1aZWg1EASKifG_-p-nCUMGTVcHo2o8r-g	2026-01-26	4oEjEIvSmh.null	n/a	title contains 'EJ-'
+drive:1Vy_cwUqVhpjYZRmsbjCt59ziUjFsPEcP	2026-01-26	aOrEj7Tbad.null	n/a	title contains 'EJ-'
+drive:1e0Tsmj_BayveX9PwMQABcj4b0ywuDP3Q	2026-01-26	ej1Rn3Qvdl.null	n/a	title contains 'EJ-'
+drive:1LnCIEtIIASTTGCP7K3-X6dTl2XFXa_We	2026-09-06	2008-07-25__vosegalleries.com__Goodwin 34759 e.JPG	n/a	title contains 'EJ-'
+drive:11OPrERyElORfb2Xfesu2OKPL3SKXJo4A	2026-09-06	2008-07-25__vosegalleries.com__Hawthorne 35103 e.JPG	n/a	title contains 'EJ-'
+drive:1psdiQx1_vDP0seMLbX1yHMu-KC4H_T2R	2026-09-06	2008-07-25__vosegalleries.com__Curran 34316 e.JPG	n/a	title contains 'EJ-'
+drive:1WvwGsF6C1xrutsOU0KwlAhAmVGs0gFOn	2026-09-06	2008-07-25__vosegalleries.com__Perry 34870 e.JPG	n/a	title contains 'EJ-'
+drive:12ueoLoCTRau-cWOQDOCy61IAwsfkwGvE	2026-09-06	2008-07-25__vosegalleries.com__Wendel 31537 e.JPG	n/a	title contains 'EJ-'
+drive:1TdnixHr2RvxyDmWnwS1ADfD34lfs6kkz	2026-09-06	2008-07-25__vosegalleries.com__Hale 35102 e.JPG	n/a	title contains 'EJ-'
+drive:1Kd3ToQDzQf3Qv36dBxpduPhEU2afKICx	2026-09-06	2008-07-25__vosegalleries.com__Hale 34576 e.JPG	n/a	title contains 'EJ-'
+drive:1fBA1y7hJudyk6rl23NJsnKxmkM6TSSVa	2026-09-06	2008-07-25__vosegalleries.com__Potthast 35087 e.jpg	n/a	title contains 'EJ-'
+drive:1Du7_d7ag_WdeWXX-LtLEG5QMwlOaGvWd	2026-09-06	2008-07-25__vosegalleries.com__Mulhaupt 34871 e.JPG	n/a	title contains 'EJ-'
+drive:1yNfcQtypDXkZQjUDRjvf0P14_VYb5D2c	2026-09-06	2008-07-25__vosegalleries.com__Hassam 34960 e.JPG	n/a	title contains 'EJ-'
+drive:1ADqZUqxNEiaMQvT5Ki-5rVxs8ssYJaXB	2026-09-06	2008-07-25__vosegalleries.com__Hassam 34957 frame e.JPG	n/a	title contains 'EJ-'
+drive:1IQF52gwrS7NmizSoR0H5sqUUtBPlIdx6	2026-09-06	2008-07-25__vosegalleries.com__Hassam 34957 e.JPG	n/a	title contains 'EJ-'
+drive:19SN1SLzyZq9DCQJykm7Mg5p8PJk5YfMa	2026-09-06	2008-07-21__vosegalleries.com__Tarbell 33616 frame e.JPG	n/a	title contains 'EJ-'
+drive:1mjvJ4lypN3udLCyxwvgkcwKmJvdyrGJZ	2026-09-06	2008-07-18__vosegalleries.com__Tarbell 33616 e.JPG	n/a	title contains 'EJ-'
+drive:16YbIw7S71EdhZVAOhUh27RjZFvy70uj7	2026-09-01	2010-12-08__hotmail.com__Holiday Card 2010 e.jpg	n/a	title contains 'EJ-'
+drive:1LM1A2kRcR5UZfI4pmV8XPyg4pSM6tUps	2026-02-06	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1oGtbOFHSU6JV20u77YwHSfNzGXMSBNJO	2026-02-11	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1lygL-rVrrEJbociwGnKZ_nwfsRdVnmiu	2026-02-10	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:15Eb_-BKfOjJ4pokozz540T3HRy1PVBNx	2026-02-07	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1hkLpNRmWrsDg32sSL5sZkMc2rjLKN0Tt	2026-02-08	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1S6qVnZZLAtPwciIfrJOJZbNuN5VG9cde	2026-01-30	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1N7jQEnIPLfwjZbmXQdn1mxy9d9NYuDGc	2026-01-27	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1YMedEkFfVQ0ZStWXfB5y7U3pTnTt8YhK	2026-01-29	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1zd7cmHMXbdlsGGTgSpjALj_4o_0vQhm7	2026-02-09	EJonasHedberg-current.docx.docx	n/a	title contains 'EJ-'
+drive:1GItxoiVaygx_K1LQjYlOX2ZMfDUnMrsShCk5jrgsNBQ	2012-07-03	EJonasHedberg-current.docx	n/a	title contains 'EJ-'
+drive:1XxnTBhoBfhJRvj98APPmXsWeQC9QSxW2	2026-09-03	2010-04-21__bwgfirm.com__2010-04-19 FINAL Phillips- Restraining Notice to Garnishee.pdf	n/a	title contains 'garnish'
+drive:1WQKXFs7Nr9K2C0W5F7Ue4VEknTKhM1c_	2026-09-03	2010-04-22__lynncahill.com__2010-04-19 FINAL Phillips- Restraining Notice to Garnishee.pdf	n/a	title contains 'garnish'
+drive:1JPT2zkGPrqr9aSYImWnyDs8CiJTkGWAc	2026-09-02	2010-06-14__bwgfirm.com__Halsey Sotheby_s Garnishment Summons.PDF	n/a	title contains 'garnish'
+drive:1uLAN-lgSiqR9rHEQQzDLujqOH8f2v-Lt	2026-09-02	2010-06-14__bwgfirm.com__Halsey Sothey Garnishment Summons issued hearing date 6_28_10 issed 5_21_10.PDF	n/a	title contains 'garnish'
+drive:1XqtmleVi3RpfCChezsaHZvOQS46UakHX	2026-09-02	2010-06-14__bwgfirm.com__Halsey Sotheby Garnishment Summons issued 5_21_10 hearing 6_28_10 (2).PDF	n/a	title contains 'garnish'
+drive:1wVySa8-fQZMKE8vuqN0h4H0GgnMLPsi4	2026-09-09	2006-06-09__prestongates.com__Note  Warrant Purchase Agreement -June 2006 (2).DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1fLrHWYQ7lyojPBclWo_AMW_lluMg68H_	2026-09-08	2007-03-16__kareo.com__Kareo -- AWC of Board Authorizing Equipment Line and Amendment to Articles.doc	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1qI6afSjqep4VEvjI3AkdzNEYCmCsSwdH	2026-09-05	2009-04-18__minorventures.com__Paxfire _ Form of Warrant (4_1_09).doc	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1wVVCgjE4fWhL3iMeVqQQ7afZohHqPm7q	2026-09-05	2009-04-17__paxfire.com__Paxfire _ Form of Warrant (4_1_09).doc	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1qh66rDkZDWfqMdlvut65e0BsMRXe25FR	2026-05-31	This document is a criminal complaint requesting an arrest warrant for Lance Spiegel Esq. based on evidence of computer crimes, evidence tampering, and conspiracy related to family law proceedings and digital evidence manipulation..pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1VA5-3aGpfMSlKkQzRZ7CM-lE-0d9r2p0	2026-05-31	This document is a criminal complaint requesting an arrest warrant for Lance Spiegel Esq. based on evidence of computer crimes, evidence tampering, and conspiracy related to family law proceedings and digital evidence manipulation..pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1D9rCxHjt2eVPQ-yN3DyS29smm1-Gom9E	2026-05-31	This document is a criminal complaint requesting an arrest warrant for Lance Spiegel Esq. based on evidence of computer crimes, evidence tampering, and conspiracy related to family law proceedings and digital evidence manipulation. 2.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1zouAKy3deX9f3E9GMRvCVnLwgf1Kf8iw	2026-09-01	2011-01-18__gunder.com__AWC Managers 8-22-08.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1FXLROUpF8mbk-HEmyK1XLTqEMNOAK0JP	2026-08-31	2011-04-20__minorventures.com__AWC Managers 8-22-08.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1usaVdbLH5S1aL9iNnXBRbAIGIqi3z8Ig	2026-08-31	2011-03-17__minorventures.com__AWC Managers 8-22-08.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:19SYXFHLkDKvqT9YmCTfnogDha0TwRtmB	2026-08-29	2012-07-15__minorventures.com__Minor Studios - Note and Warrant Purchase Agreement.DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1zE_qDadDGo2Tb83EB8V_sA-6_YMLSuEl	2026-08-29	2012-07-14__gunder.com__Minor Studios - Note and Warrant Purchase Agreement.DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:18l98QYrxhb-wf9M-_e5HlTptY75VV92K	2026-08-29	2012-07-16__earthlink.net__Minor Studios - Note and Warrant Purchase Agreement.DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1Puofcs496ABLwGFtj1x0oX8ZZV5NDV4W	2026-08-29	2012-07-16__gunder.com__Minor Studios - Note and Warrant Purchase Agreement.DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1WTdODqZ5cLDLQGki3_3peuXmUhXCpT7l	2026-08-29	2012-07-18__gunder.com__Minor Studios - Note and Warrant Purchase Agreement ($20M).DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1YBZBB3M8LP9k5GU0F0BuTtVi9517pMRi	2026-08-29	2012-07-17__gunder.com__Minor Studios - Note and Warrant Purchase Agreement ($3M, Optional Conversion).DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:11ixI3eEmUtPiMxP3Ky8kj5bRlf6zDmrX	2026-08-29	2012-07-18__gunder.com__Note and Warrant Purchase Agreement ($20M) (Marked).PDF	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:13vA-DdVn_WNQaUdQROariJuEGsHyM2xS	2026-08-29	2012-07-18__gunder.com__Minor Studios - Note and Warrant Purchase Agreement ($3M, Optional Conversion).DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1wCgrfshMDH9nDvz05WGt_ufxxYQvN543	2026-08-29	2012-07-24__minorventures.com__Minor Studios - Note and Warrant Purchase Agreement ($3M, Optional Conversion).DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1Uv3GFphXvjSZAT87WGRMHG52t7wjAsiu	2026-08-29	2012-07-24__gunder.com__Minor Studios - Note and Warrant Purchase Agreement ($3M, Optional Conversion).DOC	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1ThIeHmEhRgGg2IZNfds4B_ZF0XPARBbH	2026-08-29	2012-07-17__gunder.com__Note and Warrant Purchase Agreement (Marked).PDF	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1joxm07wJaey4PJr8fqRX0UuNd0N-ppGY	2026-08-29	2012-07-18__gunder.com__Note and Warrant Purchase Agreement ($3M Marked).PDF	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1f6QvPP63IJtj8lge_Nro_DIsuXXogWff	2026-08-29	2012-10-08__minorventures.com__Minor Studios Interactive - Note and Warrant Purchase Agt.PDF	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1zaLTdp6P8kLnTs1hpf97241wv9KFRxro	2026-09-04	2009-12-21__minorventures.com__Scout Stockholder Consent (SVB Warrant, COI).doc	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1aRN4vuIFpGxZxgvE9QQE0k2mwbBYncYA	2026-09-04	2009-12-21__scoutlabs.com__Scout Stockholder Consent (SVB Warrant, COI).doc	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1WKjSKfds-SNHpHHc1vi-cnpUfR2dkqHR	2026-09-03	2010-02-03__bwgfirm.com__20100203144117204.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:18vRd7DgOpa1Qv02r8GS_IU7U61WwXOLI	2026-08-31	2011-04-20__minorventures.com__Warrant.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:1sy43QeZhzUc3jjwBkXq7thG9TgGShLtr	2026-08-31	2011-03-17__minorventures.com__Warrant.pdf	n/a	fullText contains 'writ of execution' and createdTime > '2026-04-20T00:00:00Z'
+drive:11rCGwrv73zGiKAKNqPgj75MDgqcJtrur	2026-08-30	2011-09-15__minorventures.com__Minor_POA.PDF	n/a	fullText contains 'Notice of Levy'
+drive:1UmmbznUJxBajnMrVwjxh1WNGxbeUWrbn	2026-09-01	2010-11-24__minorventures.com__2348_001.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1liDz6JeCwQJ0HQ_NQfoLmthlHt030ZWN	2026-08-25	2018-02-21__nardiellolaw.com__Minor - Form 12153 CDP Request.pdf	n/a	fullText contains 'Notice of Levy'
+drive:12xfZZcnMBkgyiNJFAjkHHL-2q08aIszb	2026-08-25	2018-03-14__nardiellolaw.com__Minor - Form 656-L Narrative (2008 tax year).docx	n/a	fullText contains 'Notice of Levy'
+drive:1pn_aDVJyUNvJfQObGV7S39TsRC17s-kI	2026-08-25	2019-01-14__nardiellolaw.com__Minor - 2009 Account Transcript.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1w8mellBcwmWsa3SKcbVFM0gyVVakTjYwu4PaZFwb2q8	2026-08-08	MINOR CASE — ACCOUNT FREEZE: SATURDAY ACTION SHEET 2026-08-08	n/a	fullText contains 'Notice of Levy'
+drive:1L2QgwH7hOH7Fax3BhaC752vemGHusAUS	2026-08-25	2018-02-26__nardiellolaw.com__Minor - CDP Submission - 2-26-18.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1U_YWGwE7KW5OzfrUed9yGg4NgDfabJ5h	2026-08-30	2011-10-05__minorventures.com__IRS Hearing Request Form12153_Completed.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1E0_OXsxJ_t7YS9AQeOwKmqCi2JVIpe9z	2026-08-30	2011-10-05__jgmlaw.com__IRS Hearing Request Form12153_Completed.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1IideErUBaYbKbOVEqoIbhcPVzel2eKu7	2026-08-25	2018-03-19__nardiellolaw.com__Minor - OIC Package - 3-19-18.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1p7zTkqUMsX6uGvbnpXoM0OIOk9RDYngS8lKc2bM8vXw	2026-08-26	MINOR CASE — DOCKET ALERT 2026-08-26	n/a	fullText contains 'Notice of Levy'
+drive:13xsrOuc6rV75F453it8jH5GqBEGhFOUd8eVpZJNJmNc	2026-08-14	MINOR CASE — DOCKET ALERT 2026-08-14	n/a	fullText contains 'Notice of Levy'
+drive:1LUT2AkndTbkH-Dkj_HLikpNtp7pCRN5pDfVCqktrxQc	2026-08-14	MINOR CASE — DOCKET ALERT 2026-08-14	n/a	fullText contains 'Notice of Levy'
+drive:1OXwG3S3vJ4PFb6uZSyohJ_nUgILmttVU	2026-09-01	2011-01-04__minorventures.com__minor.PDF	n/a	fullText contains 'Notice of Levy'
+drive:1ga1IaUaWjMiMbm0fyRpBWr9kzLqgOnT4	2026-09-01	2011-01-04__wtas.com__minor.PDF	n/a	fullText contains 'Notice of Levy'
+drive:1c3QxeCIwJmV0Q2OfkVHVTR9VDm_pUFKq	2026-08-30	2011-11-22__jgmlaw.com__2011-11-15 IRS Ltr re Settlement Call.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1OCA3y_S1s5U3XW-x0Lqt-dVCSmIz41is	2026-08-30	2011-11-21__jgmlaw.com__20111121151718132.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1GS3L3KJKVqr6Jyqd1TdVp8hEeGSJYugU	2026-08-29	2012-08-14__minorventures.com__FTB MV 081412.pdf	n/a	fullText contains 'Notice of Levy'
+drive:12YLEVj6bo-RtAQMUHPI1uZ00OaVoV_SY	2026-08-27	2013-12-03__peitzmanweg.com__GGDOCS1-#1994746-v1-Minor_-_Signed_Letter_to_John_Cahill_and_Adam_Lewis.PDF	n/a	fullText contains 'Notice of Levy'
+drive:13CZhPaYO1wwjTHXtGfvt8Khd_3U3DSRv	2026-08-25	2018-02-21__robinskaplan.com__Redline CDP attachment.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1XR5IMgBljqxFG7OO0wRp05J2_HiFzW4t	2026-08-25	2018-02-21__robinskaplan.com__CDP request attachment.DOCX	n/a	fullText contains 'Notice of Levy'
+drive:1reE3I-K5EIm-VqrqwCrg6ELwgrXIQevo	2026-09-02	2010-09-03__bwgfirm.com__6-4-10 Ps and As re Funds Paid to BWG.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1eaL7mwi1naBjPOBMaXuvpMFgzwlI2bT2	2026-09-01	2010-10-03__minorventures.com__6-4-10 Ps and As re Funds Paid to BWG.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1Xpum6YnGsqsE4uzO7Bb2pfy-1bNbxv5_	2026-09-01	2010-09-04__bwgfirm.com__6-4-10 Ps and As re Funds Paid to BWG.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1POESKrP_R9vC4vPbBc1ILOGkljMtt7HY	2026-08-25	2018-02-21__nardiellolaw.com__Minor - CDP Request re 2009.docx	n/a	fullText contains 'Notice of Levy'
+drive:1kIoQ4lr7G7NBjX8YtJZHzLdpkYVfaEKg	2026-09-02	2010-07-15__bwgfirm.com__EXHIBIT 1 (2).PDF	n/a	fullText contains 'Notice of Levy'
+drive:15Jm4DCeoa15Ho85ld_uQC5WEYSqEXWSa	2026-08-31	2011-07-18__wsgr.com__Document.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1UOpAuijy2vDoJPM5eQNvWmXm_-a5BG_F	2026-08-30	2011-07-21__paxfire.com__Document.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1jSPuKtiLZdQmPyWWoeN48u1azT_Kkhtn	2026-01-26	GGDOCS1-#1994746-v1-Minor_-_Signed_Letter_to_John_Cahill_and_Adam_Lewis.PDF	n/a	fullText contains 'Notice of Levy'
+drive:1-sS1IilKt65bbsHp7ugk7xi9nZeIxarv8YxFbPBAWaE	2026-08-17	MINOR CASE — DOCKET ALERT 2026-08-17	n/a	fullText contains 'Notice of Levy'
+drive:1b2pZuG95kgmjMOFvSY9yABNWkiY1VXGZQILJckamA4o	2026-08-08	MINOR CASE — DOCKET ALERT 2026-08-08	n/a	fullText contains 'Notice of Levy'
+drive:1vOdiZDmMu5C9X48PLV9wK1o2yEvzSxXiVOKdQlRhvLg	2026-08-16	MINOR CASE — DOCKET ALERT 2026-08-16	n/a	fullText contains 'Notice of Levy'
+drive:1Z2GDuQxBh7bvTM8v0VphHCGR95ksGvTi	2026-08-25	2018-03-13__nardiellolaw.com__Minor - Form 656.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1umv8vEQuaJYqlw0lQqRKKXQtjKsQpLDs	2026-08-28	2013-06-11__minorventures.com__Additional tax notices.pdf	n/a	fullText contains 'Notice of Levy'
+drive:1PPWGxXgxn5x6oB4uz2adq3TSdzBpN6sFaxCszLQCnWw	2026-09-03	MINOR CASE — DOCKET ALERT 2026-09-03 (APPEAL IN DEFAULT — PRIOR "BLANK FORM" REPORT WAS WRONG)	n/a	fullText contains 'Notice of Levy'
