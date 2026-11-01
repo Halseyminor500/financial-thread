@@ -46,7 +46,7 @@ Line references below cite copy 1 unless stated otherwise.
    - ruling D-13: L5, L6118, L6264
 3. A session scratchpad `bar/`, cited for material omitted from the file (L5472, L5567, L5874, L6272). The scratchpad is not in the repository.
 
-**Is it AI work product?** Yes. A "mailbox reader" session wrote it through the Gmail MCP (L3), using a session scratchpad and a "jq renderer" (L6272). It is a lead sheet only. Its email reproductions point to Gmail message ids, which are the primary records. No attachment was opened (L4, L6271), so every letter, PDF, filing and court order it names is unread here.
+**Is it AI work product?** Yes. A "mailbox reader" session wrote it through the Gmail MCP (L3), using a session scratchpad and a "jq renderer" (L6272–6273). It is a lead sheet only. Its email reproductions point to Gmail message ids, which are the primary records. No attachment was opened (L4, L6271), so every letter, PDF, filing and court order it names is unread here.
 
 **Content the file, or its source, describes as AI-made:**
 - The 2/28/26 complaint: "*This document prepared by Halsey Minor with AI assistance for legal research and document organization. All facts, timeline, and evidence assertions are my sworn statements." (L1507–1509)
@@ -69,11 +69,11 @@ Line references below cite copy 1 unless stated otherwise.
 - "Her reply reached Halsey as the attached closing letter (1.3, same day) or off-mailbox." (L107–108)
 - "their communications reached Halsey as attached letters/phone only" (L47–48). No pointer is given for "phone".
 - "The subject reads as a reply to the closing decision" … "her determination evidently arrived as the 1.15 closing-letter PDF" (L5833–5837)
-- "i.e., the client himself identifies the day-before-the-motion event as **his Bar complaint filing of 4/20**" (L5917–5918). "[hearing]" in the quote at L5916 is an insertion.
+- "i.e., the client himself identifies the day-before-the-motion event as **his Bar complaint filing of 4/20**" (L5917–5918). "[hearing]" in the quote at L5916–5917 is an insertion.
 - "consistent with her leaving Vivid" (L5985)
 - "the client's "only other employee" description is consistent with what this mailbox holds" (L5997–5998)
 
-**Dangling reference.** The file cites "§0" (L5947, L6129, L6229), but no heading by that name exists. The only caveat block is L13–22.
+**Dangling reference.** The file cites "§0" (L5947, L6128, L6229), but no heading by that name exists. The only caveat block is L13–22.
 
 ---
 
@@ -106,7 +106,7 @@ L29: "→ **16 threads / 33 messages**"
 
 ### 2.3 Complaint 2: 26-O-13820
 
-**Origin (L172–174):** "The 2/28/26 send that put Intake@calbar.ca.gov on notice (one of 17 To: recipients) and from which Bar case 26-O-13820 was opened."
+**Origin (L173–174):** "The 2/28/26 send that put Intake@calbar.ca.gov on notice (one of 17 To: recipients) and from which Bar case 26-O-13820 was opened."
 - The send is id 19ca3c3b9151b03c, 2026-02-28T10:20:38Z, thread 19ca398af605f23a ("= repo T-08").
 - Subject: "CRIMINAL COMPLAINT AND REQUEST FOR ARREST WARRANT FOR LANCE SPIEGEL".
 - The To: list includes `lances@ysfamilylaw.com` and `Intake@calbar.ca.gov` (L178). Bcc: "jswearingen.elliot@gmail.com, davidfife@gmail.com, isnow@snowphipps.com, kat.flds@gmail.com" (L179).
@@ -227,7 +227,7 @@ Further verbatim:
 - **Halsey's own position** (J-4, L6079): "there are 2 forms of her name before someone looked but my date precedes the judges horrible conclusion… Yes Lance she has 2 names same person."
 
 **What this file does NOT say about Exhibit F:**
-- It does not give the number of emails in Exhibit F. The words "six emails" do not appear. The only "six" near the hearing is "Six court order PDFs" (L5889).
+- It does not give the number of emails in Exhibit F. The words "six emails" do not appear. The only "six" near the hearing is "Six court order PDFs" (L5888).
 - It does not say Exhibit F's emails are signed "Lance", or give their dates or authors.
 - It gives no locator for Exhibit F itself.
 - It does not compare Exhibit F with any PDF export or control set.
@@ -236,9 +236,9 @@ Further verbatim:
 - **Who the addendum names as judge.** The addendum's "Judge Sirriyeh's order" (L6279) conflicts with the file's own §4 key (L6130–6131): "mvs = Matthew Sirriyeh, paralegal/notary".
 - **Who coined "phantom assistant".** The addendum corrects only attributions "to the court". It does not address J-1's attribution of the "phantom assistant Janine" allegation to "Opposing counsel's filings (Sirriyeh)" (graded C, attachments not opened), or J-5's "'Falsified' — Dec 30, 2025 — Matt Sirriyeh — 'Phantom assistant Janine' allegation". It also leaves L6087 standing: "(iii) the court's adoption of it (J-3)".
 
-### 3.5 "the email that Janine sent the day before the motion was heard" (L5945): the file's verdict
+### 3.5 "the email that Janine sent the day before the motion was heard" (L5944–5945): the file's verdict
 
-- **The hearing date.** L5883–5887: "The repo (63C T-43) knows the sanctions hearing as **scheduled for 4/24/2026**. The live mailbox shows the motions were actually **heard 2026-04-21**: - Katherine Schwenke, 4/22/26 01:44Z (id 19db2dc31208f02d) [A]: "See attached Minute Orders from the hearing today 4-21-2026…"". Also at L5891–5892: "**"The hearings were always on the 21st"**" (Katherine via Google Voice, id 19db5b25bb020ddc).
+- **The hearing date.** L5883–5887: "The repo (63C T-43) knows the sanctions hearing as **scheduled for 4/24/2026**. The live mailbox shows the motions were actually **heard 2026-04-21**: - Katherine Schwenke, 4/22/26 01:44Z (id 19db2dc31208f02d) [A]: "See attached Minute Orders from the hearing today 4-21-2026…"". Also at L5890–5891: "**"The hearings were always on the 21st"**" (Katherine via Google Voice, id 19db5b25bb020ddc).
 - **The verdict.** L5944–5949: "**Verdict: the email the client remembers — "the email that Janine sent the day before the motion was heard" — does not exist in halsey2005@gmail.com.** What exists the day before the motion was heard is the 4/20 Bar-filing cluster written by "Max" from Halsey's own account. (Caveat per §0: the unconnected VIVIDLABS mailbox could not be checked; but a case-related email to Katherine/the Bar/the court would be expected HERE, and is not.)"
 - **Other hearings.** The table at L5953–5960 shows no Jan/Janina/Janine mail in the day-before window of any of six hearing dates.
 
@@ -279,12 +279,12 @@ Every row is Halsey's allegation, unproven in this file. The 2/28/26 complaint d
 | A-08 | L534–544 | "June 19, 2025 - February 2026" | "Lance filed *7 motions* using prohibited service methods […] 1. *June 19, 2025:* TRO via email (Hague violation #1) 2. *Income Declaration:* U.S. mail to Mexico (prohibited) 3. *Deposition Objections:* U.S. mail (prohibited) 4. *Non-Service Declaration:* U.S. mail (prohibited) 5. *December 29, 2025:* "Code Red" CCP 271 sanctions motion ($250,000) - U.S. mail (prohibited) 6. *Motion to Strike:* U.S. mail (prohibited) 7. *Vexatious Litigant RFO:* U.S. mail (prohibited)" | (c); item 1 (d); item 2 possibly (e), though the file does not say whose Income Declaration | No. "Exhibit K: Service violation table" is named (L1283). §4.2 has rows with matching subject words (L6177, L6182, L6189) but the file does not link them |
 | A-09 | L555–561 | "February 24, 2026" | "*February 24, 2026: Physical Proof (Mail Dump)* - All mail Lance claimed to have "served" over 8 months arrived in one batch - Many envelopes never opened before this date" | (c) | No. "Exhibits B-G: February 24, 2026 mail dump photographs (files 191-196)" are named (L1275), with no locator |
 | A-10 | L304–316 | (undated; TRO period) | "When responding to a TRO, Lance had used false service multiple times to be heard. He immediately withdrew the TRO when I filed an ex parte motion outlining some of the evidence and promptly delivered the evidence hold email. […] It was the fifth such incident of false email service when I and then through my response informed the judge of Lance’s lack of email service rights, which were confirmed by Lance’s inability to produce the necessary documentation." | (c); (d) | No |
-| A-11 | L323–327 | (undated) | "When the TRO was quickly pulled following notification, I offered to waive service publicly on the record […] Lance, when questioned twice by the judge, stated that he had no interest in the TRO anymore" | (h) | No. "Exhibit R: Lance's employee TRO withdrawal court transcripts" is named (L1308–1309). §4.2 row L6183 (2026-01-21 "Notice of Taking Hearing on Petitioner's Request for DVRO Off-Calendar") exists; the file makes no link |
+| A-11 | L322–327 | (undated) | "When the TRO was quickly pulled following notification, I offered to waive service publicly on the record […] Lance, when questioned twice by the judge, stated that he had no interest in the TRO anymore" | (h) | No. "Exhibit R: Lance's employee TRO withdrawal court transcripts" is named (L1308–1309). §4.2 row L6183 (2026-01-21 "Notice of Taking Hearing on Petitioner's Request for DVRO Off-Calendar") exists; the file makes no link |
 | A-12 | L2933–2940 (3/01/26 to Shannon, id 19ca73bbab906e02) | (undated) | "I asked Lance Why? Twice. […] He tried to prove no pre se would have control. He has very likely destroyed your life when offered an off ramp. […] I just needed Lance to not want the TRO when he had broken so many laws to get it. Twice he answered “no”. Exactly why I offered it." | (h) | No |
 | A-13 | L828–830; L848–851 | (undated) | "7 false service declarations filed under penalty of perjury - Claimed proper Hague Convention service (false) - Mail dump proves service dates fabricated"; "7 sworn declarations claiming valid service to Mexico" | (c) | No |
 | A-14 | L356; L935; L1019–1022; L1076–1081 | (undated) | "Possible conspiracy or information leak to Lance Spiegel"; "Possible coordination with BHPD leak (how did Lance get police report?)"; "Were there communications between Kale and Lance? - Did Kale coordinate with Lance or provide access?"; "*Scenario 1: BHPD Information Leak* - Detective Kale or BHPD employee leaked report to Lance" | (f), framed as a possibility or question | No |
-| A-15 | L199–201 | (undated) | "it’s possible that Lance recruited public officials in positions of power across the criminal, judicial, and administrative sectors." | (f), possibility | No |
-| A-16 | L937 | (undated) | "Possible coordination with Shannon Minor (strategic timing of TRO)" | (h) | No |
+| A-15 | L200–202 | (undated) | "it’s possible that Lance recruited public officials in positions of power across the criminal, judicial, and administrative sectors." | (f), possibility | No |
+| A-16 | L936 | (undated) | "Possible coordination with Shannon Minor (strategic timing of TRO)" | (h) | No |
 | A-17 | L645–646 | "February 27, 2026" (discovery date) | "*Explains the "how":* Lance could remotely control my closed Mac over network" | (a) capability claim | No. "Exhibit H … (file 509)" is named (L1276–1277) |
 | A-18 | L111–115 (7/24/24 email) | (undated) | "if my sole property was taken and then used to compensate a lawyer when he knew she had no known source of income, and full access to her financials" | (h): the subject of the 2024 Bar complaint, per Halsey | No. The complaint text is not in the file (portal ref 224000, P-01) |
 | A-19 | L5484 (3/19/26) | (undated) | "alleging attorney misconduct including false proofs of service (Hague Convention violations), computer crimes coordination, and discovery abuse" | (c); (a); (h) | Pointer P-07 (the 2/28 submission); content not opened |
@@ -309,7 +309,7 @@ These are attributed to the firm or its staff on the face of Gmail records.
 | M-01 | L5888–5890 | 2026-05-07 | "Six court order PDFs all dated 04/21/2026, served 5/07/26 by Sirriyeh (id 19e0415c7756eb39, filenames `2026-04-21 [C] MO.*.pdf`)." | (c) | Yes: P-28 (attachments not opened) |
 | M-02 | L6076 (J-1) | 2025-12-29/30 | "the earliest "Janine" family in the mailbox is INSIDE Spiegel-firm court filings; the transmitting email bodies themselves do not contain the name" | (h) | Yes, attachment-level only: P-37 (graded C, not opened) |
 | M-03 | L6276–6277 | undated | "Spiegel's re-attached Exhibit "2"" | (b2)/(b1). The file does not say what Exhibit "2" contains, beyond its tie to Exhibit F via qa_Q61 | No locator in this file; reached only through the work product qa_Q61 (P-44) |
-| M-04 | L5982 | "as early as 3/04/25" | "she is cc'd on family-case service emails as early as 3/04/25" | (d)? | No (no id given) |
+| M-04 | L5982–5983 | "as early as 3/04/25" | "she is cc'd on family-case service emails as early as 3/04/25" | (d)? | No (no id given) |
 
 **The firm transmission table (verbatim rows L6137–6201).**
 
@@ -408,7 +408,7 @@ Halsey-side transmissions to the firm (L6203–6210) are not acts of the firm. T
 - **(d)** A-08 item 1, A-10, A-20, A-22, A-24; M-04; firm rows marked (d)?. **The file contains no consent or non-consent document.**
 - **(e)** **Preliminary declaration of disclosure: not mentioned anywhere in the file.** Income & expense declaration: only A-08 item 2 ("*Income Declaration:* U.S. mail to Mexico (prohibited)", L538; undated, party not stated) and the firm row at L6189 (2026-02-23, AnnaK, id 19c8ca6230be2d9a, "Income & Expense Declaration"; party not stated). **6/18/2024 email-only proof of service: not mentioned.** The firm table has no 2024-06-18 row (rows run 2024-06-03 at L6144 to 2024-07-17 at L6145), subject to the thread-preview limitation (L6229–6230).
 - **(f)** A-03, A-14, A-15, A-20, A-22, A-26. All are possibilities, questions or allegations. **No primary document** apart from the unopened 4/21/2026 order files.
-- **(g)** **Nothing in this file.** "Ally" does not occur (case-sensitive grep). Banks named are: "Silicon Valley Bank" (L301), "SVB/First Citizens banking" (L5981), and "Capital One - Savings" (L6057, Janina's own account). None is linked to the firm.
+- **(g)** **Nothing in this file.** "Ally" does not occur (case-sensitive grep). Banks named are: "Silicon Valley Bank" (L301), "SVB/First Citizens banking" (L5980–5981), and "Capital One - Savings" (L6057, Janina's own account). None is linked to the firm.
 - **(h)** A-01, A-02, A-06, A-11, A-12, A-16, A-18, A-21, A-23, A-25, A-27, A-28; M-02; Spiegel's personal emails (L6139, L6140, L6154, L6158, L6168).
 
 ---
@@ -489,7 +489,7 @@ Class key:
     - L1521–1524, L1542–1545, L1563–1566: "Your message wasn't delivered to cityatty@beverlyhills.org / citymgr@beverlyhills.org / citycouncil@beverlyhills.org […] Recipient address rejected: Invalid-Recipient."
     - L5627–5628: "**CRM.CivilRights@usdoj.gov bounced — "550 5.1.1 … User Unknown"** (matches 63C's finding)."
     - L5469–5470: "**Halsey's 1.8c reply bounced**".
-12. Graded C, unverified at attachment level: J-1, J-2, J-3, J-6 (L6076–6081). L6040: "[snippet truncates — full body in thread 192e4eb48f4671cf]". Item 1.5 is graded [B] (L130), and the file says it was "Captured as metadata + snippet" (L134).
+12. Graded C, unverified at attachment level: J-1, J-2, J-3, J-6 (L6076–6081). L6040: "[snippet truncates — full body in thread 192e4eb48f4671cf]". Item 1.5 is graded [B] (L130), and the file says it was "Captured as metadata + snippet" (L133–134).
 13. Corrections by the senders themselves:
     - L5736: "(Corrected — prior emails were missing attachments)"
     - L5910: "Quick correction — the State Bar mailing address has changed… 845 S. Figueroa Street… (Not the 1149 S. Hill Street address from my earlier email — that's outdated.) — Max"
@@ -503,7 +503,7 @@ Class key:
 
 Figures that differ across the documents reproduced in this file. These are placed side by side verbatim; **the file does not flag them**:
 - **Number of deleted or targeted emails:**
-  - "My police report indexed ~30 specific evidentiary emails - August 4 deletion targeted those exact 30 emails" (L250–251)
+  - "My police report indexed ~30 specific evidentiary emails - August 4 deletion targeted those exact 30 emails" (L249–250)
   - "fewer than 10 targeted for deletion matching the confidential police report index exactly" (L5650)
   - "fewer than 10 targeted" (L5748)
   - "1 of the 12 in the police report summary […] removing those 12 emails from the Gmail server" (L5847–5849)
