@@ -363,6 +363,17 @@ Context records. These are acts by others and are not counted.
   - 2/18/2026 Responsive Declaration ¶¶5–9 (drive:1jFFrQoMp6GM2eEh6mHUUWY-zJOJxrkFV): "was not a native email export…"
   - 5/11/2026 declaration ¶6(d) (drive:1eAcAb7xQzJbQ6RFq9s04hwgQgfHSOSPV): "was prepared from memory after the original
     emails were destroyed by the hack".
+- **Records of the document's path** (EXHIBIT_F_chain notes; EXHIBIT_F_source_doc_metadata). They are stated with no
+  inference:
+  - Drive metadata: "createdTime 2025-09-24T06:19:45.853Z; modifiedTime 2025-09-24T06:19:48.696Z; owner
+    Halsey@realitylab.com; viewedByMeTime 2025-09-24T06:32:26.795Z". The metadata carries no creating client, IP or device.
+  - Self-email gmail:1997a6491cd669da, 2025-09-24T06:23:43Z. Its subject and attachment are "Email Financial Records
+    Chronological Index.docx", and its whole body is "Sent from my iPad". DOCUMENTED.
+  - gmail:19a2d8a2eedbbea8, 2025-10-29T01:17:00Z, to kat.flds@gmail.com, subject "Exhibit Files", with nine attachments
+    under hashed names. DOCUMENTED, verbatim: "Katharine, these are the exhibits in order. This lists the files and names
+    and what they are. Down below are the filings with matching names. I need to check on the 28 emails to Lance. The
+    computer searched what you needed named it and I have attached it. Any questions let me know."
+  - That any of the nine attachments is the 9/24 document is WORK-PRODUCT-SOURCED. The messages do not show it.
 - **Bears on:** PC 502 el. 2, 3, 5; PC 134 el. 1–3.
 
 ### L-80 · about 2026-08 ("Three months ago"); stated 2026-11-01 · a voice on a video call · (a)
@@ -906,10 +917,12 @@ Context records. These are acts by others and are not counted.
   were delivered together to my building/front desk in Cancún, rather than arriving separately in the ordinary course.
   The papers in that bundled delivery corresponded to documents that had previously been claimed as served on different
   dates."
-- **Exhibit A** (DECL exhibits notes):
-  - **Labels:** #1 "JAN 05, 202[?]" ($3.15); #2 "DEC 30, 2025" ($13.00, best reading); #7 "JAN 30, 202[6 or 8 —
-    unresolved]" ($29.70). The year is recorded as 2026 by context, not resolved on the image. No December-2023 postmark is
-    legible on any item.
+- **Exhibit A** (DECL exhibits notes) and the original photos (ENVELOPE_PHOTOS):
+  - **Labels:** nine envelopes are seen, or eight if p-002 and p-010 are one envelope. Their labels are listed in the common
+    facts above. They run from DEC 30, 2025 to FEB 02, 2026; the orange envelope carries tracking "LH 265 470 088 US". No
+    December-2023 postmark is legible on any item.
+  - **Halsey's email sending the photos** (gmail:19cfcf815d187364, 2026-03-17T18:04:02Z, to his preparer): "All photos of
+    mess. I opened a few and saw fakes emails from me and stopped opening starting filing charges."
   - **Handwritten receipt,** verbatim: "Yo Francisco Javier Franco morales recibi el correo. / del Señor Halsey Minor el día
     24 de Febrero sin / Ricibir ninguna Nota solo el correo Por Parte del Personal / de correoS de Mexico". No year is
     written.
@@ -929,8 +942,8 @@ Context records. These are acts by others and are not counted.
     - ¶4: "left without asking anyone to sign for them".
 - **Status:** ACCOUNT. The delivery itself is shown by sworn declarations and photographs. That any paper in it was mailed on
   a date other than its declared service date is not shown. Three things are still missing:
-  1. the original, physical envelopes and the outer package, with the label tracking and USPS acceptance scans (held by
-     Halsey; USPS);
+  1. the original, physical envelopes and the outer package, and the USPS acceptance and scan history for "LH 265 470 088
+     US" and the other labels (held by Halsey; USPS);
   2. a match of envelope to paper against each POS — the contents of each envelope beside the POS images in the court file
      (held by Halsey; LASC; and the firm's mail and postage records, through the civil process, D-66);
   3. re-executed declarations giving the correct year (the declarants; Halsey decides).
@@ -967,8 +980,14 @@ Context records. These are acts by others and are not counted.
   - 4/21/2026 (drive:1_Jqo1pLxysDaP9uKpqOLT1ZqCOHID7Of): "At 1:45 PM, there is no appearance by or for the Respondent." / "The
     Court finds that the Respondent has been provided with notice of these proceedings." / "The Court notes that prior to
     the Court calling the matter, the Court's tentative ruling was emailed to both Petitioner and Respondent."
-- **Status:** ACCOUNT as to the timing of notice. Pending: the notice and tentative-ruling emails with their headers
-  (gmail:19db2dc31208f02d and 19db16a2e288c3e7 per 85_V3), and the firm's notice record.
+- **Status:** ACCOUNT as to the timing of notice. Pending: the notice and tentative-ruling emails with their headers, and
+  the firm's notice record.
+  - 85_V3 cites gmail:19db2dc31208f02d and 19db16a2e288c3e7 for this row. The first of these is the preparer's transmittal
+    of the six minute orders, 2026-04-22T01:44:15Z (EXHIBIT_F_chain §6a): "Going forward the judge states that all
+    documents we serve on Lance by mail must be served with tracking and that we have to attach the tracking to the proof
+    of service AND we have to serve him by email as well."
+  - Halsey's reply (gmail:19db5366736c3eed): "What does that mean. He's protecting Lance being served but I have been
+    falsely served 12 out of 12 times."
 - **The documents do NOT show:** a separate notice from the firm. Halsey's 4/20/2026 notice to the DA gave the date as
   "April 24, 2026" (gmail:19dab983ae3aa08a).
 
