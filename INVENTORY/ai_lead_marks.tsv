@@ -1,0 +1,24 @@
+pointer	class	basis
+tracker:governance/matters/04_criminal_bhpd_2025-14983/POLICE_REPORT_SOURCE/0_PROMPT_FOR_GEMINI.txt@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename); name:GEMINI
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/63G_AI_ARTIFACT_SWEEP.md@6f5d8b0	AI-LEAD	name:standalone AI token
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/81B_LANCE_KEYWORD_SWEEP.md@6f5d8b0	AI-LEAD	name:81/81B/81C extract
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/81C_LANCE_LITIGATION_CONDUCT.md@6f5d8b0	AI-LEAD	name:81/81B/81C extract
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/81_LANCE_ARTIFACTS_EXTRACT.md@6f5d8b0	AI-LEAD	name:81/81B/81C extract
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/0_PASTE_THIS_INTO_GEMINI.txt@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename); name:GEMINI
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/10_WHERE_MY_ANALYSIS_LEANED_HER_WAY.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/1_THE_FACTS_OF_THE_CASE.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/2_ERRORS_TO_NOT_REPEAT.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/3_HOW_TO_CHECK_THE_WORK.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/4_WHICH_DOCUMENT_PROVES_WHAT.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/5_WHERE_EVERY_DOCUMENT_IS.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/6_THE_CASE_AGAINST_HER.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/7_QUESTIONS_FOR_HER.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/8_THE_DEGRADATION_COUNT.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/1_READ_FIRST/9_THE_HELP_COUNT.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/every_dated_event.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/his_standing_rulings.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/the_84_abusive_statements.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/the_bank_record.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/the_full_document_library.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/the_phone_messages.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
+tracker:governance/matters/04_criminal_bhpd_2025-14983/report_2026-08/FOR_GEMINI/3_BACKGROUND/the_unanswered_requests.md@6f5d8b0	AI-LEAD	path:contains FOR_GEMINI (folder or filename)
