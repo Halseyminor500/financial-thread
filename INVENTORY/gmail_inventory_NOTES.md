@@ -156,9 +156,9 @@ Scope as narrowed by the coordinator: bucket A only, and bucket E as `in:sent af
 - E query: the query above, monthly windows (Feb, Mar, Apr, May 2026). March hit the 50 cap (estimate 64) and was split into 03/01-03/15 and 03/16-03/31; both halves are complete.
 - Thread membership for 2025-12 through 2026-05 and all E windows was re-listed with THREAD_VIEW_IDS_ONLY. The query and window were unchanged, and the counts matched the METADATA_ONLY counts logged earlier.
 - METADATA_ONLY previews carry no date or label fields, so every returned thread was fetched with get_thread METADATA_ONLY. 210 threads in total: 39 A-only, 159 E-only, 12 in both.
-- A rule (message level): a message is an A row when its sender, To or Cc header contains ysfamilylaw.com and its date falls between 2024-01-01 and 2026-11-01. Bcc is not used. Gmail returned some threads only because a firm address appears in Bcc; those messages are not A rows and are listed in the flags below.
+- A rule (message level): a message is an A row when its sender, To or Cc header contains ysfamilylaw.com and its date falls between 2024-01-01 and 2026-11-01. Bcc is not used. Some threads were returned although no sender, To or Cc address in them is a firm address; in the case checked, the firm address appears only in Bcc. Those messages are not A rows and are listed in the flags below.
 - E rule: a message with the SENT label, dated inside a window, in a thread that the same window's query returned. A SENT message in a thread returned only by a different window is not included.
-- E superset caveat: body-term matches (Spiegel, Lance) cannot be checked from metadata. E rows are therefore every SENT message in the returned threads within the window, which is a superset of the query's hits.
+- E superset caveat: body-term matches (Spiegel, Lance) cannot be checked from metadata. E rows are therefore every SENT message dated in the window in a thread that the window's query returned. This is a superset of the query's hits.
 - Dates are the UTC dates from Gmail. One February E message (19c171a6e277bd30, 2026-02-01T02:48:52Z) is January 31 in US Pacific time; it is kept as February because its thread was returned by the February query.
 - A windows: rows keep the message's own header values. For METADATA_ONLY-sourced rows, subject and attachments are "(not fetched)".
 - Existing rows already in the TSV keep their values; only the bucket letters were merged (alphabetical, comma-joined). New rows were added for message IDs not already present.
@@ -221,7 +221,7 @@ March halves: 21 + 43 = 64 returned, 63 distinct threads (19c66cb256ed6d7d is in
 ### Totals
 
 - TSV rows: 211 before, 874 after (663 new rows added; no duplicate pointers or message IDs).
-- A letter: 420 rows total, 405 new rows and 15 existing rows that gained A. By year: 2024 = 123, 2025 = 227, 2026 = 70.
+- A letter: 420 rows total, 405 new rows and 15 existing rows that gained A. By year (all A-letter rows): 2024 = 123, 2025 = 227, 2026 = 70. By year (new rows only): 2024 = 123, 2025 = 220, 2026 = 62.
 - E letter: 304 rows total, 269 new rows (258 E only, 11 A and E) and 35 existing rows that gained E. By month: 2026-02 = 101, 2026-03 = 97, 2026-04 = 61, 2026-05 = 45.
 - Existing rows that gained letters: 49 (A only 14, E only 34, both 1).
 - Windows that could not be completed: none. Every window above is complete.
@@ -272,4 +272,4 @@ March halves: 21 + 43 = 64 returned, 63 distinct threads (19c66cb256ed6d7d is in
 - Address forms seen in headers, recorded as received: keny@ysfamilylaw.co (To, 19b8f1dd4d7a670c, 2026-01-05; the .co domain is not ysfamilylaw.com, but the message has other firm addresses), ances@ysfamilylaw.com (To, 19fb9141436502ce, 2026-07-31), and Halsey@realitylab.com (sender of SENT messages 19e336e7fed5eea7 and 19e1783453b65f2e).
 - Earlier thread 1979db6b2125390b: the thread-level exclusion was replaced by the message-level A rule, as recorded above.
 - Quota: earlier in this continuation Gmail returned "Resource has been exhausted" on about 7 of 16 rapid get_thread calls. Retries after a pause succeeded; later batches were kept to about 10 calls.
-
+- Bcc was not captured in the earlier 2024-01 to 2025-11 transcription, so Bcc-only hits in those windows were not evaluated. In this continuation, Bcc was read during transcription and only the three flagged messages above were noted.
