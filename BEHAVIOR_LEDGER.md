@@ -1528,7 +1528,7 @@ Context records. These are acts by others and are not counted.
   retain counsel so that you have a complete understanding of the process, including how to address the issues mentioned
   in your email. If you have not already done so, please refer the Notice and Acknowledgment of Receipt to your counsel."
 - **Context:**
-  - It answers Halsey's 2/1/2024 email, which speaks of the "$550,000 disappear[ing]" and of the lockout: "I was locked out
+  - It answers Halsey's 2/1/2024 email, which uses the words "$550,000 disappear" and describes the lockout: "I was locked out
     of my primary email account, which Shannon was able to solely control before I could get access back from Google
     support."
   - Kralle forwarded the reply (gmail:18d65a9dad2be7d3): "Please see Lance's response below as the email bounced back when
@@ -1765,13 +1765,13 @@ characterization. The statutes and their elements are in `LAW/VERIFIED_AT_SOURCE
 
   ```text
   I asked Lance Why? Twice. I could have helped you. Wanted to. Let Lance
-  know I don't want my children growing without the parents they love and
+  know I don’t want my children growing without the parents they love and
   your situation was creating more and more attention, Federal attention. He
   tried to prove no pre se would have control. He has very likely destroyed
   your life when offered an off ramp. I hope he told you that. I want you to
-  know that. I'm truly sorry for you despite what you've done. I just needed
+  know that. I’m truly sorry for you despite what you’ve done. I just needed
   Lance to not want the TRO when he had broken so many laws to get it. Twice
-  he answered "no". Exactly why I offered it.
+  he answered “no”. Exactly why I offered it.
   ```
 
 - **G-7 · 2026-03-29 and 2026-03-30 · messages to the DA and federal addresses.**

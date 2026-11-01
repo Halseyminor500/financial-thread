@@ -211,3 +211,7 @@ Every 16-hex Gmail id and every 33- or 44-character Drive id in the nine new fil
 6. **1a01fcb067325e9b** appears only in BEHAVIOR_g's §D table, for the message whose text §B gives under 1a01fc775016ae06. Both are rows; the discrepancy is not resolved.
 7. **1a015ef09efeb917** is AI-LEAD: its body quotes an AI analysis and a monitor email. The BHPD "Marsy's Law" dashboard images are WORK-PRODUCT, not AI-LEAD, because no document read shows they are AI output. The note records the BEHAVIOR_f §2.5 description.
 8. **The Ally regulatory package** keeps its provisional ACCOUNT class: it is unopened and its authorship is not established. The Provinziano invoices are ACCOUNT. The Square invoice notices are CORRESPONDENCE (type other).
+
+## ORCHESTRATOR CORRECTIONS (2026-11-01, after pass 2)
+- SP-2776 (drive:1zNB5FyWD6EuWN3Ob6fnVEf0i_-xiZEFl): class WORK-PRODUCT → CORRESPONDENCE, type photo, tags c-service-dates, read full. It is Halsey's own photographs of the envelopes, emailed to Schwenke 2026-03-17; not work product and not about disclosure.
+- SP-3513 added: the Correos de México tracking record for LH265470088US (third-party provider record; pointer is a web URL because the schema has no better kind).
