@@ -2,9 +2,11 @@
 
 Draft 1 · 2026-11-01 · Spiegel thread · written read-only.
 
-**Sources.** Every file in `READING_NOTES/` (35 files). Six of them landed while this draft was being written:
+**Sources.** Every file in `READING_NOTES/` (39 files). Ten of them landed while this draft was being written:
 `BEHAVIOR_g_writs_schwenke_2026`, `WRITS_2026-04-28_and_appeal_notice`, `BEHAVIOR_f_police_contacts`,
-`DECL_2026-03-27_exhibits_A-C`, `SPIEGEL_DECLARATIONS_2025-12` and `BEHAVIOR_c_proofs_of_service`. The three largest of
+`DECL_2026-03-27_exhibits_A-C`, `SPIEGEL_DECLARATIONS_2025-12`, `BEHAVIOR_c_proofs_of_service`,
+`ENVELOPE_PHOTOS_originals`, `EXHIBIT_F_chain_emails`, `EXHIBIT_F_source_doc_metadata` and
+`ALLY_2026-09-04_message_and_subpoena_return`. The three largest of
 those (`BEHAVIOR_c`, `BEHAVIOR_f`, `SPIEGEL_DECLARATIONS`) were read section by section — their record tables, findings and
 limits — rather than line by line. Also read: `COLLISION_GATE.md`, `FORENSIC_BRIEF_v1.md`, `OPEN_REQUESTS.md`, and the
 ELEMENTS sections of the eight `LAW/VERIFIED_AT_SOURCE_2026-11-01_*.md` files. Some primary documents were re-opened only to
@@ -41,11 +43,14 @@ check a quotation; those are marked **(checked at source)**.
   - The thread's own gate (JURISDICTION_SPLIT E.4), verbatim: "A criminal report naming Spiegel for fabricated documents
     meets that finding in the Department's hands on day one. … It is confronted only with the exhibit-level resolution
     handed over as an EV-id (Part A)."
-- **Envelope facts for the 2/24/2026 delivery** come from `DECL_2026-03-27_exhibits_A-C.notes.md`, which read the images
-  at source. Two earlier readings are corrected here:
-  - The 2026-08-10 audit note (work product) read the label as "JAN 30, 2026 · $29.70 · Retail". The image reads
-    **"JAN 30, 202[?]"**, with the last digit either 6 or 8 and not resolved. The year is recorded as **2026 by context**
-    (the declaration was executed on 27 March 2026, which rules out 2028). It is not resolved on the image.
+- **Envelope facts for the 2/24/2026 delivery** come from `DECL_2026-03-27_exhibits_A-C.notes.md` (the filed images) and
+  `ENVELOPE_PHOTOS_originals.notes.md` (13 original photos Halsey emailed to his document preparer on 2026-03-17). Two
+  earlier readings are corrected here:
+  - The 2026-08-10 audit note (work product) read the label as "JAN 30, 2026 · $29.70 · Retail". The filed image reads
+    **"JAN 30, 202[?]"**, with the last digit 6 or 8 and not resolved. In the original photo, scored against the same
+    printer's digits, "JAN 30, 2026" is favored — "moderate-to-high", not certain. A customs form on the same envelope
+    prints "Date of Mailing: 01/30/202[6]". Where a year is needed, the ledger uses **2026**: by context (the declaration
+    was executed on 27 March 2026, which rules out 2028) and by that reading.
   - The audit's "Packages bore earlier dates (December referenced)" is that note's paraphrase. The declaration itself says
     "the postmarks on these packages were from much earlier dates, including early December 2023".
 - **Pointer formats.**
@@ -71,7 +76,9 @@ check a quotation; those are marked **(checked at source)**.
   - Anna Kralle (Vanmali), "Paralegal" (AnnaK@).
   - Matthew Sirriyeh, "Paralegal and Notary Public" (mvs@).
   - Vivian Carrasco Hosp [SBN 266742] (VivianH@), an attorney who signs as one of the "Attorneys for Petitioner".
-  - Katherine Aldin (katea@), Alicia Thomas (aliciat@), RoryeJ@, paulf@ and JoannaJ@.
+  - Katherine C. Aldin [SBN 229130] (katea@), who appears with Spiegel in the attorney block of the 10/31/2024 Ally
+    subpoena (ALLY notes §2a); Alicia Thomas (aliciat@); RoryeJ@, paulf@ and JoannaJ@.
+  - The customs form on the $29.70 envelope names its sender as "NATHAN GRAY / YOUNG N SPIEGEL" (ENVELOPE_PHOTOS §4).
   - No document shows a staff member named "Janine".
 - **Not firm actors:**
   - Katherine Schwenke, Family Law Document Services (kat.flds@gmail.com), is Halsey's document preparer.
@@ -473,12 +480,42 @@ Context records. These are acts by others and are not counted.
 - **The register** has 22 service entries "Filed by Petitioner". By the words in the docket text: "Email" 1, "Electronic" 1,
   "Mail" 6, and no method word 14. Per the DOCKET notes, "the register does not link any POS to any paper". It has no
   Petitioner proof-of-service entry between 11/17/2025 and 1/27/2026.
-- **Envelope labels legible in Exhibit A** of the 3/27/2026 declaration (DECL exhibits notes). These are USPS "Retail" labels.
-  No meter strip, postmark cancellation, Correos de México mark or tracking barcode could be read.
-  - #1 (p. 5): "JAN 05, 202[?]", "$3.15", "FCMI".
-  - #2 (p. 5): "DEC 30, 2025" (best reading; "30" and the final "5" are not certain), "$13.00", "FCMI".
-  - #7 (p. 6, orange/kraft): "JAN 30, 202[?]", "$29.70".
-  - #3: the date line is illegible. #4 and #5 were not examined.
+- **Envelope labels** (ENVELOPE_PHOTOS §2; drive:1zNB5FyWD6EuWN3Ob6fnVEf0i_-xiZEFl, sent in gmail:19cfcf815d187364). All
+  are USPS "Retail" labels marked "00495" and "BEVERLY HILLS, CA 90210":
+  - "$3.15 … JAN 05, 2026" (p-001). Printed return address Young, Spiegel & Hosp; handwritten addressee 602 Punta Del Mar.
+  - "$13.00 … DEC 30, 2025" (p-002 and p-010 — possibly two envelopes, not confirmed).
+  - "$29.70 … FCPIS … JAN 30, 202[6]" (p-003, orange/kraft). It carries a CN22 customs form: "Date of Mailing:
+    01/30/202[6]", FROM "NATHAN GRAY / YOUNG N SPIEGEL / 301 N. CANON DR # 300 / BEVERLY HILLS, CA 90210", barcode "LH 265
+    470 088 US" (not looked up).
+  - "$13.00 … JAN 06, 2026" (p-004).
+  - "$13.00 … FEB 02, 2026" (p-006), photographed with an FL-300 under a binder clip.
+  - "$7.55 … JAN 08, 2026" (p-009), with a partial machine cancellation "Los Ange[…]" / "THU 0[8?] […]".
+  - "$8.65 … DEC 30, 2025" (p-012) and "$3.15 … DEC 30, 2025" (p-013).
+  - ENVELOPE_PHOTOS: "That is 9 envelopes if p-002 ≠ p-010. The declarations say ten." No photo shows a Correos de México
+    mark.
+- **Candidate matches, by date only.** No document assigns any paper to any envelope. Each row pairs a declared service date
+  with the labels dated 0–4 days after it.
+
+| Declared service (entry) | Labels dated 0–4 days after it | Days after the declared date |
+|---|---|---|
+| 11/14/2025 (L-25); 11/20/2025 (L-26) | none (no November label is seen) | — |
+| 12/26/2025 (L-27) | DEC 30, 2025 (four labels) | 4 |
+| 12/29/2025 (L-28, L-29) | DEC 30, 2025 | 1 |
+| 12/30/2025 (L-30; the POS cited, not in hand) | DEC 30, 2025 | 0 |
+| 1/5/2026 ×2 (L-31) | JAN 05, 2026; JAN 06, 2026; JAN 08, 2026 | 0; 1; 3 |
+| 1/8/2026 ×2 (L-32) | JAN 08, 2026 | 0 |
+| 1/21/2026 (L-33) | none (the next label, JAN 30, 2026, is 9 days after) | — |
+| 1/27/2026 ×2 (L-34) | JAN 30, 2026 | 3 |
+| 2/2/2026 ×2 (L-35) | FEB 02, 2026 (the JAN 30, 2026 label is 3 days *before*) | 0 |
+| 2/23, 2/24, 3/4/2026 (L-36 to L-38) | none (the latest label is FEB 02, 2026) | — |
+
+- **What the labels do NOT show:**
+  - any label more than four days after the nearest earlier declared service date;
+  - any November label;
+  - which paper any envelope held.
+  - Contents photos exist only for p-005 ("PETITIONER'S OBJECTIONS AND REQUEST TO STRIKE DECLARATION OF RESPONDENT") and for
+    p-007/p-008 (an FL-320 "RESPONSIVE DECLARATION TO REQUEST FOR ORDER", hearing "February 3, 2026 / 8:30 a.m. / 23").
+    Neither photo shows the envelope the paper came from.
 - **"Gap"** = the days from the declared service date to the delivery of the bundle on 2/24/2026 (BEHAVIOR_c §4).
 - **Bears on, for every POS entry below:** PC 118 el. 2–5, CCP 1013b, and, for the email leg, CCP 1010.6 el. 4 and CRC 2.251
   el. 4. This applies only if a declared date or method is shown to be untrue. No document read shows that for any POS.
@@ -684,7 +721,7 @@ Context records. These are acts by others and are not counted.
 - **Transmittal:** gmail:19b5cbba04495f7b, 2025-12-26T22:15Z (checked at source): "Please see attached Petitioner's
   Objections to Respondent's Notice of Deposition. Per the attached, the deposition will not be proceeding as neither the
   deponent or her counsel are available." The body says nothing about mail. Same day.
-- **Label:** none matches; the only legible December label is "DEC 30, 2025".
+- **Label:** the four "DEC 30, 2025" labels are 4 days after the declared date. They are candidates only.
 - **Gap:** 60 days.
 - **SVL Main 4:**
   - The POS lists halsey@minorventures.com "14 months after the same declarant (Sirriyeh) documented in writing that this
@@ -701,10 +738,10 @@ Context records. These are acts by others and are not counted.
   at Beverly Hills, California. [handwritten signature] MATTHEW SIRRIYEH".
 - **Transmittal:** gmail:19b6cc55639bdc93, 2025-12-30T01:00:06Z, which is 12/29 in Pacific time (checked at source): "Hard
   copies of all of the above have also been served by U.S. Mail."
-- **Label:** envelope #2 reads "DEC 30, 2025", "$13.00", "FCMI". That is one day after the declared date. No inference is
-  drawn from it.
+- **Label:** four labels read "DEC 30, 2025" ($13.00 — possibly one envelope photographed twice — $8.65 and $3.15). That is
+  one day after the declared date. No inference is drawn from it.
 - **Gap:** 57 days.
-- **The documents do NOT show:** whether envelope #2 carried this paper. Its addressee and return blocks were not examined.
+- **The documents do NOT show:** which, if any, of the DEC 30 envelopes carried this paper.
 
 ### L-29 · 2025-12-29 (filed 2:30 PM) · Motion for Protective Orders, with no POS in hand · (c)
 
@@ -740,7 +777,7 @@ Context records. These are acts by others and are not counted.
     trial."
 - **Date comparison, no inference:** Halsey's complaint dates this paper "5. December 29, 2025: "Code Red" CCP 271 sanctions
   motion ($250,000) - U.S. mail (prohibited)". D3 records it as "filed by Petitioner on December 30, 2025".
-- **Gap:** 56 days.
+- **Label:** the DEC 30, 2025 labels fall on the cited POS date (0 days). **Gap:** 56 days.
 - **The documents do NOT show:** the two POS dated 12/30/2025 (they are in the court file), or which envelope carried the
   package.
 
@@ -752,7 +789,8 @@ Context records. These are acts by others and are not counted.
 - **Transmittals:** gmail:19b8fc6fabdac16f (2026-01-05T20:08Z) and gmail:19b90daa5f6a5300 (2026-01-06T01:10Z, which is 1/5
   in Pacific time).
 - **Label:** envelope #1 matches the date.
-  - Label: "JAN 05, 202[?]" (day "05" confirmed; last digit 6 or 8), "$3.15", "FCMI".
+  - Label: "JAN 05, 2026" — the year is plain in the original photo (ENVELOPE_PHOTOS p-001) — with "$3.15" and "FCMI".
+  - Other candidates: "JAN 06, 2026" ($13.00), 1 day after; "JAN 08, 2026" ($7.55), 3 days after.
   - Printed return address: "Young, Spiegel & Hosp, LLP. / 301 N. Canon Dr., Suite 300 / Beverly Hills, CA 90210".
   - Handwritten addressee: "Halsey Minor / 602 Punta Del Mar / Kukulcan Boulevard / Zona Hotelera / 77500 Cancún, QRO,
     Mexico".
