@@ -1,0 +1,12 @@
+run_date=2026-11-01
+tracker_repo=Halseyminor500/minor-v-minor-legal-tracker
+tracker_branch=claude/claudemd-token-bloat-l98pl2
+tracker_sha=6f5d8b0479c15614799a4cf371fcc6c52add0e34
+tracker_sha_committed=2026-10-31T23:50:47Z
+financial_thread_main_sha=63d0aeeb6142a87693f400d829cfea8ed1536b33
+ghpages_sha=88defefc8c566631a3d8321ee260f5f616443ebb
+case_live_sha=ab9aa880f9d6cbef868349c7a698819d30be3632
+gmail_high_water=2026-10-31
+gmail_latest_inventoried=2026-10-31T04:29:54Z
+drive_high_water=2026-11-01T00:52:18Z
+notes=Founding run. Gmail mark is a date for the routine's after: query; the latest inventoried message is given for reference.
