@@ -901,3 +901,124 @@ from other City senders (dleber, ccoulter, rgohlich, vrivas ×6) — not Halsey�
   them to me …" · "Ms. Minor has not provided required initial financial disclosures in the family-law case despite the
   passage of approximately [21–22] months since service." · "If it’s easier, I’m available by phone at
   415-531-2080/415-376-3000." No Google request. No Kalé reply found.
+
+### T62 · thread 19b6cc55639bdc93 "Minor - Response to RFO / Motion for Protective Order" (8; the firm's service email + 2 Halsey→Kalé messages read; others: Halsey↔kat.flds, 2 DSNs)
+- (outside universe; firm → Halsey) 19b6cc55639bdc93 · 2025-12-30 01:00:06Z · mvs@ysfamilylaw.com → halsey2005,
+  minorventures, vividlabs, liveplanet; cc kat.flds, yuditlara@courtcall.com, VivianH@, AnnaK@, lances@ysfamilylaw.com.
+- H 19b6fc619f4bafef · 2025-12-30 15:00:10Z · halsey2005 → akale + 9 City · att "2025-12-29 [P]
+  Resp.RFO.$400,000.Vanguard.Compel.Disclosure.Tracing.Preservation.Sanctions.pdf", "2025-12-29 [P] Mtn.Protective.Order.pdf",
+  "2025-12-29 [C] Order.FCCRC.pdf", "fl320.pdf" (not opened). Own text, full: "What a deposition causes when you've got a
+  client facing many years of sentencing, and you know she can't help but lie. I have been deposed, faced 19 subpoenas and
+  4 massive requests for information, and have actually completed my initial disclosure, not avoiding them for over 20
+  months. All are seeking a way to avoid criminal charges." + forward of Matt V. Sirriyeh (mvs@ysfamilylaw.com), Mon Dec 29
+  2025 8:00 PM, cc "Lance Spiegel <lances@ysfamilylaw.com>". [Halsey forwarded the firm's filings to Kalé.]
+- H 19b6fe09ab03783c · 2025-12-30 15:29:08Z · same recipients · own text (complete in snippet): "Unfortunately, my motion
+  was not delivered 4 days earlier. You have a lawyer and a law firm. They can explain."
+- DSNs 19b6fc6590c50a25, 19b6fe0cfa94ffe0 (nhuntcoffey@). Not to Kalé: 19b6cf9d2168ecdf, 19b6d15310889864 (kat.flds).
+
+### T63 · thread 19b705f195bdb8f3 (4 per header; 2 returned)
+- H 19b706b54cc9240a · 2025-12-30 18:00:23Z · halsey2005 → akale + 9 City · "REQUEST: ACCUTE NEED FOR LEGAL SERVICES FOR THE
+  INDIGENT; TRO NOT HEARD …" · att "2024-08-15 Letter to Shannon Minor 2.pdf", "2024-08-15 Letter to Shannon Minor.pdf",
+  "11.1.23 Letter to Shannon Minor (2) (1).pdf", "11.1.23 Letter to Shannon Minor (2) (1) (1).pdf", "Final Shannon Emails
+  Halsey2005.pdf" (not opened). Read in full. Verbatim on Spiegel: **"Through Lance and the Judge, 90% of my income,
+  anyway, went to Shannon, the kids, and Lance over the last 6 months."** · **"After allowing her TRO to go unheeded and
+  despite Lance being caught lying to the court and delivering false service by email (5 times), the judge actually
+  rewarded Lance, granted him mail service rights to Mexico as “punishment", …"** · "Lance did not appear at his hearing
+  after I contested the judge's granted form of service, … If history is any guide, Lance will win his $250,000 claim
+  without merit …" No Google request. DSN 19b706ffa96bbca4 (nhuntcoffey@).
+
+### T64 · thread 19b8836c17e179c2 "Marsy’s Law Update" (2; both read)
+- H **19b884bc4c8df35c · 2026-01-04 09:17:05Z · halsey2005 → akale, ddimond, Sharona@, lwiener@, Citymanager@,
+  MayorandCityCouncil@, ccoulter@, ealbanese@, bhpra@, nhuntcoffey@**. Read in full. Verbatim: "1. Has Joyce Flaherty, …
+  ever been interviewed?" · **"2. Since Lance Spegiel Is asking the judge to fine me $250,000 if I cannot produce from my
+  current account an email in your possession sent to you 10 months ago, part of the group of emails pdfs that was deleted,
+  precisely matching the evidence highlighted in the police summary I provided to you, did you ever contact Google to ask
+  that a data hold be put on my Gmail account for the purpose of avoiding the unnecessary destruction of key evidence as
+  requested twice?"** [PRESERVATION ASK (A13) — question form; his own count: "as requested twice"] · **"It’s almost like he
+  somehow knows 1. my computer has been hacked, and 2. Google requires the police to file a hold, and that a hold was
+  never placed."** DSN 19b884bfd978fc4b (nhuntcoffey@).
+
+### T65 · thread 19b8f1dd4d7a670c "Spiegel, The Beverly Hills Police Department, and City Administration: FORMAL NOTICE: Criminal Spoliation of Evidence, Internal Leakage, and Demand for Preservation (Case: Minor v. Minor) Mr" (18 per header; 10 returned)
+- H **19b8f1dd4d7a670c · 2026-01-05 17:03:59Z · halsey2005 → lances@ysfamilylaw.com, keny@ysfamilylaw.co [bounced],
+  VivianH@ysfamilylaw.com, AnnaK@ysfamilylaw.com, jgordon@claritascapital.com; cc Sharona@, kat.flds@, lwiener@,
+  MayorandCityCouncil@, AnnaK@, akale@, Citymanager@, snazarian@, ddimond@, jstansbery@marsyslaw.us, jlsnyderlaw@** · att
+  "Beverly Hills PD - Marsy_s Law Dashboard.pdf", "screencapture-file-Users-halseyminor-…-Marsys-Law-Dashboard-1-html-
+  2026-01-05-11_34_47-edit.png", "PastedGraphic-4.png" (not opened). Read in full. It embeds a text headed "FROM: Forensic
+  Data Analysis Unit DATE: January 4, 2026" [no author named; AI-style — AI-LEAD]. Verbatim (his notice):
+  - **"Mr. Spiegel, your recent filings make bold assertions regarding the non-existence of these records with a level of
+    confidence that suggests you may have possessed prior knowledge that this evidence was unrecoverable."**
+  - "• Deleted: The November 11, 2022 email confirming receipt of the tax refund (cited in the Police Report)." [cross-ref,
+    fact only: GOOGLE_NOTICES_and_KALE_denial.notes.md §4 found the 11/10–11/11/2022 thread 18461348b9fe0954 present, 5
+    messages, none TRASH, on 2026-11-01]
+  - **demands: "• To the City: I demand the immediate impounding of access logs for the Minor case file to determine who
+    viewed or exported the "Analysis of Evidence" report prior to the hack. • To Counsel: I demand you preserve all
+    communications between your firm and any employee of the City of Beverly Hills or BHPD."** [HOLD ASK (H3) to the City]
+  - embedded text: "On March 29, 2025, Mr. Halsey Minor submitted a confidential "Analysis of Evidence" report to the
+    Beverly Hills Police Department (BHPD), …" · "**1. Immediate Internal Affairs Audit:** Initiate an audit of all access
+    logs for the Minor case file (Case 24STFL00432) …" · "2. Preservation of the PDF Record: …"
+  - closing: "… refusal to make a Google call to the office established for law enforcement —-> followed by awareness of
+    this specific vulnerability by Lance Spegiel in a motion to fine me $250,000 in family court."
+- DSN 19b8f1de0f69efb5 (keny@ysfamilylaw.co — domain not found).
+- **K17 19b8fbc478f4e54b · 2026-01-05 19:56:58Z · Kalé → halsey2005** · sizeEstimate 4,519,661 B. Own text as read in full
+  in BEHAVIOR_f_police_contacts.notes.md §3.3 (not re-fetched; snippet re-checked): "Good Morning Halsey and Happy New Year,
+  Regarding the Google/Email situation, are you talking about these emails below?: [image] I know you mentioned some
+  emails from November 11, 2022 were “deleted”. Are the emails above the ones you are talking about?"
+- Outside the universe (Halsey ↔ Snyder, Nicholas endowment, kat.flds; seen by snippet only): 19b8f3c0a94ca9bc (Snyder:
+  "The division in the Los Angeles County District Attorney's Office that handles allegations of police misconduct is the
+  Justice System Integrity Division. …"), 19b8f5c5c3cadbb3, **19b8f6fcd6f82d0b (Snyder, snippet: "Whatever the AI is
+  telling you, I can tell you conclusively that preservation of evidence for investigative purposes requires more than a
+  phone call. It requires an authorized letter from the …")** [snippet only; not read in full], 19b903224f50f307 (→
+  dan.stetson@nicholas-endowment.org, cc henryn@broadcom.com), 19b9232a80baf354 (→ "halsey@2005gmail.com" [sic]),
+  19c202493303439a and 19c204581eed92c4 (→ kat.flds, forwards of K17).
+
+### T66 · thread 19b9f7b82104dd6f "Fwd:" / "RE: Fwd:" (18 per header; 17 returned) — K21 and the 1/12–1/14 exchange
+- (self; not to Kalé) 19b9fc157f5152c8 · 2026-01-08 22:36:46Z · halsey2005 → halsey2005 · att image.png ×2, "FORENSIC
+  EVIDENCE.pdf". Own text read. His count: "… your police officer **3 times** refused to make a 30-minute report to Google
+  after evidence entrusted to just him and your department, that included an explicit and precise summary of 8-pages …
+  referencing them from 700 pages of back up, was used as template for a hacking of my computer." · "Lance tried this
+  trick five months too late." · "Lance, no license."
+- (to City; Kalé NOT a recipient) 19baf9dcd5a99455 · 2026-01-12 00:31:52Z · halsey2005 → lwiener@, Sharona@, snazarian@,
+  MayorandCityCouncil@ (.org/.com/.gov), Citymanager@, ccoulter@ · 23 attachments incl. "FORENSIC EVIDENCE.pdf",
+  "BHPD_Marsys_Law_Dashboard (1).html", "Ex Parte # Emergency Motion for Evidentiary Sanctions Due to Spoliation of
+  Evidence.docx", "2025-12-29 [P] Resp.RFO.$400,000.Vanguard.Compel.Disclosure.Tracing.Preservation.Sanctions.pdf", "2025-02-06
+  Ltr.LSS.AS.pdf". Own text read in full. His count: "your police officer **4 times** refused to make a 30-minute report to
+  Google …" · **"*I just proved, as a pro se litigant, that Lance Spegiel is a criminal with a 1:10 billion chance he is
+  not*."** · "LANCE COURT CASE IS HERE. ONLY POSSIBLE BECAUSE ALEX KALE REFUSED TO STOP THE DESTRUCTION OF EVIDENCE 4 TIMES,
+  … STARTED GENERATING EMAILS TO FBI, INTENRAL AFFAIRS." · "You will soon be swarmed by Los Angeles DA internal affairs,
+  federal officials, …" [Kalé answered this thread at 18:51Z: K21]
+- **K21 19bb38cf19aec75b · 2026-01-12 18:51:48Z** — ALREADY READ (brief; GOOGLE_NOTICES… §3(a)). att image001–003.png.
+- H 19bb44ffb3cfb52d · 2026-01-12 22:24:24Z · halsey2005 → akale, lwiener@, MayorandCityCouncil@, sharona@, snazarian@,
+  ddimond@, ccoulter@ · att 55CD3573-….jpeg, "Untitled 2.png" ×2, IMG_0903.png, "Forensic Evidence.docx". Own text read in
+  full (7,450 chars). Verbatim: **"After seeing me ask you four times to recover evidence—only you and I had — the emails
+  for the eight-page summary—Google's AI Gemini obviously has access to Google's email/Gmail. It knew you were refusing to
+  do what any ethical cop would do: everything possible to prevent spoilage of evidence handed to you. When it saw what I
+  handed you was a 100% match for deletions, not hours before or earlier, it knew that the report became a template for
+  someone to hack my computer."** · **"Then it saw Lance's motion requiring me to provide a live email—one of the 12
+  deleted—or be fined $250,000 …"** · "When you hit me with the sob story about her being broke, … after talking to her, …"
+- **K22 19bb480c18e327b1 · 2026-01-12 23:17:56Z · Kalé → halsey2005** · att image001.jpg, image002–004.png. Own text, FULL
+  (GOOGLE notes quoted 2 sentences): "Good Afternoon Halsey, I was simply updating you on the case status regarding the
+  preservation letter to Google. My work on this case has included multiple interviews of involved witnesses and serving a
+  search warrant for the related bank statements. The case is still active, but I find your emails quite concerning to be
+  honest. Do you wish for me to proceed with my work of gathering evidence and presenting the case to the Los Angeles DA’s
+  Office for filing consideration? Please respond with a brief answer to the one question above. Thanks, Alex"
+- H 19bba22940d44fba · 2026-01-14 01:32:27Z · halsey2005 → akale · 21 attachments incl. "FORENSIC EVIDENCE.pdf", "Google
+  Busts Lance.jpg", "Google Realization.jpg", "2026-01-08 [P] Prop.Rulings.pdf", "2026-01-08 [P] MTS.Decl.pdf", "The Plan That
+  Began it All.jpg", **"POLICE REPORT_Revised Analysis of Evidence Supporting Allegations in the Minor Case (Updated with
+  August 2025 Evidence).docx"**. Own text read in full. Verbatim: "… try to come up with reasons for why you 4 times allowed
+  a police report only you and I had to become a perfect template for hacking just the emails from the summary …" · "… never
+  retrieved after 4 requests by the investigator …" · "I would read every email like Internal Affairs …" · "Then starting
+  to generate reports and contact numbers to the FBI, Internal Affairs and 5 other groups because it being a Google AI …"
+- **K23 19bba42b48bd3355 · 2026-01-14 02:08:06Z** — read in GOOGLE notes §3(c); own text: "Good Evening Halsey, You did not
+  really answer my one question - but I will continue working the case and let you know when I have submitted it to the
+  DA’s Office for filing consideration. Thanks, …" (no attachments).
+- H **19bba4c06df0c280 · 2026-01-14 02:17:50Z · halsey2005 → akale** · att "Minor Prenuptial Agreement Word.pdf", "Executive
+  Summary_AI_Analysis_of_All_Evidence_Kale.pdf", "Shannon Hidden Vanguard Acccount 2024.pdf". Own text read in full.
+  Verbatim: **"Charges are going to be made against her lawyer tomorrow but not obviously through the BHPD but through LAPD
+  against her lawyer. The letter has been prepared including evidence of his 10 billion to 1 motion in court. Unless he
+  knew: 1. the document that had been submitted 2. that document had been hacked 3. it had not been recovered despite 4
+  attempts to have the police stop the deletion that nearly cost me $250,000 yesterday …"** · "When you claimed
+  "grandmommy" had to lend us money, you had the document showing $790,000 sitting there at the moment."
+- H 19bba578b4c270ff · 2026-01-14 02:30:23Z · halsey2005 → akale · own text read in full ("I would be working really long
+  nights … fighting the number #1 lawyer in LA using my own money against me pro se …").
+- Not to Kalé: 19b9f90d62b85db7 & 19bba5cc9a6a37ae (→ jswearingen), 19bb915c1e7bcd62 (jswearingen), 19c204746b65e991 (→
+  kat.flds); DSNs 19baf9e5a04d63b5, 19bb57c5b4166cfb, 19bba04c0ab870f4, 19bbf480ec77e477 (.com / .gov).
