@@ -86,15 +86,18 @@ Each entry is counted once, under its first behavior. Cross-tags appear in the t
 
 | Behavior | Entries | DOCUMENTED | ACCOUNT |
 |---|---|---|---|
-| (a) access / alteration / creation in Halsey's accounts | 5 | 0 | 5 |
-| (b) material from his accounts in filings | 4 | 3 | 1 |
+| (a) access / alteration / creation in Halsey's accounts | 7 | 0 | 7 |
+| (b) material from his accounts in filings | 5 | 3 | 2 |
 | (c) papers claimed as served on dates other than sent (every POS, transmittal and register service line) | 37 | 35 | 2 |
 | (d) electronic service without consent | 7 | 6 | 1 |
 | (e) Petitioner's disclosure and its service | 5 | 4 | 1 |
 | (f) concert with court or police | 3 | 2 | 1 |
 | (g) Ally restriction and the writs | 3 | 1 | 2 |
 | (h) other | 13 | 11 | 2 |
-| **Total** | **77** | **62** | **15** |
+| **Total** | **80** | **62** | **18** |
+
+L-78 to L-80 were added last. They record statements Halsey made on 2026-11-01, as relayed by the coordinator, and they sit
+in their behavior sections below, out of numeric order.
 
 **DOCUMENTED means only that the act appears in the named document.** For most (c) entries that document is the firm's own
 proof of service, a transmittal email or a register line. The fact the behavior turns on — which paper travelled in which
@@ -181,6 +184,9 @@ envelope, and on what date — is not documented for any paper. Each entry says 
 | L-75 | 2025-12-29 | Lance Spiegel (declarant) | COURT / SWORN | DOCUMENTED | h, e |
 | L-76 | 2025-12-30 | Lance Spiegel (declarant); firm (RFO) | COURT / SWORN | DOCUMENTED | h |
 | L-77 | 2026-05-18 | Matthew Sirriyeh, cc Spiegel | CORRESPONDENCE | DOCUMENTED | h |
+| L-78 | 2025-09-24 06:19:45Z (creation of the Exhibit F document); stated 2026-11-01 | not identified ("my computer … was hacked") | ACCOUNT-record | ACCOUNT | a |
+| L-79 | not dated; stated 2026-11-01 | Spiegel (Halsey's account) | ACCOUNT-record | ACCOUNT | b |
+| L-80 | about 2026-08 ("Three months ago"); stated 2026-11-01 | not identified ("Somebody") | ACCOUNT-record | ACCOUNT | a |
 
 Context records (acts by others; not counted):
 - X-01 · 2022-09-14 · Google password change.
