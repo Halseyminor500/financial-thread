@@ -9,7 +9,7 @@
 | Reader | Opus subagent (claude-opus-5-5) |
 | Evidence class | **AI-LEAD** (lead sheet; see §1) |
 
-Conventions: text inside “ ” is verbatim from this file (line wraps collapsed to single spaces); (Lnnn) is the line number in this file. Everything outside “ ” is the reader's description. This reader has NOT opened any underlying Gmail message, Drive file, or census line; "verified live" below is the 81B session's own claim, not re-checked.
+Conventions: text inside “ ” is verbatim from this file (line wraps collapsed to single spaces); (Lnnn) is the line number in this file; text inside « » is verbatim from ANOTHER file, named at the point of use. Everything outside the quote marks is the reader's description. This reader has NOT opened any underlying Gmail message, Drive file, or census line; "verified live" below is the 81B session's own claim, not re-checked.
 
 ---
 
@@ -22,13 +22,46 @@ Conventions: text inside “ ” is verbatim from this file (line wraps collapse
 - Its own caveat on AI-derived dates: “dates taken from AI-generated logs inside the census (7/1/2024 FL-105 quote; 10/14/2025; the 2026 CSV rows) are U until the named Gmail headers are pulled” (L322–324)
 - Controlling addendum: “## ADDENDUM 2026-09-03 (QA) — corrections from v3_parts/qa_Q09_Q14_Q16_lookups.md; body above NOT edited, this note controls” (L335)
 - **Classification: AI-LEAD.** An AI keyword sweep. Many rows are sourced only to census line numbers (24a/24b/24c), which are AI/work-product text captures — some of documents the file says are native, some of AI-generated logs. Gmail ids in it are pointers to primary documents, still to be opened.
-- The file's own knowledge-test framing (AI analysis, quoted for completeness): “Spiegel's knowledge that a criminal referral existed, or of the allegation categories, is fully explained by Halsey's own emails.” (L221–222); “What those emails do NOT explain — and where the test still bites — is (a) knowledge of the *specific identities* of the emails in the BHPD evidence set, and (b) the timing alignment of the sanctions motion with the deletions.” (L222–226). READER CROSS-REFERENCE (not this file): qa_Q61 L492–493 states the files attacked in the sanctions motion “were Exhibit F and nothing else”.
+- The file's own knowledge-test framing (AI analysis, quoted for completeness): “Spiegel's knowledge that a criminal referral existed, or of the allegation categories, is fully explained by Halsey's own emails.” (L221–222); “What those emails do NOT explain — and where the test still bites — is (a) knowledge of the *specific identities* of the emails in the BHPD evidence set, and (b) the timing alignment of the sanctions motion with the deletions.” (L222–226). READER CROSS-REFERENCE (not this file): qa_Q61 L492–493 states the files attacked in the sanctions motion «were Exhibit F and nothing else».
 
 ---
 
 ## 2. SPIEGEL IDENTIFIERS AND NEVER-CITE ADDRESSES — §0 COPIED VERBATIM (L21–52)
 
-@@VERBATIM 21 52@@
+```text
+L21: ## §0 IDENTIFIERS HARVESTED (Step 0 — from 63A1, 68B, 52 headers + work-dir corroboration)
+L22: 
+L23: - **Lance Stephen Spiegel — SBN 51625** — `lances@ysfamilylaw.com` — Young,
+L24:   Spiegel & Hosp, LLP., 301 North Canon Drive, Suite 300, Beverly Hills, CA
+L25:   90210 — tel (310) 887-5100 — fax printed both "(310) 877-5119" and
+L26:   "(310) 887-5119" in different captions (U, as printed). Firm name variants
+L27:   on the record: f/k/a "Kaufman, Young, Spiegel, Robinson & Kenerson, LLP"
+L28:   (81_ Doc 1, U); "Young Spiegel & Lee" / "Young, Spiegel, Hillman & Hosp"
+L29:   (2017–21 Jolie v. Superior Court captions, 24a:5505–5573); "Young, Spiegel
+L30:   & Lee, LLP (f/k/a Young, Spiegel & Hosp, LLP)" (state_bar_complaint_spiegel
+L31:   .pdf, 24a:25495). Named partners seen: Kenneth M. Young (24b:9221), Vivian
+L32:   Carrasco Hosp SBN 266742 (24a:38483).
+L33: - Firm staff addresses (from live filings/emails, not reconstruction):
+L34:   `VivianH@`, `mvs@` (Matt V. Sirriyeh), `AnnaK@` (Anna Kralle), `paulf@`
+L35:   (Paul Foor), `aliciat@` (Alicia Thomas), `katea@` (Katherine Aldin, Gmail
+L36:   10/31/2024), `JoannaJ@` (Gmail 7/23/2024), `RoryeJ@` (Gmail 7/14/2026 —
+L37:   new 2026 staffer) — all @ysfamilylaw.com; plus `keny@ysfamilylaw.co` as
+L38:   printed in the 1/5/2026 FORMAL NOTICE recipient list (U — .co, as printed).
+L39: - **Fabricated/placeholder addresses to NEVER cite as real** (all inside
+L40:   AI-generated reconstructions found in the Drive census): `lance.smith@
+L41:   email.com` (20 hits, "Lance Requests.txt", 24a:34630–35107), `ls@
+L42:   ysfamilylaw.com` + `malpruma@ysfamilylaw.com` ("Lance.docx", 24b:7942–7992),
+L43:   `halsey@minor.org`/`shannon@minor.org`/`jeff@lawfamily…lawfirm.com` ("Lance
+L44:   Emails .pdf", 24a:35445–35508). See §1(d).
+L45: - Provinziano lane (Halsey's own former counsel — context only): `al@`,
+L46:   `service@`, `sienna@`, `ashot@`, `ariana@`, `qijing@`, plus (new this pass,
+L47:   Gmail) `kj@`, `bill@`, `anapaula@`, `matt@`, `francesco@`, `news@` — all
+L48:   @provinziano.com; one bounced typo `bill@provisiano.com` (12/18/2025,
+L49:   mailer-daemon, U).
+L50: - Halsey-side numbers the firm called for ex parte notice (his own, per
+L51:   Sirriyeh 6/23/2025 and the court caption at 24a:26431): (415) 531-2080,
+L52:   (415) 376-2080, (415) 376-3000.
+```
 
 ---
 
@@ -86,7 +119,7 @@ Conventions: text inside “ ” is verbatim from this file (line wraps collapse
 | B46 | `24c:8296–8312` (L77, L253) | “a *Spiegel supplemental declaration* quotes Halsey WhatsApp messages of 6/18/24 and 6/24/24 — Lance filed private WhatsApp content” (L77–78) | census only; declaration not identified by id or date |
 | B47 | `24a:40854` (L272) | “"didn't learn [the Vanguard accounts] existed until 2024, when Lance Spiegel casually referenced them in family court" (24a:40854, U — his own account)” (L270–272) | census (Halsey's own account) |
 | B48 | Identity sources in §0: `24a:5505–5573` (L29); `state_bar_complaint_spiegel .pdf, 24a:25495` (L30–31); `24b:9221`, `24a:38483` (L31–32); staff addresses “Gmail 10/31/2024”, “Gmail 7/23/2024”, “Gmail 7/14/2026” (L36) | see §2 above | census / Gmail without ids |
-| B49 | Drive folders named via `20_` inventory (L69–72) | “"LANCE REMOVAL RECORD" (created 2026-01-02), "OFFICIAL DOCUMENTS FROM LANCE", "LANCE FINAL" (2025-12-27), and the file "2024.01-02 Emails between client and OPC after Petition.pdf"” (L70–72) | Drive, no ids |
+| B49 | Drive folders named via `20_` inventory (L69–72) | “"LANCE REMOVAL RECORD" (created 2026-01-02), "OFFICIAL DOCUMENTS FROM LANCE", "LANCE FINAL" (2025-12-27), and the file "2024.01-02 Emails between client and OPC after Petition.pdf"” (L69–72) | Drive, no ids |
 | B50 | Addendum ids (L336–338): `192e4eb48f4671cf` (16 attachments), `192e4f2f43647e39`, `19a285a5f64bb0cb`, `19a2d8a2eedbbea8`, `199e40b0c7a5927e`, `199e45d488541702`, `19a3c147879af74a`, `19a46f5cb3cf5acf`, `19db2dc31208f02d`, `19a89ddcc887bba2`, `19b6cc55639bdc93`, `19b70bba0694f1d9` | see §5 verbatim | primary |
 | B51 | Records demand text (L244–245) | “(CPRA/63B: "any communications between BHPD personnel and attorney Lance Spiegel or his office")” (L244–245) | work-product pointer to a demand |
 
@@ -158,7 +191,33 @@ Category roll-up for this file:
 
 Fabricated "Lance correspondence" artifacts — §1(d) copied verbatim (L119–143):
 
-@@VERBATIM 119 143@@
+```text
+L119: ### (d) Fabrication-risk artifacts surfaced by this pass (D-13 duty to flag)
+L120: Three AI-generated "Lance correspondence" reconstructions sit in the Drive
+L121: census with **placeholder addresses and impossible dates**; none may ever be
+L122: cited as evidence, and their existence must be disclosed wherever email
+L123: authenticity is at issue (they are exactly the genre the §271 Exhibit-F
+L124: finding — OPERATING_CONDITIONS §7.6 hard gate — makes radioactive):
+L125: 1. **"Lance Requests.txt"** (Drive 1nVa6WptORYd3Goaf8VRyVwPdJ-NDMnCK, created
+L126:    2025-10-22; text at 24a:34615–34691, 35001–35107): COMM-001..003 dated
+L127:    "Oct 15, 2023", "Nov 5, 2023", "Nov 20, 2023" from "user@gmail.com" to
+L128:    "lance.smith@email.com", body "Following up on the papers I was served
+L129:    with last week…" — **all three dates precede the 1/12/2024 petition and
+L130:    the 1/25/2024 first service; the mailbox shows zero firm traffic in 2023.**
+L131:    Fabricated log on its face.
+L132: 2. **"Lance Emails .pdf"** (created 2025-10-29; 24a:35445–35508): thread
+L133:    reconstruction using halsey@minor.org / shannon@minor.org /
+L134:    jeff@lawfirm.com — placeholder domains.
+L135: 3. **"Doe v. Spiegel (No. 21STFL12345)"** (24c:7176–7178): the real case
+L136:    anonymized to "John Doe" with an invented case number and a "10/05/2023"
+L137:    DV-petition date. Template output, not a record.
+L138:    (The 63J-known 7b4ce150 log — 28 requests 8/10/2021–7/25/2023 with
+L139:    assistant "Janine" — is the same genre, already carried as J-12.)
+L140:    Related impeachment, new this pass: an AI "Gmail analysis" in the census
+L141:    (24b:8697) claims "2 email threads from Lance Spiegel in December 2023,
+L142:    January, or February 2024" — the live census refutes the December-2023
+L143:    possibility.
+```
 
 Other items the file flags (verbatim):
 - “fax printed both "(310) 877-5119" and "(310) 887-5119" in different captions (U, as printed).” (L25–26)
@@ -174,11 +233,26 @@ Other items the file flags (verbatim):
 - “the obvious source is Shannon (U)” (L254)
 - Uncertainty ledger, verbatim (L322–329):
 
-@@VERBATIM 322 329@@
+```text
+L322: Uncertainty ledger: dates taken from AI-generated logs inside the census
+L323: (7/1/2024 FL-105 quote; 10/14/2025; the 2026 CSV rows) are U until the named
+L324: Gmail headers are pulled; "April 24, 2026 hearing" (Bar complaint text)
+L325: conflicts with the 4/21 orders and is unresolved; the 7/21/2026 "locked me
+L326: out" line is an uninvestigated claim; fax number and keny@ysfamilylaw.co are
+L327: as-printed. FLAG-M items in §2 were recorded as dated events only; no
+L328: family-court merits harvested. Marsy's/682-654-647-day counts were not
+L329: touched (F-21 quarantine stands).
+```
 
 - Controlling addendum, verbatim (L334–338) — corrects the "12 subpoenas" count, withdraws the 10/14/2025 row, re-dates the 10/31 and 11/12 items:
 
-@@VERBATIM 334 338@@
+```text
+L334: ---
+L335: ## ADDENDUM 2026-09-03 (QA) — corrections from v3_parts/qa_Q09_Q14_Q16_lookups.md; body above NOT edited, this note controls
+L336: - §2 row 2024-10-31 ("Spiegel serves 12 Notices to Consumer + Subpoenas… via ShareFile"): the record is **SIXTEEN** Notice-to-Consumer subpoenas in ONE email [192e4eb48f4671cf, 16 attachments "2024-10-31 [P] Ntc.Cons.Doc.Subp.*.pdf": Abramson Saliba & Associates · Vivid Labs Holdings, Inc. · Live Planet, Inc. · Life Lab Ventures, LLC · Uphold, Inc. · Uphold HQ, Inc. · Ally Bank · Ally Financial Inc. · Ally Servicing LLC · Wells Fargo Bank, N.A. · Banc of California · First-Citizens Bank & Trust Company · Goldman Sachs Bank USA · Capital One, N.A. · SoFi Lending Corp. · Truist Bank]; the ShareFile link is the 4:39 PM size-bounce RESEND of the same sixteen [192e4f2f43647e39], not a second set. "12" was a truncated read of the same email; "28" is the Exhibit-F request count [19a285a5f64bb0cb; 19a2d8a2eedbbea8]. Never "28 targets", never "16 + 12". Vanguard: 0 hits across all 31 messages of the thread.
+L337: - §2 row 2025-10-14 and §3 parallel-timing line "10/14/2025 (unanswered demand to Lance for the original disclosure email)": **WITHDRAWN** (spine E3-076) — no such email exists in the mailbox (searched in:anywhere 2026-09-03); source was an AI-generated index (24a:33550). The only 10/14/2025 firm exchange is thread 199e40b0c7a5927e (Petitioner's Responsive Declaration to the 9/8/25 RFO; "Are you missing a page…?" / "No, that was the complete document." 199e45d488541702).
+L338: - §3 "10/31 Exhibit-2 declaration → 11/12 RFO met by Spiegel's it-never-happened declaration": **10/31/2025 = the LDA's DRAFT** [19a3c147879af74a]; signed 11/2 [19a46f5cb3cf5acf]; **FILED 11/12/2025** per the 4/21/2026 minute order [via 19db2dc31208f02d]; mailed 11/15 [19a89ddcc887bba2]. **11/12/2025 is HALSEY's RFO** — no Spiegel declaration exists on that date; Spiegel's sworn "did not in fact occur" declaration is **≥12/29/2025** [19b6cc55639bdc93 / 19b70bba0694f1d9]. The court's exhibit label is **"Exhibit F"**, not "Exhibit 2".
+```
 
 READER CROSS-FILE FLAGS (discrepancies, not resolved here):
 1. “six 4/21 minute orders” (L193) and “all six 4/21 orders” (L196) vs CANON.md L74–75 / KNOWN_FALSE.txt F-08 ("FOUR").
@@ -207,7 +281,7 @@ READER CROSS-FILE FLAGS (discrepancies, not resolved here):
 - “content unread — native PDFs named for pull” (L171)
 - “(U — superseded by the 4/21 orders; conflict noted, not resolved)” (L193)
 - “U whether bounced” (L205)
-- “the question remains open and is already framed as a records demand (CPRA/63B: "any communications between BHPD personnel and attorney Lance Spiegel or his office")” (L243–245)
+- “the question remains open and is already framed as a records demand (CPRA/63B: "any communications between BHPD personnel and attorney Lance Spiegel or his office")” (L242–245)
 - “(iv) The two-person police-report-summary custody question: **no new evidence either way**; it remains the hypothesis under test via BHPD access logs (81_ §6.5 discipline unchanged).” (L264–267)
 - “If the register can date that hearing, it dates Spiegel's knowledge of the Vanguard accounts — the same accounts in the theft referral — from Shannon-side sources. A checkable lead, not a finding.” (L272–275)
 - The uncertainty ledger (L322–329, verbatim in §5).
