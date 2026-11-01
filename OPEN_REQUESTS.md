@@ -25,7 +25,7 @@ Rules:
 | Needed for | Document | Holder | Lawful route (Halsey decides; W-items) |
 |---|---|---|---|
 | Behavior (c) | Each proof of service for the papers in the 2/24/2026 bundle (declared date, method, declarant, place of execution) | LASC court file; Halsey's served copies | Certified copies from the clerk; Halsey's own copies |
-| Behavior (c) | The ten envelopes themselves, their outer package, and the tracking number on the "JAN 30, 2026 · $29.70 · Retail" label | Halsey (physical items) | Preservation by Halsey (Q-H1); examination under FORENSIC_BRIEF-style custody |
+| Behavior (c) | The ten envelopes themselves, their outer package, and the tracking number on the "JAN 30, 2026 · $29.70 · Retail" label | Halsey (physical items) | Preservation by Halsey (Q-H4); examination under FORENSIC_BRIEF-style custody |
 | Behavior (c) | USPS acceptance and scan history for that label; the firm's postage-vendor or meter records for December 2025 – January 2026 | USPS; the firm | USPS records by legal process (law enforcement), or the civil process's subpoena to the firm (D-66 assigns subpoenas to Spiegel's firm to the civil process) |
 | Behavior (f) | Exhibits 18–19 of Spiegel's 4/18/2025 supplemental declaration: "correspondence to the Beverly Hills Police Department from Respondent's counsel" and "My response dated April 16, 2025" | LASC file; Halsey's served copy (drive:1TAK-0STgnMnJ-94vKObIZ9ntq0KwaVxj, 16.4 MB, over this toolset's download cap) | Open the Drive file outside this toolset, or obtain a certified copy |
 | Behavior (g) | The writ(s) and levy served on Ally, with issue dates and the case number | LASC; the levying officer; Ally | Schwenke's copies (R-8); the court file; Ally (R-7) |
