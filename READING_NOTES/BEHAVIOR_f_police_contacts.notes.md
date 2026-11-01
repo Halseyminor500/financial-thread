@@ -14,7 +14,8 @@ Gmail scope note: the mailbox reached is the account shown in view URLs as `auth
 halsey2005@gmail.com and some halsey@minorventures.com mail). An absence below is an absence in this mailbox as searched.
 
 Drive search note: `fullText contains '…'` behaves as token matching, not exact-phrase matching (e.g. the query for
-'April 16, 2025' + 'Beverly Hills Police' returned 2011–2025 subpoenas and bank PDFs). Absences are stated with that limit.
+'April 16, 2025' + 'Beverly Hills Police' returned January–February 2025 SUBP-025 subpoenas, bank-record productions and
+unrelated reports). Absences are stated with that limit.
 
 ---
 
@@ -24,7 +25,7 @@ Drive search note: `fullText contains '…'` behaves as token matching, not exac
 |---|---|---|---|---|
 | R1 | Provinziano letter to BHPD ("Exhibit E Provinziano Letter to Police.pdf") | Drive 1CuG6-SmmKcATPmM5x-PPhmpB0CDoj19T (folder 1veFjTj9J2gruDcbWh0L-iqsXjj6IuPKt) | 414,452 B, 3 pp., sha256 a1d1ea964fbe401d2a335bbba8e332b09ae886100f73984a8f8168f2e93a38f5 | **read in full** (Drive reader + local pdftotext + all 3 pages viewed as images; signature area at 150 dpi) |
 | R2 | Same letter + enclosures ("25.03.27, LT BHPD, Minor, Halsey.pdf") | Drive 1uMCxG28q4VOkEWy6EEI4RZTb_R5AsTat | 11,409,429 B | letter portion (first 39 reader lines) compared word-for-word with R1: **849/849 words identical**; enclosed bank statements NOT read |
-| R3 | Petitioner's Supplemental Pleadings e-filed 4/18/2025 | Drive 1TAK-0STgnMnJ-94vKObIZ9ntq0KwaVxj (and ≥12 same-size copies, §2.4) | 16,443,000 B | re-read via Drive reader 2026-11-01: ¶7 context, exhibit tabs, police mentions and END POINT examined; the 117,946-char text was NOT re-read word-for-word this session. Download refused (§2.4) |
+| R3 | Petitioner's Supplemental Pleadings e-filed 4/18/2025 | Drive 1TAK-0STgnMnJ-94vKObIZ9ntq0KwaVxj (and 23 other same-size copies listed in §2.4) | 16,443,000 B | re-read via Drive reader 2026-11-01: ¶7 context, exhibit tabs, police mentions and END POINT examined; the 117,946-char text was NOT re-read word-for-word this session. Download refused (§2.4) |
 | R4 | Same filing, other copy ("25.05.12m, petitioner's supplemental .pdf") | Drive 1y5-lA6tdj6h6lSAiyh-6Igp93EaP9VZe | 11,347,637 B | reader text is byte-identical to R3's (sha256 0e05e578…1684 for both) |
 | R5 | Respondent's Evidentiary Objections to Spiegel Supplemental Decl., filed 5/7/2025 | Drive 1MfD4MDKs2AS95fedykejGvPAuqSe3faU | 1,658,162 B | read in full (reader) |
 | R6 | Same, [Proposed] order version ("05.07.25 Objection Opc, Minor (2).pdf") | Drive 1A0NJiPHhqqxMtAW3C4TQBCzyF7_P54__ | 1,592,130 B | read in full (reader) |
@@ -65,7 +66,8 @@ Drive search note: `fullText contains '…'` behaves as token matching, not exac
   Letterhead (p. 1 image): Provinziano & Associates, 8888 W Olympic Blvd, Suite 100, Beverly Hills, CA 90211.
 - **Spiegel is not named anywhere in the letter.** No BHPD case number appears in the letter.
 
-Every sentence naming Shannon Minor ("Ms. Minor"), the police matter, or asking the police for anything (verbatim):
+Every sentence naming Shannon Minor ("Ms. Minor"), the police matter, or asking the police for anything (verbatim; sentences 5
+and 9 do not name her and are included only for continuity):
 1. "I hope this letter finds you well. My office represents Mr. Halsey Minor in his family law matter in the Los Angeles
    Superior Court and I am writing on behalf of Mr. Minor to respectfully request your assistance in investigating the
    criminal conducts of Ms. Shannon Minor and her mother, Ms. Joyce Flaherty."
@@ -183,7 +185,7 @@ Spiegel ↔ police communication).
 | `title contains '2025-04-16'` | 13 hits: Stripe receipts, other-date photo folders. Nothing relevant. |
 | `title contains 'Exhibit 19'` | "2025-08-05__ysfamilylaw.com__Exhibit 19.pdf" (R11) + 2011/2013 jgmlaw exhibits, demand letters. R11 = a DIFFERENT exhibit (DVRO-hearing Exhibit 19, = R10 item "19 EMAIL FROM RESPONDENT TO LANCE SPIEGEL DATED JUNE 12, 2025"): Halsey's 6/12/2025 email "FORMAL LEGAL DEMAND: Immediate Return of $450,000 Vanguard Funds…" + demand letter, stamped "Exhibit 019 - 001…004". No police content. |
 | `title contains 'Spiegel' and title contains 'police'` | 5 copies (72,776 B) of "Spiegel, The Beverly Hills Police Department, and City Administration- FORMAL NO.pdf" (1HkeOnWnsD5H4tezFrB8O6meC2XAq_FzF, 14Qmxohu7rpUVzdryRJ_jykV-GTMgYL88, 1QLbo0XxLHdW6UOlgdC6gyu4k078LSrNF, 1eepf2lO-s7GlTaakKkb4gtrud-DVihit, 1y-wNQaVS7KA8BUmiN0wgJXog6wT-IGpW). Not opened as files; title = subject of Halsey's 1/5/2026 email (Gmail thread 19b8f1dd4d7a670c), whose text is quoted inside Kalé's reply 19b8fbc478f4e54b (read, §3.3). Halsey-authored. |
-| `fullText contains 'April 16, 2025' and fullText contains 'Beverly Hills Police'` | >800 hits (token matching). 8 pages × 100 reviewed by title (more pages remained). Primary documents opened from it: R5, R6, R7, R13, R14, R15, R18, R19, R20, R2, R4 and R11/R12 siblings. The rest by title are Halsey-authored or AI-generated (Officer_Kale_Report_Footnoted_v2 copies, "Forenisic Kale", Marsy's Law dashboards, §1983 complaint drafts, docket alerts) — AI-LEAD/Halsey, not opened. |
+| `fullText contains 'April 16, 2025' and fullText contains 'Beverly Hills Police'` | >800 hits (token matching). 8 pages × 100 reviewed by title (more pages remained). Primary documents opened from it: R2, R4, R5, R6, R13, R14, R15, R18, R19, R20 (R7, R11, R12 came from other queries). The rest by title are Halsey-authored or AI-generated (Officer_Kale_Report_Footnoted_v2 copies, "Forenisic Kale", Marsy's Law dashboards, §1983 complaint drafts, docket alerts) — AI-LEAD/Halsey, not opened. |
 | `title contains '2025-04-18'` | 2025-04-18 exports from gmail.com (advisory letter R16), wzwlh.com, sensortower.com, vividlabs.com, invites. **No `2025-04-18__ysfamilylaw.com__…` export exists.** |
 | `title contains 'ysfamilylaw' and title contains '2025-04'` | Only 2025-08-04/-06/-07 exports (token match). **No April-2025 ysfamilylaw.com export.** |
 | `title contains 'Supplemental' and title contains '2025'` | 5: R4 and its 5/12 sibling "05.12.25, Further supplemental" (= R8 text), Halsey's 8/5/2025 supplemental decl. docx, "OP's Further Supplemental Declaration filed 4-25-2025.pdf" ×2 (1h9aRiPXfKUTtedj99C_rdYVKwbPWin0k, 17A4o_rqohxsqp9AXP8W7hNKCGLmFSbYf — not opened by me; read by the behavior b/e reader per its notes). |
@@ -197,7 +199,7 @@ Spiegel ↔ police communication).
 ### 2.6 Route (b): Gmail
 | Query / message | Result (read status) |
 |---|---|
-| `from:provinziano.com after:2025/04/15 before:2025/04/25` | 24 threads. Read in full: 1963a8d33bb44485, 1963a308a1448a04, 196456fb137d13a6, 1964673d782c571f, 1963a0090269b096, 1963bfe8103284f9, 1963b03dcdc4e1e3, 1965b3cdbb62dd03, 1963c1040d30a60d, 19645f45a20413b3, 1963717d673d64b3, 1965ff0f787e687a. NOT opened (titles: deposition reminder/Zoom link, FL-150 draft, April payments, Snyder engagement resend 19659774aed39c64, call invites, ownership interests, and four Provinziano auto-replies): 1963a3f86ac9b061, 1966a3a7a5d06846, 196410c00aa74065, 19659774aed39c64, 196454da29477310, 1964495ebffa4654, 1963a68a38683dca, 19636d6bfb2befd9, 1964495323066b86, 1965a7ba362e6a73, 1965972995e5bc49, 1963f6c05b005be7. None of the 12 read mentions an April 16 letter from Spiegel or attaches one. |
+| `from:provinziano.com after:2025/04/15 before:2025/04/25` | 24 threads. Read in full: 1963a8d33bb44485, 1963a308a1448a04, 196456fb137d13a6, 1964673d782c571f, 1963a0090269b096, 1963bfe8103284f9, 1963b03dcdc4e1e3, 1965b3cdbb62dd03, 1963c1040d30a60d, 19645f45a20413b3, 1963717d673d64b3, 1965ff0f787e687a. NOT opened (subjects: deposition reminder / Zoom link, FL-150 draft, April payments, Snyder engagement resend 19659774aed39c64, call scheduling / calendar invite, ownership interests, and four whose subjects begin "Thank You/Thank you for your e-mail"): 1963a3f86ac9b061, 1966a3a7a5d06846, 196410c00aa74065, 19659774aed39c64, 196454da29477310, 1964495ebffa4654, 1963a68a38683dca, 19636d6bfb2befd9, 1964495323066b86, 1965a7ba362e6a73, 1965972995e5bc49, 1963f6c05b005be7. None of the 12 read mentions an April 16 letter from Spiegel or attaches one. |
 | G: 1963a8d33bb44485 "Exhibits - Lance Spiegel", 2025-04-15 17:44Z, anapaula@provinziano.com → halsey2005@gmail.com, bill@provinziano.com | Full text: "Mr Halsey, Please see below link to the exhibits for today’s deposition sent by Lance office. https://ysfamilylaw.sharefile.com/d-sd7a869eb88944f8986ce5fe24770fcc5" (deposition exhibits; link not opened). |
 | G: 1963a308a1448a04 "Fwd: Minor", 2025-04-15 16:02Z, bill@provinziano.com → halsey2005 | Forward of Paul Foor (paulf@ysfamilylaw.com), Mon Apr 14 2025, to Provinziano addresses, cc "Lance Spiegel <lances@ysfamilylaw.com>, Matt V. Sirriyeh": Lexitas Zoom link for "Halsey Minor (REMOTE DEPOSITION W/ VIDEO & REALTIME) … Time: 4/15/2025 10:00 AM". No police content. |
 | G: 196456fb137d13a6 (advisory letter email, 2025-04-17 20:27Z) + R16 | Email body: "Please find attached an advisory letter from our office outlining key points following the deposition on April 15, 2025, as well as other relevant information regarding your case." R16 §V quoted in §2.7. |
@@ -310,8 +312,8 @@ email / attachments THE_SECOND_REPORT_FINAL_REPORT.pdf and PRESERVATION_DEMAND.p
     sharing between any BHPD personnel and Lance Spiegel (attorney for Shannon Minor), Shannon Minor, or any representative of
     either, from January 1, 2024 to present, regarding BHPD Case No. 2025-14983 or any matter involving Halsey Minor. This
     includes emails, phone logs, call records, meeting notes, and visitor logs."
-- BHPD answer, R21 (letter dated "October 9, 2026", signed block "Vanessa Rivas, Acting Records Supervisor … Keasha Cooks,
-  Records Manager, Custodian of Records"), p. 4, verified on the page image:
+- BHPD answer, R21 (letter dated "October 9, 2026"; closing block names "Vanessa Rivas" (Acting Records Supervisor) and "Keasha
+  Cooks, Records Manager, Custodian of Records" — text layer of the closing is scrambled), p. 4, verified on the page image:
   > "6. “Contact with Lance Spiegel and Shannon Minor . . .”
   > • The Department has identified records responsive to this part of the request, however, such communications are exempt
   > from disclosure pursuant to Government Code section 7923.600."
